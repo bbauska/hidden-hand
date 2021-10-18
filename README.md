@@ -7,10 +7,10 @@ There are more things in heaven and earth, Horatio,
 Than are dreamt of in your philosophy.
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
+---
+[**Table of Contents**](#hidden-hand-toc)
 
-[**Jump to TOC**](#hidden-hand-toc)
-
-[**Hidden Hand git**](https://github.com/bbauska/hidden-hand.git)
+[**Hidden Hand (this) git**](https://github.com/bbauska/hidden-hand.git)
 <article>
 <header>
 <h2><a name="hidden-hand-toc">Table of Contents</h2>
@@ -32,11 +32,13 @@ others. The shadowy world of UFOs is suddenly brought to light.
 </blockquote>
 —James Carman
 </article>
-
+...
 ---
 Albert Einstein
 
 [**`^        back to top        ^`**](#)
+...
+
 ---
 Victor Hugo
 <article>
@@ -62,318 +64,340 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 Richard Dolan
 
 Self - Author. UFOs & The National Security State
+[**`^        back to top        ^`**](#)
+ 
+...
 
 ---
 
 Whitley Strieber
-...
 
 Self - Author, Communion
+[**`^        back to top        ^`**](#)
+ 
+...
 
 ---
 
 Robert Dean
 
-...
-
 Self - Retired U.S. Army Command Sergeant Major
+[**`^        back to top        ^`**](#)
+ 
+...
 
 ---
 
 Stanton Friedman
 
-...
-
 Self - Author, Flying Saucers & Science
+[**`^        back to top        ^`**](#)
 
 ---
 
 Paola Harris
 
 Self - Author, Connecting the Dots
+[**`^        back to top        ^`**](#)
 
 ---
 
 Joni Strother
 
 Self - Abductee
+[**`^        back to top        ^`**](#)
 
 ---
 Roger Leir
 
-...
-
 Self - Author, The Aliens and the Scalpel
+[**`^        back to top        ^`**](#)
 
+...
+---
 Jim Sparks
 
-...
-
 Self - Author, The Keepers
+[**`^        back to top        ^`**](#)
 
 Niara Isley
-
-Niara Isley
+Self - Abductee
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Abductee
+---
 
 Lyn Buchanan
+Self - Director, The PSI Institute
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Director, The PSI Institute
+---
 
 Nassim Haramein
+Self - Director, The Resonance Project Foundation
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Director, The Resonance Project Foundation
+---
 
 David Jacobs
+Self - Historian & Hypnotherapist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Historian & Hypnotherapist
+---
 
 Nick Pope
+Self - Former Head of the British Government's UFO Project
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Former Head of the British Government's UFO Project
+---
 
 Milton Torres
+Self - Former USAF Fighter Pilot & Astronaut
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Former USAF Fighter Pilot & Astronaut
+---
 
 Edgar D. Mitchell
+Self - Former Astronaut
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Former Astronaut
+---
 
 James Penniston
+Self - Sergeant USAF Retired
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Sergeant USAF Retired
+---
 
 David Icke
-
-...
-
 Self - Author, The Biggest Secret
-
-Jaime Maussan
-
-Jaime Maussan
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Jaime Maussan
 Self - TV Producer
-
-John B. Alexander
-
-John B. Alexander
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+John B. Alexander
 Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
-
-Paul Hellyer
-
-Paul Hellyer
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Paul Hellyer
 Self - Former Canadian Defense Secretary
-
-Charles Hall
-
-Charles Hall
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Charles Hall
 Self - Retired US Army Duty Weather Observer
-
-David Huggins
-
-David Huggins
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+David Huggins
 Self - Painter & Experiencer
-
-Clifford E. Stone
-
-Clifford E. Stone
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Clifford E. Stone
 Self - Retired US Army Sergeant
-
-Derrel W. Sims
-
-Derrel W. Sims
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Derrel W. Sims
 Self - Private Investigator
-
-James Gilliland
-
-James Gilliland
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+James Gilliland
 Self - Director, ECETI
+[**`^        back to top        ^`**](#)
+
+...
+---
 
 Budd Hopkins
+Self - Ufologist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Ufologist
+---
 
 
 Philip J. Corso
-
-...
-
 Self - Chief of Pentagon Foreign Technology Desk (archive footage)
-
-Gordon Novel
-
-Gordon Novel
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Gordon Novel
 Self - Former CIA Operative
-
-Jim Marrs
-
-Jim Marrs
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Jim Marrs
 Self - Author, Alien Agenda
-
-Linda Moulton Howe
-
-Linda Moulton Howe
+[**`^        back to top        ^`**](#)
 
 ...
+---
 
+Linda Moulton Howe
 Self - TV Producer
+[**`^        back to top        ^`**](#)
+
+...
+---
 
 Dan Burisch
+Self - Retired Government Microbiologist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Retired Government Microbiologist
+---
 
 Graham Hancock
+Self - Author, Fingerprints of the Gods
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Author, Fingerprints of the Gods
+---
 
 Melinda Leslie
+Self - Researcher & Abductee
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Researcher & Abductee
+---
 
 Jesse Long
+Self - Abductee
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Abductee
+---
 
 Yvonne Smith
+Self - Hypnotherapist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Hypnotherapist
+---
 
 Marc Brinkerhoff
+Self - Contactee & Artist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Contactee & Artist
+---
 
 Shelley Yates
+Self - Director, Fire the Grid
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Director, Fire the Grid
+---
 
 Julian Michael
+Self - Hypnotherapist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Hypnotherapist
+---
 
 J.J. Hurtak
+Self - Author, The Keys of Enoch
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Author, The Keys of Enoch
+---
 
 Melissa Reid
+Self - Experiencer & Artist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Experiencer & Artist
+---
 
 Jeremy Vaeni
+Self - Experiencer & Writer
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Experiencer & Writer
+---
 
 Farah Yurdozu
 
-...
-
 Self - Experiencer & Researcher
+[**`^        back to top        ^`**](#)
+
+...
+---
 
 Posey Gilbert
+Self - Experiencer
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Experiencer
+---
 
 Alan White
+Self - Experiencer & Composer
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Experiencer & Composer
+---
 
 Harold Egeln
+Self - Experiencer & Journalist
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Experiencer & Journalist
+---
 
 Stephen Bassett
+Self - Director, Paradigm Research Group
+[**`^        back to top        ^`**](#)
 
 ...
-
-Self - Director, Paradigm Research Group
+---
 
 Rest of cast listed alphabetically:
 
 Richard Campbell
 
-...
-
 Major Desmond Morton
 
 Andrew von Urtz
 
-...
-
 Alien
+[**`^        back to top        ^`**](#)
+
+...
+---
