@@ -1,6 +1,3 @@
-# hidden-hand
-
-UFO materials, information, authors, abductees, and more.
 # The Hidden Hand - Alien Contact and the Government Coverup
 --James Carman
 
@@ -28,12 +25,13 @@ https://github.com/bbauska/hidden-hand.git
 </p>
 —James Carman
 
+---
 ### Witley Strieber
-
+---
 Albert Einstein
 
 [**`^        back to top        ^`**](#)
-
+---
 Victor Hugo
 
 ### Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
@@ -45,6 +43,10 @@ Victor Hugo
 
 ...
 
+Chuck Weiss
+How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
+
+---
 Richard Dolan
 
 ...
