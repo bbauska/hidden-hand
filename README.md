@@ -1,11 +1,12 @@
 # The Hidden Hand - Alien Contact and the Government Coverup
---James Carman
+--James Carman (2008)
 
 ---
 
 <blockquote>
 There are more things in heaven and earth, Horatio,
 Than are dreamt of in your philosophy.
+<br>
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
 
