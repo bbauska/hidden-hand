@@ -2,16 +2,18 @@
 --James Carman
 
 ---
+
 <blockquote>
 There are more things in heaven and earth, Horatio,
 Than are dreamt of in your philosophy.
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
+
 ---
+
 [**Table of Contents**](#hidden-hand-toc)
 
 [**Hidden Hand (this) git**](https://github.com/bbauska/hidden-hand.git)
-<article>
 <header>
 <h2><a name="hidden-hand-toc">Table of Contents</h2>
 </header>
@@ -31,9 +33,11 @@ Lyn Buchanan, Clifford Stone, Nassim Haramein, David Icke, Dr. Roger Leir, Graha
 others. The shadowy world of UFOs is suddenly brought to light.
 </blockquote>
 —James Carman
-</article>
+
 ...
+
 ---
+
 Albert Einstein
 
 [**`^        back to top        ^`**](#)
