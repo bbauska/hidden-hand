@@ -5,11 +5,9 @@
 
 [**Jump to TOC**](#hidden-hand-toc)
 
-https://github.com/bbauska/hidden-hand.git
+[**self**](https://github.com/bbauska/hidden-hand.git)
 
 <h2><a name="hidden-hand-toc">Table of Contents</h2>
-<p>
-1. The Hidden Hand
 <p>
 > The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
 > presence here on Earth. The film takes a keen look at a spectrum of topics like alien abduction, human/alien 
