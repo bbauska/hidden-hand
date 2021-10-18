@@ -67,7 +67,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 ---
 Richard Dolan
 
-Self - Author. UFOs & The National Security State
+- Author. UFOs & The National Security State
 
 [**`^        back to top        ^`**](#)
 
@@ -77,7 +77,7 @@ Self - Author. UFOs & The National Security State
 
 Whitley Strieber
 
-Self - Author, Communion
+- Author, Communion
 
 [**`^        back to top        ^`**](#)
  
@@ -87,7 +87,7 @@ Self - Author, Communion
 
 Robert Dean
 
-Self - Retired U.S. Army Command Sergeant Major
+- Retired U.S. Army Command Sergeant Major
 
 [**`^        back to top        ^`**](#)
  
@@ -97,7 +97,7 @@ Self - Retired U.S. Army Command Sergeant Major
 
 Stanton Friedman
 
-Self - Author, Flying Saucers & Science
+- Author, Flying Saucers & Science
 
 [**`^        back to top        ^`**](#)
 
@@ -105,7 +105,7 @@ Self - Author, Flying Saucers & Science
 
 Paola Harris
 
-Self - Author, Connecting the Dots
+- Author, Connecting the Dots
 
 [**`^        back to top        ^`**](#)
 
@@ -113,14 +113,14 @@ Self - Author, Connecting the Dots
 
 Joni Strother
 
-Self - Abductee
+- Abductee
 
 [**`^        back to top        ^`**](#)
 
 ---
 Roger Leir
 
-Self - Author, The Aliens and the Scalpel
+- Author, The Aliens and the Scalpel
 
 [**`^        back to top        ^`**](#)
 
@@ -128,12 +128,12 @@ Self - Author, The Aliens and the Scalpel
 ---
 Jim Sparks
 
-Self - Author, The Keepers
+- Author, The Keepers
 
 [**`^        back to top        ^`**](#)
 
 Niara Isley
-Self - Abductee
+- Abductee
 
 [**`^        back to top        ^`**](#)
 
@@ -141,7 +141,7 @@ Self - Abductee
 ---
 
 Lyn Buchanan
-Self - Director, The PSI Institute
+- Director, The PSI Institute
 
 [**`^        back to top        ^`**](#)
 
@@ -149,7 +149,7 @@ Self - Director, The PSI Institute
 ---
 
 Nassim Haramein
-Self - Director, The Resonance Project Foundation
+- Director, The Resonance Project Foundation
 
 [**`^        back to top        ^`**](#)
 
@@ -157,7 +157,7 @@ Self - Director, The Resonance Project Foundation
 ---
 
 David Jacobs
-Self - Historian & Hypnotherapist
+- Historian & Hypnotherapist
 
 [**`^        back to top        ^`**](#)
 
@@ -165,7 +165,7 @@ Self - Historian & Hypnotherapist
 ---
 
 Nick Pope
-Self - Former Head of the British Government's UFO Project
+- Former Head of the British Government's UFO Project
 
 [**`^        back to top        ^`**](#)
 
@@ -173,7 +173,7 @@ Self - Former Head of the British Government's UFO Project
 ---
 
 Milton Torres
-Self - Former USAF Fighter Pilot & Astronaut
+- Former USAF Fighter Pilot & Astronaut
 
 [**`^        back to top        ^`**](#)
 
@@ -181,84 +181,96 @@ Self - Former USAF Fighter Pilot & Astronaut
 ---
 
 Edgar D. Mitchell
-Self - Former Astronaut
+- Former Astronaut
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 James Penniston
-Self - Sergeant USAF Retired
+- Sergeant USAF Retired
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 David Icke
-Self - Author, The Biggest Secret
+- Author, The Biggest Secret
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Jaime Maussan
-Self - TV Producer
+- TV Producer
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 John B. Alexander
-Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
+- Non-Lethal Weapons Specialist (as Col. John B. Alexander)
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Paul Hellyer
-Self - Former Canadian Defense Secretary
+- Former Canadian Defense Secretary
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Charles Hall
-Self - Retired US Army Duty Weather Observer
+- Retired US Army Duty Weather Observer
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 David Huggins
-Self - Painter & Experiencer
+- Painter & Experiencer
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Clifford E. Stone
-Self - Retired US Army Sergeant
+- Retired US Army Sergeant
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Derrel W. Sims
-Self - Private Investigator
+- Private Investigator
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 James Gilliland
-Self - Director, ECETI
+- Director, ECETI
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Budd Hopkins
-Self - Ufologist
+- Ufologist
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -266,7 +278,8 @@ Self - Ufologist
 
 
 Philip J. Corso
-Self - Chief of Pentagon Foreign Technology Desk (archive footage)
+- Chief of Pentagon Foreign Technology Desk (archive footage)
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -294,113 +307,128 @@ Self - TV Producer
 ---
 
 Dan Burisch
-Self - Retired Government Microbiologist
+- Retired Government Microbiologist
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Graham Hancock
-Self - Author, Fingerprints of the Gods
+- Author, Fingerprints of the Gods
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Melinda Leslie
-Self - Researcher & Abductee
+- Researcher & Abductee
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Jesse Long
-Self - Abductee
+- Abductee
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Yvonne Smith
-Self - Hypnotherapist
+- Hypnotherapist
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Marc Brinkerhoff
-Self - Contactee & Artist
+- Contactee & Artist
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Shelley Yates
-Self - Director, Fire the Grid
+- Director, Fire the Grid
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Julian Michael
-Self - Hypnotherapist
+- Hypnotherapist
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 J.J. Hurtak
-Self - Author, The Keys of Enoch
+- Author, The Keys of Enoch
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Melissa Reid
-Self - Experiencer & Artist
+- Experiencer & Artist
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Jeremy Vaeni
-Self - Experiencer & Writer
+- Experiencer & Writer
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Farah Yurdozu
+- Experiencer & Researcher
 
-Self - Experiencer & Researcher
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Posey Gilbert
-Self - Experiencer
+- Experiencer
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Alan White
-Self - Experiencer & Composer
+- Experiencer & Composer
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Harold Egeln
-Self - Experiencer & Journalist
+- Experiencer & Journalist
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Stephen Bassett
-Self - Director, Paradigm Research Group
+- Director, Paradigm Research Group
+
 [**`^        back to top        ^`**](#)
 
 ...
