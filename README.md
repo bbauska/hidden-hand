@@ -68,8 +68,9 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 Richard Dolan
 
 Self - Author. UFOs & The National Security State
+
 [**`^        back to top        ^`**](#)
- 
+
 ...
 
 ---
@@ -77,6 +78,7 @@ Self - Author. UFOs & The National Security State
 Whitley Strieber
 
 Self - Author, Communion
+
 [**`^        back to top        ^`**](#)
  
 ...
@@ -86,6 +88,7 @@ Self - Author, Communion
 Robert Dean
 
 Self - Retired U.S. Army Command Sergeant Major
+
 [**`^        back to top        ^`**](#)
  
 ...
@@ -95,6 +98,7 @@ Self - Retired U.S. Army Command Sergeant Major
 Stanton Friedman
 
 Self - Author, Flying Saucers & Science
+
 [**`^        back to top        ^`**](#)
 
 ---
@@ -102,6 +106,7 @@ Self - Author, Flying Saucers & Science
 Paola Harris
 
 Self - Author, Connecting the Dots
+
 [**`^        back to top        ^`**](#)
 
 ---
@@ -109,12 +114,14 @@ Self - Author, Connecting the Dots
 Joni Strother
 
 Self - Abductee
+
 [**`^        back to top        ^`**](#)
 
 ---
 Roger Leir
 
 Self - Author, The Aliens and the Scalpel
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -122,10 +129,12 @@ Self - Author, The Aliens and the Scalpel
 Jim Sparks
 
 Self - Author, The Keepers
+
 [**`^        back to top        ^`**](#)
 
 Niara Isley
 Self - Abductee
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -133,6 +142,7 @@ Self - Abductee
 
 Lyn Buchanan
 Self - Director, The PSI Institute
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -140,6 +150,7 @@ Self - Director, The PSI Institute
 
 Nassim Haramein
 Self - Director, The Resonance Project Foundation
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -147,6 +158,7 @@ Self - Director, The Resonance Project Foundation
 
 David Jacobs
 Self - Historian & Hypnotherapist
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -154,6 +166,7 @@ Self - Historian & Hypnotherapist
 
 Nick Pope
 Self - Former Head of the British Government's UFO Project
+
 [**`^        back to top        ^`**](#)
 
 ...
@@ -161,6 +174,7 @@ Self - Former Head of the British Government's UFO Project
 
 Milton Torres
 Self - Former USAF Fighter Pilot & Astronaut
+
 [**`^        back to top        ^`**](#)
 
 ...
