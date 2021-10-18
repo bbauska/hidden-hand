@@ -45,10 +45,10 @@ Albert Einstein
 
 ---
 Victor Hugo
-<article>
+<p>
 Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
-</article>
+</p>
 
 [**`^        back to top        ^`**](#)
  
@@ -56,9 +56,9 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 
 ---
 Chuck Weiss
-<article>
+<p>
 How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
-</article>
+</p>
 
 [**`^        back to top        ^`**](#)
  
