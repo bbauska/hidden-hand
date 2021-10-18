@@ -29,34 +29,32 @@ others. The shadowy world of UFOs is suddenly brought to light.
 </article>
 
 ---
-### Witley Strieber
----
 Albert Einstein
 
 [**`^        back to top        ^`**](#)
 ---
 Victor Hugo
-
-### Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
-### pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
-
+<article>
+Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
+pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
+</article>
 
 [**`^        back to top        ^`**](#)
  
 ...
 
 ---
-
 Chuck Weiss
+<article>
 How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
+</article>
 
 [**`^        back to top        ^`**](#)
  
+...
 
 ---
 Richard Dolan
-
-...
 
 Self - Author. UFOs & The National Security State
 
