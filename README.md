@@ -5,20 +5,21 @@
 
 [**Jump to TOC**](#hidden-hand-toc)
 
-[**self**](https://github.com/bbauska/hidden-hand.git)
+[**Hidden Hand git**](https://github.com/bbauska/hidden-hand.git)
 
 <h2><a name="hidden-hand-toc">Table of Contents</h2>
-<p>
-> The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
-> presence here on Earth. The film takes a keen look at a spectrum of topics like alien abduction, human/alien 
-> hybridization, the military's reverse-engineering of alien technology and the government cover-up of anything related to 
-> extraterrestrials.
-> Is preoccupation with E.T.'s a form of cultural madness, or is something really going on? How would E.T. contact 
-> change the religious and political institutions of our society? The Hidden Hand is full of riveting interviews 
-> with experts and experiencers alike: Whitley Strieber, Dr. Edgar Mitchell, the 6th astronaut on the moon, 
-> Paul Hellyer, a former Canadian Defence Minister, Richard Dolan, Jim Marrs, Linda Moulton Howe, Col. John Alexander, 
-> Lyn Buchanan, Clifford Stone, Nassim Haramein, David Icke, Dr. Roger Leir, Graham Hancock and Paola Harris, among 
-> others. The shadowy world of UFOs is suddenly brought to light.
+<blockquote>
+The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
+presence here on Earth. The film takes a keen look at a spectrum of topics like alien abduction, human/alien 
+hybridization, the military's reverse-engineering of alien technology and the government cover-up of anything related to 
+extraterrestrials.
+</blockquote>
+Is preoccupation with E.T.'s a form of cultural madness, or is something really going on? How would E.T. contact 
+change the religious and political institutions of our society? The Hidden Hand is full of riveting interviews 
+with experts and experiencers alike: Whitley Strieber, Dr. Edgar Mitchell, the 6th astronaut on the moon, 
+Paul Hellyer, a former Canadian Defence Minister, Richard Dolan, Jim Marrs, Linda Moulton Howe, Col. John Alexander, 
+Lyn Buchanan, Clifford Stone, Nassim Haramein, David Icke, Dr. Roger Leir, Graham Hancock and Paola Harris, among 
+others. The shadowy world of UFOs is suddenly brought to light.
 </p>
 —James Carman
 
