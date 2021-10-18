@@ -2,6 +2,11 @@
 --James Carman
 
 ---
+<blockquote>
+There are more things in heaven and earth, Horatio,
+Than are dreamt of in your philosophy.
+- Hamlet (1.5.167-8), Hamlet to Horatio
+</blockquote>
 
 [**Jump to TOC**](#hidden-hand-toc)
 
