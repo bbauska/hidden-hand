@@ -87,6 +87,9 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 
 ---
 Chuck Weiss
+ 
+![image](https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png)
+
 <p>
 How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
 </p>
