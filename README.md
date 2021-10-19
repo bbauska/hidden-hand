@@ -63,7 +63,11 @@ Another interpretation is that Einstein really did not want to know because he w
 
 ---
 Victor Hugo
-<p>
+<blockquote>
+Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
+</blockquote>
+
+ <p>
 Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
 </p>
