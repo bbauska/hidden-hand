@@ -100,6 +100,8 @@ Richard Dolan
 Whitley Strieber
 
 - Author, Communion
+ 
+[Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
 [**`^        back to top        ^`**](#)
  
