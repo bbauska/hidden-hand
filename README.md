@@ -40,6 +40,17 @@ others. The shadowy world of UFOs is suddenly brought to light.
 ---
 
 Albert Einstein
+<p>
+The year of this Einstein quote (1952) is more than interesting. It is the same year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was planned. It was also the same year that mass UFO sightings were occurring with frequency over Washington, DC. And it was the same year that Frank Edwards maintained Einstein had warned the President about attacking the saucers.
+</p>
+ 
+<p>
+What is more interesting about the Einstein quote is what is not said.  Though Einstein admits that there is reality to the phenomena (“These people are seeing something”), he says that he does not want to know just what it is that the people are seeing.  This is of course disingenuous of Einstein.  Since when does science shy away from encouraging finding solutions to mysteries?  Einstein’s own friend and associate Goudsmit certainly was interested in the phenomena during the same time period Einstein was writing Gardner about it!  It sounds more like Einstein simply does not wish to engage someone outside of his circle on this obviously sensitive matter.
+</p>
+ 
+<p>
+Another interpretation is that Einstein really did not want to know because he was afraid to know.  And this makes sense.  If what Edwards says is true, Einstein feared the phenomenon.  But what he feared more was us.  Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
+</p>
 
 [**`^        back to top        ^`**](#)
 ...
