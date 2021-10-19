@@ -100,6 +100,8 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 ---
 Richard Dolan
+ 
+![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
 
 - Author. UFOs & The National Security State
 
@@ -122,6 +124,9 @@ Whitley Strieber
 ---
 
 Robert Dean
+ 
+![image](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png)
+
 
 - Retired U.S. Army Command Sergeant Major
 
