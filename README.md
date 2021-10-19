@@ -356,6 +356,9 @@ Dan Burisch
 ---
 
 Graham Hancock
+
+![image](https://user-images.githubusercontent.com/41387907/137835253-39381b64-61b7-48e7-9602-4ae76004db5e.png)
+
 - Author, Fingerprints of the Gods
 
 [**`^        back to top        ^`**](#)
