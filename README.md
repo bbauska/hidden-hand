@@ -14,11 +14,12 @@ Than are dreamt of in your philosophy.
 
 ---
 
-[**Table of Contents**](#hidden-hand-toc)
+[**Hidden Hand**](#hidden-hand-toc)
 
 [**Hidden Hand (this) git**](https://github.com/bbauska/hidden-hand.git)
+
 <header>
-<h2><a name="hidden-hand-toc">Table of Contents</h2>
+<h2><a name="hidden-hand-toc">Hidden Hand</h2>
 </header>
 <blockquote>
 The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
