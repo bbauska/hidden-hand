@@ -43,7 +43,10 @@ Albert Einstein
 <blockquote>
 In a recently unearthed recording of an interview conducted nearly 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft. UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947. As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.
 </blockquote>
-<p>
+<blockquote>
+According to Wright, she accompanied Einstein to what had been dubbed a “crisis conference” that was hastily held in July of 1947 at a remote army airbase in the American southwest. Upon their arrival, the duo entered a hangar that was under heavy security and, when they entered the building, they discovered that it contained a rather curious craft that appeared to have sustained significant damage. “It was disc-shaped, sort of concave,” Wright recalled, “its size stood up to one-fourth of the hangar floor.” While her response to the strange scene was one of “wonderment, half curiosity and maybe half fear,” she said that Einstein was “not disturbed at all” and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.
+</blockquote>
+ <p>
 The year of this Einstein quote (1952) is more than interesting. It is the same year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was planned. It was also the same year that mass UFO sightings were occurring with frequency over Washington, DC. And it was the same year that Frank Edwards maintained Einstein had warned the President about attacking the saucers.
 </p>
  
