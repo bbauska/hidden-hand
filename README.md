@@ -9,8 +9,10 @@ Than are dreamt of in your philosophy.
 <br>
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
-![autopsy photo](https://user-images.githubusercontent.com/41387907/137833611-3fdc166a-de02-4386-99e6-e27b5e745d6a.jpg)
-![autopsy photo](https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg)
+
+[![autopsy photo](https://user-images.githubusercontent.com/41387907/137833611-3fdc166a-de02-4386-99e6-e27b5e745d6a.jpg)]
+
+[image]![autopsy photo](https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg)
 
 ---
 
