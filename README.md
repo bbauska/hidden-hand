@@ -138,7 +138,11 @@ Robert Dean
 
 Stanton Friedman
 
+ ![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
+
 - Author, Flying Saucers & Science
+
+[![Stanton Friedman's Biography]((https://youtu.be/eDq-ThNqBfY)
 
 [**`^        back to top        ^`**](#)
 
