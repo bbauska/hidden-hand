@@ -42,7 +42,7 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 ---
 
-Albert Einstein
+ <h4>Albert Einstein</h4>
 
 ![Albert Einstein](https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png)
 
@@ -68,7 +68,7 @@ Another interpretation is that Einstein really did not want to know because he w
 ...
 
 ---
-Victor Hugo
+<h4>Victor Hugo</h4>
 
 ![Photograph Victor Hugo Nadar](https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg)
 
@@ -76,7 +76,7 @@ Victor Hugo
 Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
 </blockquote>
 
- <p>
+<p>
 Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
 </p>
@@ -86,7 +86,7 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 ...
 
 ---
-Chuck Weiss
+ <h4>Chuck Weiss</h4>
  
 ![image](https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png)
 
@@ -99,7 +99,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 ...
 
 ---
-Richard Dolan
+ <h4>Richard Dolan</h4>
  
 ![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
 
@@ -111,7 +111,7 @@ Richard Dolan
 
 ---
 
-Whitley Strieber
+ <h4>Whitley Strieber</h4>
 
 - Author, Communion
  
@@ -123,12 +123,11 @@ Whitley Strieber
 
 ---
 
-Robert Dean
- 
-![image](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png)
-
+ <h4>Robert Dean</h4>
 
 - Retired U.S. Army Command Sergeant Major
+
+![image](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png)
 
 [**`^        back to top        ^`**](#)
  
@@ -136,7 +135,7 @@ Robert Dean
 
 ---
 
-Stanton Friedman
+ <h4>Stanton Friedman</h4>
 
  ![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
 
@@ -144,6 +143,54 @@ Stanton Friedman
 
 [![Stanton Friedman's Biography]((https://youtu.be/eDq-ThNqBfY)
 
+#### THE UFO CHALLENGE
+=======================================================================================
+
+December 1997
+By Stanton T. Friedman
+
+As a nuclear physicist who has had a serious interest in flying saucers since 1958, I have reached four major conclusions:
+The evidence is overwhelming that Planet Earth is being visited by intelligently controlled extraterrestrial spacecraft. In other words, SOME UFOs are alien spacecraft. Most are not.
+
+The subject of flying saucers represents a kind of Cosmic Watergate, meaning that some few people in major governments have known since July, 1947, when two crashed saucers and several alien bodies were recovered in New Mexico, that indeed SOME UFOs are ET. As noted in 1950, it’s the most classified U.S. topic.
+
+None of the arguments made against conclusions One and Two by a small group of debunkers such as Carl Sagan, my University of Chicago classmate for three years, can stand up to careful scrutiny.
+
+The Flying Saucer story is the biggest story of the millennium: visits to Planet Earth by aliens and the U.S. government’s cover-up of the best data (the bodies and wreckage) for over fifty years.
+slide show
+Since 1967 I have lectured on the subject “Flying Saucers ARE Real” at more than 600 colleges and over 100 professional groups in all fifty US states, nine Canadian Provinces, twelve cities in England and nine in other countries, with only eleven hecklers. I have also appeared on hundreds of radio and TV shows. Overall, I have probably answered about 35,000 questions about UFOs and secrecy.
+
+It’s clear that over 97% of the people have NOT read any of the five major scientific studies I discuss, and are unaware of the mountains of evidence that support my conclusions. They are also unaware of the scientific data, as opposed to tabloid nonsense. However, it is also clear from the Opinion Polls and from my own experience that indeed most people accept the notion that SOME UFOs are alien spacecraft. The greater the education, the MORE likely an individual is to accept this proposition. In an October 25, 1995, Oxford University Debate on the resolution “Planet Earth is being visited by intelligent extraterrestrial life,” the affirmative side, of which I was a part, garnered 60% of Debate Union Member votes on the question. Ninety-two percent of 100,000 people calling during a TV Debate in London on June 27, 1997, said Earth has been visited by aliens!
+
+The problem is NOT that there is not enough evidence to justify my conclusions; but that most people, especially the noisy negativists, are unaware of the real, non-tabloid evidence.
+
+Debunkers seem to employ four major rules:
+What the public doesn’t know, we certainly won’t tell them. The largest official USAF UFO study isn’t even mentioned in twelve anti-UFO books, though every one of those books’ authors was aware of it.
+
+Don’t bother me with the facts, my mind is made up.
+
+If one can’t attack the data, attack the people. It is easier.
+
+Do one’s research by proclamation rather than investigation. It is much easier, and nobody will know the difference anyway.
+Many major media people will concede that if indeed aliens are visiting earth, that would be a major story. But because they take great pride in their KNOWLEDGE of major stories, if this were happening they would know about it. But they don’t. Therefore, anybody who says visits are real must be a crackpot.
+
+I have noted four major reasons why the big names in science and journalism haven’t jumped on the pro-UFO bandwagon:
+Ignorance of the data. Scratch a debunker and one usually finds somebody who is putting down what he is not up on.
+
+Fear of ridicule in sponsoring a thesis (only about ten have been submitted relating to UFOs) if a professor, or sponsoring a detailed reportorial investigation if an editor. I check all my audiences and find that, while in agreement with polls, 10% have had a sighting but only 5-10% of these witnesses have been willing to report what they saw. Biggest reason? Fear of ridicule.
+
+Ego. If aliens were visiting Earth, they would call a press conference or ask to talk to the National Academy of Sciences. They haven’t, so aliens must not be visiting. Flying saucers finish the job Copernicus started in taking man out of the middle of the universe. Priests fought Copernicus’s ideas. Today guys in lab coats, rather than priestly robes, fight alien visitations.
+
+Failure to use our knowledge of technology to understand UFO behavior. They say “It is impossible,” rather than “I don’t know how.” Despite the absurd claims of certain ancient academics and fossilized physicists, it is clear on the basis of solid engineering studies that trips to nearby stars are feasible with round trip times shorter than the average person’s lifetime — using, for example, staged fission and fusion propulsion systems. I have worked on both. It’s clear that technological progress comes from doing things differently in an unpredictable way. The history of science is littered with challenges, leveled by people who know nothing about the job at hand, against traditionally “impossible” claims.
+The cult of S.E.T.I. (Silly Effort To Investigate) with its crazy notions that nobody would travel — but that aliens, stuck at the level of radio, are trying to attract our attention — mocks the notion of flying saucers, not by dealing with the evidence, but by proclamations about the ABSENCE of evidence. This ignores science.
+
+I prove at every lecture that the NSA and CIA are withholding UFO data. Having worked under security for fourteen years, visited seventeen document archives, and having become aware of the huge black budgets of the NSA, NRO, CIA, DIA, etc., I know how easy it is to keep secrets. My nineteen years of study about crashed saucers, and thirteen years on the Majestic-12 documents have convinced me these are real. The challenge for us all, as we enter the new millennium, is to recognize that while our future is in space, we are not alone. I truly hope we qualify for admission to the Cosmic Kindergarten.
+
+Stanton Friedman
+
+---
+ 
+<br>
 [**`^        back to top        ^`**](#)
 
 ---
