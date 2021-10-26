@@ -135,15 +135,15 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 ---
 
- <h4>Stanton Friedman</h4>
+<h4>Stanton Friedman</h4>
 
- ![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
+![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
 
 - Author, Flying Saucers & Science
 
 ![Stanton Friedman's Biography](https://youtu.be/eDq-ThNqBfY)
 
-#### THE UFO CHALLENGE
+##### THE UFO CHALLENGE
 
 December 1997
 By Stanton T. Friedman
@@ -416,6 +416,17 @@ Self - TV Producer
 
 Dan Burisch
 - Retired Government Microbiologist
+
+![image](https://user-images.githubusercontent.com/41387907/138953761-9151e3ff-c85e-41dd-8ba9-f922aab95660.png)
+
+<h5>Introduction</h5>
+<p>
+I came to know Dr. Dan Burisch (formerly Dan Crain, Ph.D.) many years ago in Las Vegas NV. He and his family became friends with my family and I.... and eventually I came to know his story well. He asked me, in 1997 to write a book about one of his research projects. That became Eagles Disobey: The Case for Inca City, Mars and was released to the public in 1998. During that work I came to know a great deal about Dan's involvement in dark projects that are covertly funded by our military and governmen bodies - including his work up at Area-51, or as it is known by those who work up there: Watertown Strip. Dan became afraid, desperately afraid for his life toward the end of the work on Eagles Disobey. He was terrified of retailiation from his dark project supervisors because he refused to stop looking into the anomalies on Mars - and because he had shared with me many of his experiences "up north" while he was employed in Project Aquarius, and had familiarity with Project Sigma, and Looking Glass.</p>
+<p>
+Toward the end of 1998 Dan disappeared. His residence was abandoned overnight, and nobody seemed to know where he had been taken. He turned up half way across the country, with most of his memories concerning his association with me and our work on Eagles Disobey altered or erased. I tried my best to remind him of his past, but he did not believe me until I showed him a copy of the book and photographs of himself sitting on my couch playing with the dogs. He returned to his new location, but memories started to break through the conditioning to such an extent that Dan fled and was eventually recaptured and whisked off to a military base for re-conditioning. When they realized that they couldn't keep it up with out damaging his ability to think and function (remember, they wanted him to continue to work for them in his capacity as team leader and microbiologist) they decided to re-wind his memories and return him to Las Vegas under the careful observation of his spouse, who relays all communication up the pipeline, and signs much of her correspondence with her title/designation PsiOpSec.</p>
+<p>
+I was permitted very limited contact with him during that time, mostly because he made life unbearable until they honored his demand to talk to me. But he was eventually moved again and housed at the Papoose Lab facility where he could conduct critical biological studies on captive entity they had housed in their lab, on Level-5. Contact was intermittent, but then, in early 2001 I got a strange email that caught my attention. It was from mj01@missilemail.com. Since I knew that Dan was involved with Majestic and MJ12, I was immediately on alert. It turned out to be from a person inside the project Dan was working on, who was so upset with the situation that he felt compelled to seek my help. He was aware of my identity and long standing friendship with Dan because it was contained in the briefings he got prior to accepting his assignment, and figured I might be willing to assist. My contact is now dead. He was discovered communicating with me, and was involuntarily "retired". His letters read as follows, and give a troubling glimpse into the prison-like world that was created to maintain control of Dr. Dan Burisch and force him to comply with the wishes of the 'powers that be' as he eventually came to call them.
+</p>
 
 [**`^        back to top        ^`**](#)
 
