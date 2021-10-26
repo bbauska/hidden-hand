@@ -141,10 +141,9 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 - Author, Flying Saucers & Science
 
-[![Stanton Friedman's Biography]((https://youtu.be/eDq-ThNqBfY)
+![Stanton Friedman's Biography](https://youtu.be/eDq-ThNqBfY)
 
 #### THE UFO CHALLENGE
-=======================================================================================
 
 December 1997
 By Stanton T. Friedman
@@ -187,10 +186,9 @@ The cult of S.E.T.I. (Silly Effort To Investigate) with its crazy notions that n
 I prove at every lecture that the NSA and CIA are withholding UFO data. Having worked under security for fourteen years, visited seventeen document archives, and having become aware of the huge black budgets of the NSA, NRO, CIA, DIA, etc., I know how easy it is to keep secrets. My nineteen years of study about crashed saucers, and thirteen years on the Majestic-12 documents have convinced me these are real. The challenge for us all, as we enter the new millennium, is to recognize that while our future is in space, we are not alone. I truly hope we qualify for admission to the Cosmic Kindergarten.
 
 Stanton Friedman
-
----
  
 <br>
+
 [**`^        back to top        ^`**](#)
 
 ---
@@ -198,6 +196,24 @@ Stanton Friedman
 Paola Harris
 
 - Author, Connecting the Dots
+
+Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
+
+Latest News
+The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative reporter and photojournalist In August of 2020, we all went Le Marais…
+
+ 
+Links & Resources
+Exopolitics Italy is a website created by Paola Harris, MEd., for various Exopolitics initiatives in Italy. Paola is author of Exopolitics: How Do You Speak to…
+
+ 
+Interviews
+The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative reporter and photojournalist In August of 2020, we all went Le Marais…
+
+ 
+Contact
+Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Open Minds: View this “Beyond Belief” episode: HELP FUND PAOLA’S FIELD RESEARCH!
+
 
 [**`^        back to top        ^`**](#)
 
