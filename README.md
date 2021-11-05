@@ -141,7 +141,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 - Author, Flying Saucers & Science
 
-![Stanton Friedman's Biography](https://youtu.be/eDq-ThNqBfY)
+https://youtu.be/eDq-ThNqBfY
 
 ##### THE UFO CHALLENGE
 
@@ -222,6 +222,8 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 Joni Strother
 
 - Abductee
+ 
+Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
 
 [**`^        back to top        ^`**](#)
 
@@ -230,6 +232,12 @@ Roger Leir
 
 - Author, The Aliens and the Scalpel
 
+![image](https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png)
+
+Dr. Roger K. Leir is one of the world's most important leaders in physical evidence research involving the field of Ufology. In this special session he will reveal scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private practice for the past 43 years and has written numerous books including The Aliens and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
+ 
+
+ 
 [**`^        back to top        ^`**](#)
 
 ...
@@ -238,7 +246,10 @@ Jim Sparks
 
 - Author, The Keepers
 
-[**`^        back to top        ^`**](#)
+![image](https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png)
+
+
+[**`^        back to top        ^`**](#)
 
 Niara Isley
 - Abductee
@@ -551,11 +562,21 @@ Harold Egeln
 Stephen Bassett
 - Director, Paradigm Research Group
 
+![image](https://user-images.githubusercontent.com/41387907/140463116-6170534f-ae83-4506-a093-00cf97874830.png)
+
+Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) lobbyist in the United States, executive director and treasurer of the political action committee Extraterrestrial Phenomena Political Action Committee and executive director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says it wants end to end the governments imposed truth embargo regarding the facts of extraterrestrials engaging the human race. During the run-up to the presidential election 2014-2016, Bassett met with House and Senate staffers regarding the need for new congressional hearings addressing the modern evidence for an extraterrestrial presence.
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
+John Lear
+-  
+
+![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
+
+ 
 Rest of cast listed alphabetically:
 
 Richard Campbell
