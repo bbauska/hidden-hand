@@ -596,73 +596,74 @@ Alien
  
  
 Writing Credits (in alphabetical order)  
-James Carman	Cast (in credits order)  
-Tristan Layton	Tristan Layton	...	Self - Narrator (voice)
-Richard Dolan	Richard Dolan	...	Self - Author. UFOs & The National Security State
-Whitley Strieber	Whitley Strieber	...	Self - Author, Communion
-Robert Dean	Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
-Stanton Friedman	Stanton Friedman	...	Self - Author, Flying Saucers & Science
-Paola Harris	Paola Harris	...	Self - Author, Connecting the Dots
-Joni Strother	Joni Strother	...	Self - Abductee
-Roger Leir	Roger Leir	...	Self - Author, The Aliens and the Scalpel
-Jim Sparks	Jim Sparks	...	Self - Author, The Keepers
-Niara Isley	Niara Isley	...	Self - Abductee
-Lyn Buchanan	Lyn Buchanan	...	Self - Director, The PSI Institute
-Nassim Haramein	Nassim Haramein	...	Self - Director, The Resonance Project Foundation
-David Jacobs	David Jacobs	...	Self - Historian & Hypnotherapist
-Nick Pope	Nick Pope	...	Self - Former Head of the British Government's UFO Project
-Milton Torres	Milton Torres	...	Self - Former USAF Fighter Pilot
-Edgar D. Mitchell	Edgar D. Mitchell	...	Self - Former Astronaut
-James Penniston	James Penniston	...	Self - Sergeant USAF Retired
-David Icke	David Icke	...	Self - Author, The Biggest Secret
-Jaime Maussan	Jaime Maussan	...	Self - TV Producer
-John B. Alexander	John B. Alexander	...	Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
-Paul Hellyer	Paul Hellyer	...	Self - Former Canadian Defense Secretary
-Charles Hall	Charles Hall	...	Self - Retired US Army Duty Weather Observer
-David Huggins	David Huggins	...	Self - Painter & Experiencer
-Clifford E. Stone	Clifford E. Stone	...	Self - Retired US Army Sergeant
-Derrel W. Sims	Derrel W. Sims	...	Self - Private Investigator
-James Gilliland	James Gilliland	...	Self - Director, ECETI
-Budd Hopkins	Budd Hopkins	...	Self - Ufologist
-Philip J. Corso	Philip J. Corso	...	Self - Chief of Pentagon Foreign Technology Desk (archive footage)
-Gordon Novel	Gordon Novel	...	Self - Former CIA Operative
-Jim Marrs	Jim Marrs	...	Self - Author, Alien Agenda
-Linda Moulton Howe	Linda Moulton Howe	...	Self - TV Producer
-Dan Burisch	Dan Burisch	...	Self - Retired Government Microbiologist
-Graham Hancock	Graham Hancock	...	Self - Author, Fingerprints of the Gods
-Melinda Leslie	Melinda Leslie	...	Self - Researcher & Abductee
-Jesse Long	Jesse Long	...	Self - Abductee
-Yvonne Smith	Yvonne Smith	...	Self - Hypnotherapist
-Marc Brinkerhoff	Marc Brinkerhoff	...	Self - Contactee & Artist
-Shelley Yates	Shelley Yates	...	Self - Director, Fire the Grid
-Julian Michael	Julian Michael	...	Self - Hypnotherapist
-J.J. Hurtak	J.J. Hurtak	...	Self - Author, The Keys of Enoch
-Melissa Reid	Melissa Reid	...	Self - Experiencer & Artist
-Jeremy Vaeni	Jeremy Vaeni	...	Self - Experiencer & Writer
-Farah Yurdozu	Farah Yurdozu	...	Self - Experiencer & Researcher
-Posey Gilbert	Posey Gilbert	...	Self - Experiencer
-Alan White	Alan White	...	Self - Experiencer & Composer
-Harold Egeln	Harold Egeln	...	Self - Experiencer & Journalist
-Stephen Bassett	Stephen Bassett	...	Self - Director, Paradigm Research Group
-Rest of cast listed alphabetically:
-Richard Campbell	Richard Campbell	...	Major Desmond Morton
-Andrew von Urtz	Andrew von Urtz	...	Alien
-Produced by 
-James Carman	...	executive producer / producer
-Chris Edwards	...	consulting producer
-David McGrath	...	consulting producer
-Sabine Schenk	...	co-producer
-Alan Steinfeld	...	co-producerMusic by 
-Mikael Karlsson	Cinematography by 
-James Carman	Film Editing by 
-Dan Rovetto	
-Arnie Schlissel	Makeup Department 
-Lisa Iadarola	...	makeup artistEditorial Department 
-James Carman	...	editor
-Arnie Schlissel	...	colorist / on-line editorMusic Department 
-Carrie Beehan	...	theme song
-Mikael Karlsson	...	composer: theme musicAdditional Crew 
-Patrick Chin	...	assistant producer
-Chris Perez	...	clearance counsel (as Christopher L. Perez)
+  ^ James Carman	Cast (in credits order)
+  ^ Tristan Layton	Tristan Layton	...	Self - Narrator (voice)
+  ^ Richard Dolan	Richard Dolan	...	Self - Author. UFOs & The National Security State
+  ^ Whitley Strieber	Whitley Strieber	...	Self - Author, Communion
+  ^ Robert Dean	Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
+  ^ Stanton Friedman	Stanton Friedman	...	Self - Author, Flying Saucers & Science
+  - Paola Harris	Paola Harris	...	Self - Author, Connecting the Dots
+  - Joni Strother	Joni Strother	...	Self - Abductee
+  - Roger Leir	Roger Leir	...	Self - Author, The Aliens and the Scalpel
+  - Jim Sparks	Jim Sparks	...	Self - Author, The Keepers
+  - Niara Isley	Niara Isley	...	Self - Abductee
+  - Lyn Buchanan	Lyn Buchanan	...	Self - Director, The PSI Institute
+  - Nassim Haramein	Nassim Haramein	...	Self - Director, The Resonance Project Foundation
+  - David Jacobs	David Jacobs	...	Self - Historian & Hypnotherapist
+  - Nick Pope	Nick Pope	...	Self - Former Head of the British Government's UFO Project
+  - Milton Torres	Milton Torres	...	Self - Former USAF Fighter Pilot
+  - Edgar D. Mitchell	Edgar D. Mitchell	...	Self - Former Astronaut
+  - James Penniston	James Penniston	...	Self - Sergeant USAF Retired
+  - David Icke	David Icke	...	Self - Author, The Biggest Secret
+  - Jaime Maussan	Jaime Maussan	...	Self - TV Producer
+  - John B. Alexander	John B. Alexander	...	Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
+  - Paul Hellyer	Paul Hellyer	...	Self - Former Canadian Defense Secretary
+  - Charles Hall	Charles Hall	...	Self - Retired US Army Duty Weather Observer
+  - David Huggins	David Huggins	...	Self - Painter & Experiencer
+  - Clifford E. Stone	Clifford E. Stone	...	Self - Retired US Army Sergeant
+  - Derrel W. Sims	Derrel W. Sims	...	Self - Private Investigator
+  - James Gilliland	James Gilliland	...	Self - Director, ECETI
+  - Budd Hopkins	Budd Hopkins	...	Self - Ufologist
+  - Philip J. Corso	Philip J. Corso	...	Self - Chief of Pentagon Foreign Technology Desk (archive footage)
+  - Gordon Novel	Gordon Novel	...	Self - Former CIA Operative
+  - Jim Marrs	Jim Marrs	...	Self - Author, Alien Agenda
+  - Linda Moulton Howe	Linda Moulton Howe	...	Self - TV Producer
+  - Dan Burisch	Dan Burisch	...	Self - Retired Government Microbiologist
+  - Graham Hancock	Graham Hancock	...	Self - Author, Fingerprints of the Gods
+  - Melinda Leslie	Melinda Leslie	...	Self - Researcher & Abductee
+  - Jesse Long	Jesse Long	...	Self - Abductee
+  - Yvonne Smith	Yvonne Smith	...	Self - Hypnotherapist
+  - Marc Brinkerhoff	Marc Brinkerhoff	...	Self - Contactee & Artist
+  - Shelley Yates	Shelley Yates	...	Self - Director, Fire the Grid
+  - Julian Michael	Julian Michael	...	Self - Hypnotherapist
+  - J.J. Hurtak	J.J. Hurtak	...	Self - Author, The Keys of Enoch
+  - Melissa Reid	Melissa Reid	...	Self - Experiencer & Artist
+  - Jeremy Vaeni	Jeremy Vaeni	...	Self - Experiencer & Writer
+  - Farah Yurdozu	Farah Yurdozu	...	Self - Experiencer & Researcher
+  - Posey Gilbert	Posey Gilbert	...	Self - Experiencer
+  - Alan White	Alan White	...	Self - Experiencer & Composer
+  - Harold Egeln	Harold Egeln	...	Self - Experiencer & Journalist
+  - Stephen Bassett	Stephen Bassett	...	Self - Director, Paradigm Research Group
+  - Rest of cast listed alphabetically:
+  - Richard Campbell	Richard Campbell	...	Major Desmond Morton
+  - Andrew von Urtz	Andrew von Urtz	...	Alien
+
+### Produced by 
+  - James Carman	...	executive producer / producer
+  - Chris Edwards	...	consulting producer
+  - David McGrath	...	consulting producer
+  - Sabine Schenk	...	co-producer
+  - Alan Steinfeld	...	co-producerMusic by 
+  - Mikael Karlsson	Cinematography by 
+  - James Carman	Film Editing by 
+  - Dan Rovetto	
+  - Arnie Schlissel	Makeup Department 
+  - Lisa Iadarola	...	makeup artistEditorial Department 
+  - James Carman	...	editor
+  - Arnie Schlissel	...	colorist / on-line editorMusic Department 
+  - Carrie Beehan	...	theme song
+  - Mikael Karlsson	...	composer: theme musicAdditional Crew 
+  - Patrick Chin	...	assistant producer
+  - Chris Perez	...	clearance counsel (as Christopher L. Perez)
 
 [**`^        back to top        ^`**](#)
