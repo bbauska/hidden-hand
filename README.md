@@ -593,15 +593,14 @@ Alien
 
 ...
 ---
- 
- 
-Writing Credits (in alphabetical order)  
-  * James Carman	Cast (in credits order)
-  * Tristan Layton	Tristan Layton	...	Self - Narrator (voice)
-  * Richard Dolan	Richard Dolan	...	Self - Author. UFOs & The National Security State
-  * Whitley Strieber	Whitley Strieber	...	Self - Author, Communion
-  * Robert Dean	Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
-  * Stanton Friedman	Stanton Friedman	...	Self - Author, Flying Saucers & Science
+
+### Writing Credits (in alphabetical order)  
+  - James Carman	Cast (in credits order)
+  - Tristan Layton	Tristan Layton	...	Self - Narrator (voice)
+  - Richard Dolan	Richard Dolan	...	Self - Author. UFOs & The National Security State
+  - Whitley Strieber	Whitley Strieber	...	Self - Author, Communion
+  - Robert Dean	Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
+  - Stanton Friedman	Stanton Friedman	...	Self - Author, Flying Saucers & Science
   - Paola Harris	Paola Harris	...	Self - Author, Connecting the Dots
   - Joni Strother	Joni Strother	...	Self - Abductee
   - Roger Leir	Roger Leir	...	Self - Author, The Aliens and the Scalpel
