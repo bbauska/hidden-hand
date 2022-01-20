@@ -90,6 +90,7 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 
 ---
 <h4>Chuck Weiss</h4>
+
   - Author. How I Learned to Cope with High Strangeness...
 
 ![image](https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png)
@@ -104,6 +105,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 ---
 <h4>Richard Dolan</h4>
+
   - Author. UFOs & The National Security State
 
 ![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
@@ -126,6 +128,7 @@ Included in this volume are the activities of more than fifty military bases rel
 ---
 
 <h4>Whitley Strieber</h4>
+
   - Author, Communion
 
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
@@ -146,7 +149,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 ---
 
- <h4>Robert Dean</h4>
+<h4>Robert Dean</h4>
 
   - Retired U.S. Army Command Sergeant Major
 
@@ -275,6 +278,7 @@ Jim Sparks
 [**`^        back to top        ^`**](#)
 
 Niara Isley
+
   - Abductee
 
  https://encounterswithhealing.com/
@@ -285,6 +289,7 @@ Niara Isley
 ---
 
 Lyn Buchanan
+
   - Director, The PSI Institute
 
 [**`^        back to top        ^`**](#)
@@ -293,6 +298,7 @@ Lyn Buchanan
 ---
 
 Nassim Haramein
+
   - Director, The Resonance Project Foundation
 
 [**`^        back to top        ^`**](#)
@@ -301,6 +307,7 @@ Nassim Haramein
 ---
 
 David Jacobs
+
   - Historian & Hypnotherapist
 
 [**`^        back to top        ^`**](#)
@@ -309,6 +316,7 @@ David Jacobs
 ---
 
 Nick Pope
+
   - Former Head of the British Government's UFO Project
 
 [**`^        back to top        ^`**](#)
@@ -317,6 +325,7 @@ Nick Pope
 ---
 
 Milton Torres
+  
   - Former USAF Fighter Pilot & Astronaut
 
 [**`^        back to top        ^`**](#)
@@ -325,6 +334,7 @@ Milton Torres
 ---
 
 Edgar D. Mitchell
+
   - Former Astronaut
 
 [**`^        back to top        ^`**](#)
@@ -333,7 +343,8 @@ Edgar D. Mitchell
 ---
 
 James Penniston
-  - Sergeant USAF Retired
+
+ - Sergeant USAF Retired
 
 [**`^        back to top        ^`**](#)
 
@@ -341,6 +352,7 @@ James Penniston
 ---
 
 David Icke
+  
   - Author, The Biggest Secret
 
 [**`^        back to top        ^`**](#)
@@ -349,6 +361,7 @@ David Icke
 ---
 
 Jaime Maussan
+  
   - TV Producer
 
 [**`^        back to top        ^`**](#)
@@ -357,6 +370,7 @@ Jaime Maussan
 ---
 
 John B. Alexander
+   
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
 [**`^        back to top        ^`**](#)
@@ -365,6 +379,7 @@ John B. Alexander
 ---
 
 Paul Hellyer
+  
   - Former Canadian Defense Secretary
 
 [**`^        back to top        ^`**](#)
@@ -373,6 +388,7 @@ Paul Hellyer
 ---
 
 Charles Hall
+  
   - Retired US Army Duty Weather Observer
 
 [**`^        back to top        ^`**](#)
@@ -381,6 +397,7 @@ Charles Hall
 ---
 
 David Huggins
+  
   - Painter & Experiencer
 
 [**`^        back to top        ^`**](#)
@@ -389,6 +406,7 @@ David Huggins
 ---
 
 Clifford E. Stone
+  
   - Retired US Army Sergeant
 
 [**`^        back to top        ^`**](#)
@@ -397,6 +415,7 @@ Clifford E. Stone
 ---
 
 Derrel W. Sims
+  
   - Private Investigator
 
 [**`^        back to top        ^`**](#)
@@ -405,6 +424,7 @@ Derrel W. Sims
 ---
 
 James Gilliland
+  
   - Director, ECETI
 
 [**`^        back to top        ^`**](#)
@@ -413,7 +433,8 @@ James Gilliland
 ---
 
 Budd Hopkins
-- Ufologist
+
+  - Ufologist
 
 [**`^        back to top        ^`**](#)
 
@@ -422,7 +443,8 @@ Budd Hopkins
 
 
 <h4<Philip J. Corso</h4>
-  * Chief of Pentagon Foreign Technology Desk (archive footage)
+
+  - Chief of Pentagon Foreign Technology Desk (archive footage)
 
 
 
@@ -450,7 +472,8 @@ Different parts of the Roswell craft were sent to various defense companies, who
 ---
 
 Gordon Novel
-Self - Former CIA Operative
+
+  - Self - Former CIA Operative
 
 
 
@@ -460,21 +483,25 @@ Self - Former CIA Operative
 ---
 
 Jim Marrs
-Self - Author, Alien Agenda
+  - Self - Author, Alien Agenda
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Linda Moulton Howe
-Self - TV Producer
+
+  - Self - TV Producer
+
 [**`^        back to top        ^`**](#)
 
 ...
 ---
 
 Dan Burisch
-- Retired Government Microbiologist
+
+  - Retired Government Microbiologist
 
 ![image](https://user-images.githubusercontent.com/41387907/138953761-9151e3ff-c85e-41dd-8ba9-f922aab95660.png)
 
@@ -494,9 +521,10 @@ I was permitted very limited contact with him during that time, mostly because h
 
 Graham Hancock
 
+  - Author, Fingerprints of the Gods
+
 ![image](https://user-images.githubusercontent.com/41387907/137835253-39381b64-61b7-48e7-9602-4ae76004db5e.png)
 
-- Author, Fingerprints of the Gods
 
 [**`^        back to top        ^`**](#)
 
@@ -504,7 +532,8 @@ Graham Hancock
 ---
 
 Melinda Leslie
-- Researcher & Abductee
+
+  - Researcher & Abductee
 
 [**`^        back to top        ^`**](#)
 
@@ -512,7 +541,8 @@ Melinda Leslie
 ---
 
 Jesse Long
-- Abductee
+
+  - Abductee
 
 [**`^        back to top        ^`**](#)
 
@@ -520,7 +550,8 @@ Jesse Long
 ---
 
 Yvonne Smith
-- Hypnotherapist
+
+  - Hypnotherapist
 
 [**`^        back to top        ^`**](#)
 
@@ -528,7 +559,8 @@ Yvonne Smith
 ---
 
 Marc Brinkerhoff
-- Contactee & Artist
+
+  - Contactee & Artist
 
 [**`^        back to top        ^`**](#)
 
@@ -536,7 +568,8 @@ Marc Brinkerhoff
 ---
 
 Shelley Yates
-- Director, Fire the Grid
+
+  - Director, Fire the Grid
 
 [**`^        back to top        ^`**](#)
 
@@ -544,7 +577,8 @@ Shelley Yates
 ---
 
 Julian Michael
-- Hypnotherapist
+
+  - Hypnotherapist
 
 [**`^        back to top        ^`**](#)
 
@@ -552,7 +586,8 @@ Julian Michael
 ---
 
 J.J. Hurtak
-- Author, The Keys of Enoch
+
+  - Author, The Keys of Enoch
 
 [**`^        back to top        ^`**](#)
 
@@ -560,7 +595,8 @@ J.J. Hurtak
 ---
 
 Melissa Reid
-- Experiencer & Artist
+  
+   - Experiencer & Artist
 
 [**`^        back to top        ^`**](#)
 
@@ -568,7 +604,8 @@ Melissa Reid
 ---
 
 Jeremy Vaeni
-- Experiencer & Writer
+
+  - Experiencer & Writer
 
 [**`^        back to top        ^`**](#)
 
@@ -576,7 +613,8 @@ Jeremy Vaeni
 ---
 
 Farah Yurdozu
-- Experiencer & Researcher
+  
+  - Experiencer & Researcher
 
 [**`^        back to top        ^`**](#)
 
@@ -584,7 +622,8 @@ Farah Yurdozu
 ---
 
 Posey Gilbert
-- Experiencer
+
+  - Experiencer
 
 [**`^        back to top        ^`**](#)
 
@@ -592,7 +631,8 @@ Posey Gilbert
 ---
 
 Alan White
-- Experiencer & Composer
+
+  - Experiencer & Composer
 
 [**`^        back to top        ^`**](#)
 
@@ -600,7 +640,8 @@ Alan White
 ---
 
 Harold Egeln
-- Experiencer & Journalist
+
+  - Experiencer & Journalist
 
 [**`^        back to top        ^`**](#)
 
@@ -608,7 +649,8 @@ Harold Egeln
 ---
 
 Stephen Bassett
-- Director, Paradigm Research Group
+
+  - Director, Paradigm Research Group
 
 ![image](https://user-images.githubusercontent.com/41387907/140463116-6170534f-ae83-4506-a093-00cf97874830.png)
 
@@ -620,7 +662,7 @@ Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology)
 ---
 
 John Lear
--  
+  -  
 
 ![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
 
