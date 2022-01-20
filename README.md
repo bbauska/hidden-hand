@@ -104,6 +104,15 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 ![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
 
 - Author. UFOs & The National Security State
+<p>
+Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led him to the broader context of increased security measures and secrecy since World War II. One aspect of such government policies that has continued to hold the public's imagination for over half a century is the question of unidentified flying objects.
+</p>
+<p>
+UFOs and the National Security State is the first volume of a two-part detailed chronological narrative of the national security dimensions of the UFO phenomenon from 1941 to the present. Working from hundreds of declassified records and other primary and secondary sources, Dolan centers his investigation on the American military and intelligence communities, demonstrating that they take UFOs seriously indeed.
+</p>
+<p>
+Included in this volume are the activities of more than fifty military bases relating to UFOs, innumerable violations of sensitive airspace by unknown craft and analyses of the Roswell controversy, the CIA-sponsored Robertson Panel, and the Condon Committee Report. Dolan highlights the development of civilian anti-secrecy movements, which flourished in the 1950s and 1960s until the adoption of an official government policy and subsequent "closing of the door" during the Nixon administration.
+</p>
 
 [**`^        back to top        ^`**](#)
 
