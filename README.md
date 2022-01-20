@@ -2,16 +2,14 @@
 --James Carman (2008)
 
 ---
-
-<span style="background-color: #FFFF00">
 <blockquote>
+<span style="background-color: #FFFF00">
 There are more things in heaven and earth, Horatio,
 Than are dreamt of in your philosophy.
 <br>
 - Hamlet (1.5.167-8), Hamlet to Horatio
-</blockquote>
 </span>
-
+</blockquote>
 <p>
 Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
