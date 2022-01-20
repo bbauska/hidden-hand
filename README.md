@@ -90,8 +90,9 @@ Victor-Marie Hugo (French: [viktɔʁ maʁi yɡo] (audio speaker iconlisten); 26 
 ...
 
 ---
- <h4>Chuck Weiss</h4>
- 
+<h4>Chuck Weiss</h4>
+  - Author. How I Learned to Cope with High Strangeness...
+
 ![image](https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png)
 
 <p>
@@ -103,9 +104,9 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 ...
 
 ---
- <h4>Richard Dolan</h4>
-   * Author. UFOs & The National Security State
- 
+<h4>Richard Dolan</h4>
+  - Author. UFOs & The National Security State
+
 ![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
 
 
@@ -126,8 +127,8 @@ Included in this volume are the activities of more than fifty military bases rel
 ---
 
 <h4>Whitley Strieber</h4>
-  * Author, Communion
- 
+  - Author, Communion
+
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
 <p align="center" width="100%">
