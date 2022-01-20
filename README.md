@@ -3,12 +3,12 @@
 
 ---
 <blockquote>
-<span style="background-color: #FFFF00">
+<mark>
 There are more things in heaven and earth, Horatio,
 Than are dreamt of in your philosophy.
 <br>
 - Hamlet (1.5.167-8), Hamlet to Horatio
-</span>
+</mark>
 </blockquote>
 <p>
 Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
