@@ -100,7 +100,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 ---
  <h4>Richard Dolan</h4>
- - Author. UFOs & The National Security State
+   * Author. UFOs & The National Security State
  
 ![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
 
@@ -121,11 +121,15 @@ Included in this volume are the activities of more than fifty military bases rel
 
 ---
 
- <h4>Whitley Strieber</h4>
-
-- Author, Communion
+<h4>Whitley Strieber</h4>
+  * Author, Communion
  
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
+
+<p align="center" width="100%">
+  <img width="50%" src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber-communion.png?raw=true"
+    alt="Whitley Strieber"</>
+</p>
 
 <p align="center" width="100%">
   <img width="15%" src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber.png?raw=true"
