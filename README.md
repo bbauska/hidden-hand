@@ -10,6 +10,12 @@ Than are dreamt of in your philosophy.
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
 
+<p>
+Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
+pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
+</p>
+
+
 ![Autopsy Photo](https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg)
 
 ---
@@ -76,10 +82,8 @@ Another interpretation is that Einstein really did not want to know because he w
 Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
 </blockquote>
 
-<p>
-Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
-pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
-</p>
+Victor-Marie Hugo (French: [viktɔʁ maʁi yɡo] (audio speaker iconlisten); 26 February 1802 – 22 May 1885) was a French poet, novelist, essayist, playwright, and dramatist of the Romantic movement. During a literary career that spanned more than sixty years, he wrote abundantly in an exceptional variety of genres: lyrics, satires, epics, philosophical poems, epigrams, novels, history, critical essays, political speeches, funeral orations, diaries, and letters public and private, as well as dramas in verse and prose.
+
 
 [**`^        back to top        ^`**](#)
  
@@ -417,8 +421,28 @@ Budd Hopkins
 ---
 
 
-Philip J. Corso
-- Chief of Pentagon Foreign Technology Desk (archive footage)
+<h4<Philip J. Corso</h4>
+  * Chief of Pentagon Foreign Technology Desk (archive footage)
+
+
+
+#### Background
+Philip James Corso (May 22, 1915 – July 16, 1998) was an American Army officer.
+
+He served in the United States Army from February 23, 1942, to March 1, 1963, and earned the rank of Lieutenant Colonel.
+
+Corso published The Day After Roswell, about how he was involved in the research of extraterrestrial technology recovered from the 1947 Roswell UFO Incident. On July 23, 1997, he was a guest on the popular late night radio show, Coast to Coast AM with Art Bell where he spoke live about his Roswell story. This interview was rebroadcast by Coast to Coast AM on July 3, 2010.
+
+#### The Day After Roswell
+In his book The Day After Roswell (co-author William J. Birnes) claims he stewarded extraterrestrial artifacts recovered from a crash near Roswell, New Mexico, in 1947.
+
+Corso says a covert government group was assembled under the leadership of the first Director of Central Intelligence, Adm. Roscoe H. Hillenkoetter. Among its tasks was to collect all information on off-planet technology. The US administration simultaneously discounted the existence of flying saucers in the eyes of the public, Corso says.
+
+According to Corso, the reverse engineering of these artifacts indirectly led to the development of accelerated particle beam devices, fiber optics, lasers, integrated circuit chips and Kevlar material.
+
+In the book, Corso claims the Strategic Defense Initiative (SDI), or “Star Wars”, was meant to achieve the destructive capacity of electronic guidance systems in incoming enemy warheads, as well as the disabling of enemy spacecraft, including those of extraterrestrial origin.
+
+Different parts of the Roswell craft were sent to various defense companies, who reverse engineered their properties. This engineering feat eventually led to a number of breakthroughs. Among them were integrated circuitry, night vision equipment, the laser, particle beams, and fiber optics. The contractors were told that the parts were stolen from Russia.
 
 [**`^        back to top        ^`**](#)
 
@@ -427,6 +451,9 @@ Philip J. Corso
 
 Gordon Novel
 Self - Former CIA Operative
+
+
+
 [**`^        back to top        ^`**](#)
 
 ...
