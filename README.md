@@ -76,14 +76,13 @@ Another interpretation is that Einstein really did not want to know because he w
 ---
 <h4>Victor Hugo</h4>
 
+  - Poet, novelist. Les Misérables (1862), and dramatist
+
 ![Photograph Victor Hugo Nadar](https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg)
 
 <blockquote>
 Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
 </blockquote>
-
-Victor-Marie Hugo (French: [viktɔʁ maʁi yɡo] (audio speaker iconlisten); 26 February 1802 – 22 May 1885) was a French poet, novelist, essayist, playwright, and dramatist of the Romantic movement. During a literary career that spanned more than sixty years, he wrote abundantly in an exceptional variety of genres: lyrics, satires, epics, philosophical poems, epigrams, novels, history, critical essays, political speeches, funeral orations, diaries, and letters public and private, as well as dramas in verse and prose.
-
 
 [**`^        back to top        ^`**](#)
  
@@ -149,7 +148,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
  <h4>Robert Dean</h4>
 
-- Retired U.S. Army Command Sergeant Major
+  - Retired U.S. Army Command Sergeant Major
 
 ![image](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png)
 
@@ -161,9 +160,9 @@ Included in this volume are the activities of more than fifty military bases rel
 
 <h4>Stanton Friedman</h4>
 
-![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
+ - Author, Flying Saucers & Science
 
-- Author, Flying Saucers & Science
+![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
 
 https://youtu.be/eDq-ThNqBfY
 
@@ -219,7 +218,7 @@ Stanton Friedman
 
 Paola Harris
 
-- Author, Connecting the Dots
+  - Author, Connecting the Dots
 
 Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
 
@@ -245,7 +244,7 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 
 Joni Strother
 
-- Abductee
+  - Abductee
  
 Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
 
@@ -254,7 +253,7 @@ Abductee Joni Strother described her traumatic encounters with the aliens, whom 
 ---
 Roger Leir
 
-- Author, The Aliens and the Scalpel
+  - Author, The Aliens and the Scalpel
 
 ![image](https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png)
 
@@ -268,7 +267,7 @@ Dr. Roger K. Leir is one of the world's most important leaders in physical evide
 ---
 Jim Sparks
 
-- Author, The Keepers
+  - Author, The Keepers
 
 ![image](https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png)
 
@@ -276,7 +275,7 @@ Jim Sparks
 [**`^        back to top        ^`**](#)
 
 Niara Isley
-- Abductee
+  - Abductee
 
  https://encounterswithhealing.com/
  
@@ -286,7 +285,7 @@ Niara Isley
 ---
 
 Lyn Buchanan
-- Director, The PSI Institute
+  - Director, The PSI Institute
 
 [**`^        back to top        ^`**](#)
 
@@ -294,7 +293,7 @@ Lyn Buchanan
 ---
 
 Nassim Haramein
-- Director, The Resonance Project Foundation
+  - Director, The Resonance Project Foundation
 
 [**`^        back to top        ^`**](#)
 
@@ -302,7 +301,7 @@ Nassim Haramein
 ---
 
 David Jacobs
-- Historian & Hypnotherapist
+  - Historian & Hypnotherapist
 
 [**`^        back to top        ^`**](#)
 
@@ -310,7 +309,7 @@ David Jacobs
 ---
 
 Nick Pope
-- Former Head of the British Government's UFO Project
+  - Former Head of the British Government's UFO Project
 
 [**`^        back to top        ^`**](#)
 
@@ -318,7 +317,7 @@ Nick Pope
 ---
 
 Milton Torres
-- Former USAF Fighter Pilot & Astronaut
+  - Former USAF Fighter Pilot & Astronaut
 
 [**`^        back to top        ^`**](#)
 
@@ -326,7 +325,7 @@ Milton Torres
 ---
 
 Edgar D. Mitchell
-- Former Astronaut
+  - Former Astronaut
 
 [**`^        back to top        ^`**](#)
 
@@ -334,7 +333,7 @@ Edgar D. Mitchell
 ---
 
 James Penniston
-- Sergeant USAF Retired
+  - Sergeant USAF Retired
 
 [**`^        back to top        ^`**](#)
 
@@ -342,7 +341,7 @@ James Penniston
 ---
 
 David Icke
-- Author, The Biggest Secret
+  - Author, The Biggest Secret
 
 [**`^        back to top        ^`**](#)
 
@@ -350,7 +349,7 @@ David Icke
 ---
 
 Jaime Maussan
-- TV Producer
+  - TV Producer
 
 [**`^        back to top        ^`**](#)
 
@@ -358,7 +357,7 @@ Jaime Maussan
 ---
 
 John B. Alexander
-- Non-Lethal Weapons Specialist (as Col. John B. Alexander)
+  - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
 [**`^        back to top        ^`**](#)
 
@@ -366,7 +365,7 @@ John B. Alexander
 ---
 
 Paul Hellyer
-- Former Canadian Defense Secretary
+  - Former Canadian Defense Secretary
 
 [**`^        back to top        ^`**](#)
 
@@ -374,7 +373,7 @@ Paul Hellyer
 ---
 
 Charles Hall
-- Retired US Army Duty Weather Observer
+  - Retired US Army Duty Weather Observer
 
 [**`^        back to top        ^`**](#)
 
@@ -382,7 +381,7 @@ Charles Hall
 ---
 
 David Huggins
-- Painter & Experiencer
+  - Painter & Experiencer
 
 [**`^        back to top        ^`**](#)
 
@@ -390,7 +389,7 @@ David Huggins
 ---
 
 Clifford E. Stone
-- Retired US Army Sergeant
+  - Retired US Army Sergeant
 
 [**`^        back to top        ^`**](#)
 
@@ -398,7 +397,7 @@ Clifford E. Stone
 ---
 
 Derrel W. Sims
-- Private Investigator
+  - Private Investigator
 
 [**`^        back to top        ^`**](#)
 
@@ -406,7 +405,7 @@ Derrel W. Sims
 ---
 
 James Gilliland
-- Director, ECETI
+  - Director, ECETI
 
 [**`^        back to top        ^`**](#)
 
