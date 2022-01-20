@@ -17,6 +17,7 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 
 
 ![Autopsy Photo](https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg)
+&npsp;
 
 ---
 
@@ -667,7 +668,34 @@ John Lear
 
 ![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
 
+
+
+[**`^        back to top        ^`**](#)
+
+...
+---
+
+John Lear
+  -  
+
+![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
+
+
+[**`^        back to top        ^`**](#)
+
+...
+---
+
+Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
+  - UFOlogists, founder of Close Encounters of the 3rd Kind
+
  
+![image](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
+&npsp;
+
+...
+---
+
 Rest of cast listed alphabetically:
 
 Richard Campbell
@@ -677,11 +705,6 @@ Major Desmond Morton
 Andrew von Urtz
 
 Alien
-
-[**`^        back to top        ^`**](#)
-
-...
----
 
 ### Writing Credits (in alphabetical order)  
   - James Carman	Cast (in credits order)
