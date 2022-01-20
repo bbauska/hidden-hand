@@ -128,7 +128,7 @@ Included in this volume are the activities of more than fifty military bases rel
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
 <p align="center" width="100%">
-  <img width="50%" src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber.png?raw=true"
+  <img width="15%" src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber.png?raw=true"
     alt="Whitley Strieber"</>
 </p>
 
