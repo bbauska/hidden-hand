@@ -162,7 +162,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 https://youtu.be/eDq-ThNqBfY
 
-##### THE UFO CHALLENGE
+<h4>THE UFO CHALLENGE</h4>
 
 December 1997
 By Stanton T. Friedman
