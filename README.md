@@ -476,6 +476,10 @@ Gordon Novel
 
   - Self - Former CIA Operative
 
+Gordon Novel is a fascinating man. Carried along on the train of history, Gordon Novel has had a front seat to many of the most controversial chapters in U.S. history. From the Kennedy assassination to Watergate, Waco and beyond, Gordon has really seen it all. In his first interview for over a decade, he gives us a glimpse of his role and perspective on a multitude of subjects including; the Vietnam war, Saddam Hussein and his trial, Majestic and the CIA, UFOs, the 'Extraterrestrial Revolution' and much more.
+   
+He is charming, bold, uncompromising in his vision and determined to change the world. We are given a special look at Gordon's new quest to bring free energy to the world, along with news of his proposed motion picture in development, KINGDOMS COME, in a deal being brokered with some of the biggest names in Hollywood. With the support of the CIA, he believes his vision of a world set free from the confines of oil and gas will become a reality. A big picture thinker with a strong will and an indomitable spirit, he is forging ahead against all odds. His fierce dedication is something to behold and we wish him every success in his quest.
+ 
 
 
 [**`^        back to top        ^`**](#)
@@ -536,6 +540,8 @@ Graham Hancock
 Melinda Leslie
 
   - Researcher & Abductee
+ 
+MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial and covert-ops human abduction experiences for 28 years and is considered by many to be the authority on a military and intelligence agency involvement in UFO abduction cases. Both her research and personal experiences have been featured in 25 books by prominent authors in ufology.
 
 [**`^        back to top        ^`**](#)
 
@@ -668,7 +674,70 @@ John Lear
 
 ![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
 
+INTRODUCTION:
 
+John Lear, retired airline captain, with over 19,000 hours of flight-time, has flown in over 100 different types of planes in 60 different counties around the world.
+
+Son of Lear Jet inventor, Bill Lear, John is the only pilot to hold every FAA airplane certificate, to include airplane transport rating, flight instructor, ground instructor, flight navigator, engineer, aircraft dispatcher, airframe powerplant mechanic, parachute rigger, and tower operator.
+
+He flew secret missions for the CIA in Central and Southeast Asia, Eastern Europe, the Middle East and Africa between 1966 and 1983. He has flown as Captain and check pilot for over 10 different airlines.
+
+John held 17 world records including speed around the world in a Lear Jet Model 24, set in 1966. He was presented with the PATCO award for outstanding airmanship in 1968, and the Symons Wave memorial. He was the youngest American to climb the Matterhorn in Switzerland in 1959 and in the 1970's owned and skippered the Americas Cup boat, the Soliloquy, out of Marina Del Rey.
+
+In 1968, John raced a Douglas B26 Invader in the unlimited class at the Reno air races.  
+
+He was a Senior Vice Commander of the China Post 1, the American Legion Post for Soldiers of Fortune.  He is a 20 year member of the special operations Association.
+
+John is the current owner and operator of the only permitted gold mine operation Cutthroat Mining Corporation in Clarke County, Nevada. His efforts to clean up the Treasure Hawk Gold Butte mine won him the state of Nevada award for excellence in mining reclamation in 1999.  John is a MSHA (Mine, Safety, and Health Administration) and holds a blaster license from the Nevada certified mining instructor from the Nevada State Fire Marshall.
+
+John's passion for the preservation and documentation of the history of the Gold Butte  has made him a authority on the area.
+
+John has been a resident of Las Vegas since 1994 and was a republican State Senate candidate in 1980.
+
+John has 4 daughters, 2 grandchildren, and lives with his wife in Las Vegas. - Las Vegas businesswoman, Mary Lee Lear in Sunrise Manor.
+
+In 1988, John met and became friends with Bob Lazar, the government scientist who worked on the back-engineering of the propulsion system of the extraterrestrial UFOs at area S-4. That's just outside the infamous and ultrasecret Area 51.
+
+In March 1989, Lazar took John to an area close to Rachel Nevada where he witnessed the flight of a flying saucer at the exact time Lazar told him it would occur.
+
+Two weeks later on another UFO spying mission, John, Lazar and 3 others were caught by security forces - (that's CAUGHT folks) - and the next day, - the very next day - Lazar lost his job at the government program for that breach of security. Lazar has been branded by many as a fraud, a charge to which John responds, " Those who say that Lazar was a fraud simply don't know the facts of this incredible 12 month period.  I was there - they weren't."
+
+During the late 1980's, John tracked down and found the Army Intelligence Analyst who read, probably by accident, the U.S. government report Grudge 13, which documented the history of the U.S. UFO coverup and details of saucer recoveries, disposition of their occupants, and handling  (That's HANDLING) of civilian witnesses.
+
+The report included clear photographs of these recovered extraterrestrial craft and beings - (That's BEINGS) found inside. It further detailed how recoveries were made worldwide and specially designed transports to accommodate the craft.
+
+John spent time poking around other UFO related areas to include Dulce, Secora, Aztec, Alamagorda, Albuquerque, Los Alamos and Bentwaters airbase near London.
+
+Since that time, John has learned many incredible and interesting facts about the solar system and planets including the existence of huge structures, arches, bridges and domes on the moon, cities on Mars, huge extraterrestrial ships mining the rings of Saturn, the incredible but secret agenda of Apollo 17, to the huge rectangular opening in the south massif of the Taurus-Littrow Highlands called Nansen.
+
+
+
+NASA Photo ID: AS17-137-21011 File Name: 10075963.jpg
+
+Film Type: 70mm Date Taken: 12/12/72
+
+Title: View of lunarscape at Station 4 with Astronaut Schmitt working at LRV
+
+Description: A view of the lunarscape at Station 4 (Shorty Crater) showing
+Scientist-Astronaut Harrison H. Schmitt working at the lunar roving vehicle
+(LRV) during the second Apollo 17 extravehicular activity (EVA-2) at the
+Taurus-Littrow landing site. (Lunar landing site: 20.2 N, 30.8 E )
+This is the area where Schmitt first spotted the orange soil.
+Orange soil is clearly visible on either side of the rover in
+this picture. Shorty Crater is to the right. The peak in the
+center background is Family Mountain. A portion of South Massif
+is on the horizon at the left edge.  (Apollo 17 samples)
+
+NOTE: The Valley of Taurus-Littrow
+
+The image linked here is a portion of Pan Camera frame AS17-2309 showing the South Massif at the upper right and the Sculptured Hills at the lower left. The North Massif is at the bottom right and Henry Crater is the rightmost of the three large craters in a triangular pattern at the foot of the mountain. This orientation is to facilitate comparison with features in the Station 6 high resolution images below. See also the labeled version of this frame. The distance from Station 6 above Henry to the LM is 3.5 km; to Bear Mountain, about 8 km; and to the outcrop noted in 21498 below, about 18 km. Scans by Ron Wells.
+
+Apollo 17 Pan Camera frame AS17-2309 Details
+
+The frame was taken on December 11, 1972 at 23:47:38.1 GMT during CSM Rev 15 from an altitude of 113.07 km. In terms of the mission time, the photo was taken at
+116:54:38 -- just seven minutes before Gene and Jack started their watches for the first EVA. John Pfannerstill has scanned three portions of the frame.
+
+In the central area around the LM, the largest crater is Camelot at the upper left. A labeled version highlights the LM and Poppie. In the area north of the LM, covering the EVA-3 traverse, Henry is the large crater at the foot of the North Massif just above and to the right of the center of the image. In the area west of the LM, covering the EVA-2 traverse, Nansen is at the lower left, Camelot is at the right edge above center, and Shorty is the sharp-rimmed, dark-edged crater at top center, about a Camelot diameter below the top edge of the image.
 
 [**`^        back to top        ^`**](#)
 
@@ -691,7 +760,7 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
 
  
 ![image](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
-&npsp;
+&nbsp;
 
 ...
 ---
