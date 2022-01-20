@@ -100,10 +100,11 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 ---
  <h4>Richard Dolan</h4>
+ - Author. UFOs & The National Security State
  
 ![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
 
-- Author. UFOs & The National Security State
+
 <p>
 Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led him to the broader context of increased security measures and secrecy since World War II. One aspect of such government policies that has continued to hold the public's imagination for over half a century is the question of unidentified flying objects.
 </p>
@@ -125,6 +126,11 @@ Included in this volume are the activities of more than fifty military bases rel
 - Author, Communion
  
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
+
+<p align="center" width="100%">
+  <img width="50%" src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber.png?raw=true"
+    alt="Whitley Strieber"</>
+</p>
 
 [**`^        back to top        ^`**](#)
  
