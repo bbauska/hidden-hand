@@ -442,7 +442,7 @@ Budd Hopkins
 ---
 
 
-<h4<Philip J. Corso</h4>
+<h4>Philip J. Corso</h4>
 
   - Chief of Pentagon Foreign Technology Desk (archive footage)
 
@@ -483,6 +483,7 @@ Gordon Novel
 ---
 
 Jim Marrs
+
   - Self - Author, Alien Agenda
 
 [**`^        back to top        ^`**](#)
@@ -492,7 +493,7 @@ Jim Marrs
 
 Linda Moulton Howe
 
-  <span style="background-color: #FFFF00">- Self - TV Producer</span>
+  - Self - TV Producer
 
 [**`^        back to top        ^`**](#)
 
