@@ -492,7 +492,7 @@ Jim Marrs
 
 Linda Moulton Howe
 
-  - Self - TV Producer
+  <span style="background-color: #FFFF00">- Self - TV Producer</span>
 
 [**`^        back to top        ^`**](#)
 
