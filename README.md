@@ -98,15 +98,18 @@ Career
 Police officer at U.S. Capitol, c. 1961-63; city attorney, Henderson, NV, 1964-66; Nevada state assemblyman, 1969-1970; Nevada lieutenant governor, 1970-74; ran for U.S. Senate but lost, 1974; chairman of the Nevada Gaming Commission, 1977-81; attorney in private practice, 1981-83; congressman, 1983-87; U.S. senator, 1987—; Senate Democratic Whip, 1998-2004; Senate Minority Leader, 2005—.
 
 
+I love supporting the **[EFF](https://eff.org)**.
+This is the *[Markdown Guide](https://www.markdownguide.org)*.
+See the section on [`code`](#code).
 
-Read more: https://www.notablebiographies.com/newsmakers2/2006-Ra-Z/Reid-Harry.html#ixzz7Ik2R5aRj
+Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra-Z/Reid-Harry.html#ixzz7Ik2R5aRj)**
 
 ---
 <h4>Chuck Weiss</h4>
 
   - Author. How I Learned to Cope with High Strangeness...
 
-![image](https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png)
+[Chuch Weiss](https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png "Chuck Weiss")
 
 <p>
 How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
@@ -121,8 +124,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
   - Author. UFOs & The National Security State
 
-![image](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png)
-
+[Richard Dolan](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png "Richard Dolan UFOs & The National Security State")
 
 <p>
 Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led him to the broader context of increased security measures and secrecy since World War II. One aspect of such government policies that has continued to hold the public's imagination for over half a century is the question of unidentified flying objects.
@@ -167,7 +169,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
   - Retired U.S. Army Command Sergeant Major
 
-![image](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png)
+[Robert Dean](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png "Robert Dean, US Army Command Sergeant Major")
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
@@ -292,9 +294,7 @@ Niara Isley
 
   - Abductee
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
-
-https://encounterswithhealing.com/
+[Encounters with Healing](https://encounterswithhealing.com/)
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
@@ -875,13 +875,13 @@ Stringfield first publicly reported his so-called "crash/retrieval" findings at 
 
 #### Sources:
 
-![nicap](http://www.nicap.org/bios/stringfield.htm)
+This is the *[NICAP](http://www.nicap.org/bios/stringfield.htm)*.
 
-[wikipedia]http://en.wikipedia.org/wiki/Leonard_H._Stringfield
+Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wiki/Leonard_H._Stringfield)*
 
 &nbsp;
 
-![ufo podcast](https://blubrry.com/podcast_ufo/archive/?pi=4)
+*[ufo podcast](https://blubrry.com/podcast_ufo/archive/?pi=4)*
 
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
