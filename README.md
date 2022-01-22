@@ -22,9 +22,6 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 </p>
 ---
 
-<header>
-<h2><a name="hidden-hand-toc">Hidden Hand</h2>
-</header>
 <blockquote>
 The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
 presence here on Earth. The film takes a keen look at a spectrum of topics like alien abduction, human/alien 
@@ -69,6 +66,7 @@ Another interpretation is that Einstein really did not want to know because he w
 </p>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
+
 ...
 
 ---
@@ -82,7 +80,7 @@ Another interpretation is that Einstein really did not want to know because he w
 Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
 </blockquote>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
  
 ...
 
@@ -97,7 +95,9 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
+
+## [Table of Contents](#hidden-hand-toc)
  
 ...
 
@@ -119,7 +119,7 @@ UFOs and the National Security State is the first volume of a two-part detailed 
 Included in this volume are the activities of more than fifty military bases relating to UFOs, innumerable violations of sensitive airspace by unknown craft and analyses of the Roswell controversy, the CIA-sponsored Robertson Panel, and the Condon Committee Report. Dolan highlights the development of civilian anti-secrecy movements, which flourished in the 1950s and 1960s until the adoption of an official government policy and subsequent "closing of the door" during the Nixon administration.
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 
@@ -141,7 +141,7 @@ Included in this volume are the activities of more than fifty military bases rel
     alt="Whitley Strieber"</>
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
  
 ...
 
@@ -153,7 +153,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 ![image](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png)
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
  
 ...
 
@@ -165,7 +165,8 @@ Included in this volume are the activities of more than fifty military bases rel
 
 ![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
 
-https://youtu.be/eDq-ThNqBfY
+
+[![Alt text](https://youtu.be/eDq-ThNqBfY)](https://www.youtube.com/watch?v=VID)
 
 <h4>THE UFO CHALLENGE</h4>
 
