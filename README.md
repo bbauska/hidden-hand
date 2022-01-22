@@ -78,7 +78,7 @@ Another interpretation is that Einstein really did not want to know because he w
 ...
 
 ---
-<h4>Victor Hugo</h4>
+<h4>Victor Hugo (Feb/1802 - May/1885)</h4>
 
   - Poet, novelist. Les Misérables (1862), and dramatist
 
@@ -91,6 +91,15 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 [**`^        back to top        ^`**](#hidden-hand-toc)
  
 ...
+
+<h4>Harry Reid - (Dec/1939-Dec/2021)</h4>
+
+Career
+Police officer at U.S. Capitol, c. 1961-63; city attorney, Henderson, NV, 1964-66; Nevada state assemblyman, 1969-1970; Nevada lieutenant governor, 1970-74; ran for U.S. Senate but lost, 1974; chairman of the Nevada Gaming Commission, 1977-81; attorney in private practice, 1981-83; congressman, 1983-87; U.S. senator, 1987—; Senate Democratic Whip, 1998-2004; Senate Minority Leader, 2005—.
+
+
+
+Read more: https://www.notablebiographies.com/newsmakers2/2006-Ra-Z/Reid-Harry.html#ixzz7Ik2R5aRj
 
 ---
 <h4>Chuck Weiss</h4>
@@ -108,7 +117,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 ...
 
 ---
-<h4>Richard Dolan</h4>
+<h4>Richard Dolan (7/1962)</h4>
 
   - Author. UFOs & The National Security State
 
