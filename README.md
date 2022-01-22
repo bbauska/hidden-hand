@@ -1,4 +1,4 @@
-# [The Hidden Hand - Alien Contact and the Government Coverup](#hidden-hand-toc)
+<h1 id="hidden-hand-toc">[The Hidden Hand - Alien Contact and the Government Coverup]
 --James Carman (2008)
 
 **[`^        go to credits        ^`](#credits)**
