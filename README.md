@@ -2,10 +2,6 @@
 
 --James Carman (2008)
 
-**[`^        go to credits        ^`](#credits)**
-
-**[⬆ go to credit](#credits)**
-
 ---
 
 <blockquote>
@@ -70,7 +66,7 @@ What is more interesting about the Einstein quote is what is not said.  Though E
 Another interpretation is that Einstein really did not want to know because he was afraid to know.  And this makes sense.  If what Edwards says is true, Einstein feared the phenomenon.  But what he feared more was us.  Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 
@@ -100,7 +96,7 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 
@@ -122,7 +118,8 @@ UFOs and the National Security State is the first volume of a two-part detailed 
 Included in this volume are the activities of more than fifty military bases relating to UFOs, innumerable violations of sensitive airspace by unknown craft and analyses of the Roswell controversy, the CIA-sponsored Robertson Panel, and the Condon Committee Report. Dolan highlights the development of civilian anti-secrecy movements, which flourished in the 1950s and 1960s until the adoption of an official government policy and subsequent "closing of the door" during the Nixon administration.
 </p>
 
-[**`^        back to top        ^`**](#)
+
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 
@@ -144,7 +141,7 @@ Included in this volume are the activities of more than fifty military bases rel
     alt="Whitley Strieber"</>
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
  
 ...
 
@@ -156,7 +153,8 @@ Included in this volume are the activities of more than fifty military bases rel
 
 ![image](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png)
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
+
 ...
 
 ---
@@ -249,7 +247,7 @@ Joni Strother
  
 Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ---
 Roger Leir
@@ -261,8 +259,7 @@ Roger Leir
 Dr. Roger K. Leir is one of the world's most important leaders in physical evidence research involving the field of Ufology. In this special session he will reveal scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private practice for the past 43 years and has written numerous books including The Aliens and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
  
 
- 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -273,7 +270,7 @@ Jim Sparks
 ![image](https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png)
 
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 Niara Isley
 
@@ -282,8 +279,8 @@ Niara Isley
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
 
 https://encounterswithhealing.com/
- 
-[**`^        back to top        ^`**](#)
+
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -292,7 +289,7 @@ Lyn Buchanan
 
   - Director, The PSI Institute
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -301,7 +298,7 @@ Nassim Haramein
 
   - Director, The Resonance Project Foundation
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -310,7 +307,7 @@ David Jacobs
 
   - Historian & Hypnotherapist
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -319,7 +316,7 @@ Nick Pope
 
   - Former Head of the British Government's UFO Project
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -328,7 +325,7 @@ Milton Torres
   
   - Former USAF Fighter Pilot & Astronaut
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -337,7 +334,7 @@ Edgar D. Mitchell
 
   - Former Astronaut
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -346,7 +343,8 @@ James Penniston
 
  - Sergeant USAF Retired
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
+
 
 ...
 ---
@@ -355,7 +353,8 @@ David Icke
   
   - Author, The Biggest Secret
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
+
 
 ...
 ---
@@ -364,7 +363,8 @@ Jaime Maussan
   
   - TV Producer
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
+
 
 ...
 ---
@@ -373,7 +373,7 @@ John B. Alexander
    
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -382,7 +382,7 @@ Paul Hellyer
   
   - Former Canadian Defense Secretary
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -391,7 +391,7 @@ Charles Hall
   
   - Retired US Army Duty Weather Observer
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -400,7 +400,7 @@ David Huggins
   
   - Painter & Experiencer
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -409,7 +409,7 @@ Clifford E. Stone
   
   - Retired US Army Sergeant
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -418,7 +418,7 @@ Derrel W. Sims
   
   - Private Investigator
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -427,7 +427,7 @@ James Gilliland
   
   - Director, ECETI
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -436,7 +436,7 @@ Budd Hopkins
 
   - Ufologist
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -466,7 +466,7 @@ In the book, Corso claims the Strategic Defense Initiative (SDI), or “Star War
 
 Different parts of the Roswell craft were sent to various defense companies, who reverse engineered their properties. This engineering feat eventually led to a number of breakthroughs. Among them were integrated circuitry, night vision equipment, the laser, particle beams, and fiber optics. The contractors were told that the parts were stolen from Russia.
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -481,7 +481,7 @@ He is charming, bold, uncompromising in his vision and determined to change the 
  
 
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -490,7 +490,7 @@ Jim Marrs
 
   - Self - Author, Alien Agenda
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -499,7 +499,10 @@ Linda Moulton Howe
 
   - Self - TV Producer
 
-[**`^        back to top        ^`**](#)
+https://github.com/bbauska/hidden-hand/blob/main/images/linda%20moulton%20howe.png?raw=true
+
+
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -845,4 +848,4 @@ Alien
   - Patrick Chin	...	assistant producer
   - Chris Perez	...	clearance counsel (as Christopher L. Perez)
 
-[**`^        back to top        ^`**](#)
+**[`^        go to credits        ^`](#credits)**
