@@ -1,6 +1,9 @@
-# [**The Hidden Hand - Alien Contact and the Government Coverup**] (#hidden-hand-toc)
+# [The Hidden Hand - Alien Contact and the Government Coverup](#hidden-hand-toc)
 --James Carman (2008)
 
+[**Hidden Hand**]
+
+[**Hidden Hand (this) git**](https://github.com/bbauska/hidden-hand.git)
 ---
 
 <blockquote>
@@ -9,6 +12,8 @@ than are dreamt of in your philosophy.
 <br>
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
+
+---
 
 ![Autopsy Photo](https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg)
 
@@ -19,10 +24,6 @@ Long, long list of authors, abductees, officers, government whistle-blowers, exp
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
 </p>
 ---
-
-[**Hidden Hand**]
-
-[**Hidden Hand (this) git**](https://github.com/bbauska/hidden-hand.git)
 
 <header>
 <h2><a name="hidden-hand-toc">Hidden Hand</h2>
