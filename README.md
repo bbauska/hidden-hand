@@ -1,9 +1,6 @@
 # [The Hidden Hand - Alien Contact and the Government Coverup](#hidden-hand-toc)
 --James Carman (2008)
 
-[**Hidden Hand**]
-
-[**Hidden Hand (this) git**](https://github.com/bbauska/hidden-hand.git)
 ---
 
 <blockquote>
