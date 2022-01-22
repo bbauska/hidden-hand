@@ -44,9 +44,13 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 ---
 
- <h4>Albert Einstein</h4>
+ <h4>Albert Einstein (1879-1955)</h4>
 
 ![Albert Einstein](https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png)
+
+Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium. Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics. In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office. In 1905 he obtained his doctor’s degree.
+
+Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938). Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.
 
 <blockquote>
 In a recently unearthed recording of an interview conducted nearly 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft. UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947. As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.
@@ -81,7 +85,7 @@ Another interpretation is that Einstein really did not want to know because he w
 Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
 </blockquote>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
  
 ...
 
@@ -757,6 +761,19 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
  
   - UFOlogists, founder of Close Encounters of the 3rd Kind
+
+ 
+![image](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
+&nbsp;
+
+[**`^        back to top        ^`**](#hidden-hand-toc)
+
+...
+---
+
+Leonard Stringfield
+ 
+  - 1920-1994 UFOlogists (maybe the best ever), 
 
  
 ![image](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
