@@ -3,6 +3,8 @@
 
 **[`^        go to credits        ^`](#credits)**
 
+**[⬆ go to credit](#credits)**
+
 ---
 
 <blockquote>
