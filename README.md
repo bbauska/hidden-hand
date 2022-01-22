@@ -277,8 +277,10 @@ Jim Sparks
 Niara Isley
 
   - Abductee
+
 [![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
- https://encounterswithhealing.com/
+
+https://encounterswithhealing.com/
  
 [**`^        back to top        ^`**](#)
 
