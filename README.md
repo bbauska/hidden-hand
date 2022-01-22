@@ -281,7 +281,7 @@ Jim Sparks
 Niara Isley
 
   - Abductee
-
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
  https://encounterswithhealing.com/
  
 [**`^        back to top        ^`**](#)
@@ -509,7 +509,7 @@ Dan Burisch
 
   - Retired Government Microbiologist
 
-![image](https://user-images.githubusercontent.com/41387907/138953761-9151e3ff-c85e-41dd-8ba9-f922aab95660.png)
+![Dan Burisch](https://user-images.githubusercontent.com/41387907/138953761-9151e3ff-c85e-41dd-8ba9-f922aab95660.png)
 
 <h5>Introduction</h5>
 <p>
@@ -670,9 +670,10 @@ Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology)
 ---
 
 John Lear
-  -  
+ 
+  -  CIA pilot, UFO researcher
 
-![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
+![John Lear](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
 
 INTRODUCTION:
 
@@ -744,9 +745,6 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 ...
 ---
 
-John Lear
-  -  
-
 ![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
 
 
@@ -756,6 +754,7 @@ John Lear
 ---
 
 Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
+ 
   - UFOlogists, founder of Close Encounters of the 3rd Kind
 
  
