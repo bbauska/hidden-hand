@@ -20,7 +20,7 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 </p>
 ---
 
-[**Hidden Hand**](#hidden-hand-toc)
+[**Hidden Hand**]
 
 [**Hidden Hand (this) git**](https://github.com/bbauska/hidden-hand.git)
 
@@ -70,7 +70,7 @@ What is more interesting about the Einstein quote is what is not said.  Though E
 Another interpretation is that Einstein really did not want to know because he was afraid to know.  And this makes sense.  If what Edwards says is true, Einstein feared the phenomenon.  But what he feared more was us.  Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
 </p>
 
-[**`^        back to TOC        ^`**](#hidden-hand-toc)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 ...
 
 ---
