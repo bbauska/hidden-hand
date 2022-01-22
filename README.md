@@ -21,6 +21,9 @@ than are dreamt of in your philosophy.
 Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
 </p>
+
+**[`^        List of Credits        ^`](#credits)**
+
 ---
 
 <blockquote>
@@ -777,6 +780,8 @@ Leonard Stringfield (1920-1994)
 
 &nbsp;
 
+![Leonard Stringfield](https://github.com/bbauska/hidden-hand/blob/main/images/leonard%20stringfield%20-%20photo.png?raw=true)
+
 Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. He died in 1994.[1]
 
 Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the civilian UFO group, National Investigations Committee On Aerial Phenomena (NICAP), under the direction of Donald Keyhoe, a friend since 1953. From 1967 to 1969, Stringfield served as an "Early Warning Coordinator" for the Condon Committee. 
@@ -788,7 +793,7 @@ In 1978, Stringfield served as UFO research adviser to Grenada Prime Minister Si
 
 Stringfield's interest in the subject began August 28, 1945, just three days before the end of the war, when he was an Army Air Force intelligence officer en route to Tokyo, Japan, along with twelve other specialists in the Fifth Air Force. As they approached Iwo Jima at about ten thousand feet in a sunlit sky, Stringfield related:
 
-> "I was shocked to see three teardrop-shaped objects from my starboard-side window. They were brilliantly white, like burning magnesium, and closing in on a parallel  course to our C-46. Suddenly, our left engine feathered, and I was later to learn that the magnetic navigation-instrument needles went wild. As the C-46 lost  altitude, with oil spurting from the troubled engine, the pilot sounded an alert; crew and passengers were told to prepare for a ditch! I do not recall my thoughts or actions during the next, horrifying moments, but my last glimpse of the three bogies placed them about 20 degrees above the level of our transport. Flying in the same, tight formation, they faded into a cloud bank. Instantly, our craft's engine revved up, and we picked up altitude and flew a steady course to land safely at Iwo Jima."
+>"I was shocked to see three teardrop-shaped objects from my starboard-side window. They were brilliantly white, like burning magnesium, and closing in on a parallel  course to our C-46. Suddenly, our left engine feathered, and I was later to learn that the magnetic navigation-instrument needles went wild. As the C-46 lost  altitude, with oil spurting from the troubled engine, the pilot sounded an alert; crew and passengers were told to prepare for a ditch! I do not recall my thoughts or actions during the next, horrifying moments, but my last glimpse of the three bogies placed them about 20 degrees above the level of our transport. Flying in the same, tight formation, they faded into a cloud bank. Instantly, our craft's engine revved up, and we picked up altitude and flew a steady course to land safely at Iwo Jima."
 
 #### UFO interest rekindled
 
@@ -826,134 +831,152 @@ Stringfield first publicly reported his so-called "crash/retrieval" findings at 
 
 #### Noted crash/retrieval cases
 
-   • Roswell UFO incident - Witness accounts of the Roswell UFO incident
-   • Kecksburg UFO incident
-   • Shag Harbour UFO incident
-   • Height 611 UFO Incident
+	   - Roswell UFO incident - Witness accounts of the Roswell UFO incident
+	   - Kecksburg UFO incident
+	   - Shag Harbour UFO incident
+	   - Height 611 UFO Incident
 
 #### Associated Organizations
 
-   • Civilian Research, Interplanetary Flying Objects (CRIFO)
-   • National Investigations Committee On Aerial Phenomena (NICAP)
-   • Mutual UFO Network (MUFON)
-   • Fund for UFO Research (FUFOR)
-   • Center for UFO Studies (CUFOS)
-   • Citizens Against UFO Secrecy (CAUS)
-   
+   	* Civilian Research, Interplanetary Flying Objects (CRIFO)
+  	 * National Investigations Committee On Aerial Phenomena (NICAP)
+  	 * Mutual UFO Network (MUFON)
+  	 * Fund for UFO Research (FUFOR)
+  	 * Center for UFO Studies (CUFOS)
+  	 * Citizens Against UFO Secrecy (CAUS)
+
 
 #### Newsletter
- 
->  "Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian Research Interplanetary Flying Objects (C.R.I.F.O.)
+
+>"Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian > Research Interplanetary Flying Objects (C.R.I.F.O.)
+
 
 #### Book
 
-  Situation Red: The UFO Siege (1977)
+  * Situation Red: The UFO Siege (1977)
 
 #### Status Reports
 
-   Status Report I - Retrievals Of The Third Kind
-   Status Report II - The UFO Crash/Retrieval Syndrome
-   Status Report III - UFO Crash/Retrievals: Amassing The Evidence
-   Status Report IV - The Fatal Encounter At Ft. Dix-McGuire
-   Status Report V - UFO Crash/Retrievals: Is The Coverup Lid Lifting?
-   Status Report VI - UFO Crash/Retrievals: The Inner Sanctum
+   1. Status Report I - Retrievals Of The Third Kind
+   2. Status Report II - The UFO Crash/Retrieval Syndrome
+   3. Status Report III - UFO Crash/Retrievals: Amassing The Evidence
+   4. Status Report IV - The Fatal Encounter At Ft. Dix-McGuire
+   5. Status Report V - UFO Crash/Retrievals: Is The Coverup Lid Lifting?
+   6. Status Report VI - UFO Crash/Retrievals: The Inner Sanctum
 
 #### Sources:
 
-![nicap]http://www.nicap.org/bios/stringfield.htm
+![nicap](http://www.nicap.org/bios/stringfield.htm)
 
 [wikipedia]http://en.wikipedia.org/wiki/Leonard_H._Stringfield
 
 &nbsp;
 
-[ufo podcast]https://blubrry.com/podcast_ufo/archive/?pi=4
+![ufo podcast](https://blubrry.com/podcast_ufo/archive/?pi=4)
+
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
 
-Rest of cast listed alphabetically:
+#### Rest of cast listed alphabetically:
 
-Richard Campbell
+  - Richard Campbell
+  - Major Desmond Morton
+  - Andrew von Urtz
+  - Alien
 
-Major Desmond Morton
-
-Andrew von Urtz
-
-Alien
-
-## [Writing Credits (in alphabetical order)](#credits)
+<h3 id="credits">Writing Credits (in alphabetical order)</h2>
 
   - James Carman	Cast (in credits order)
-  - Tristan Layton	Tristan Layton	...	Self - Narrator (voice)
-  - Richard Dolan	Richard Dolan	...	Self - Author. UFOs & The National Security State
-  - Whitley Strieber	Whitley Strieber	...	Self - Author, Communion
-  - Robert Dean	Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
-  - Stanton Friedman	Stanton Friedman	...	Self - Author, Flying Saucers & Science
-  - Paola Harris	Paola Harris	...	Self - Author, Connecting the Dots
-  - Joni Strother	Joni Strother	...	Self - Abductee
-  - Roger Leir	Roger Leir	...	Self - Author, The Aliens and the Scalpel
-  - Jim Sparks	Jim Sparks	...	Self - Author, The Keepers
-  - Niara Isley	Niara Isley	...	Self - Abductee
-  - Lyn Buchanan	Lyn Buchanan	...	Self - Director, The PSI Institute
-  - Nassim Haramein	Nassim Haramein	...	Self - Director, The Resonance Project Foundation
-  - David Jacobs	David Jacobs	...	Self - Historian & Hypnotherapist
-  - Nick Pope	Nick Pope	...	Self - Former Head of the British Government's UFO Project
-  - Milton Torres	Milton Torres	...	Self - Former USAF Fighter Pilot
-  - Edgar D. Mitchell	Edgar D. Mitchell	...	Self - Former Astronaut
-  - James Penniston	James Penniston	...	Self - Sergeant USAF Retired
-  - David Icke	David Icke	...	Self - Author, The Biggest Secret
-  - Jaime Maussan	Jaime Maussan	...	Self - TV Producer
-  - John B. Alexander	John B. Alexander	...	Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
-  - Paul Hellyer	Paul Hellyer	...	Self - Former Canadian Defense Secretary
-  - Charles Hall	Charles Hall	...	Self - Retired US Army Duty Weather Observer
-  - David Huggins	David Huggins	...	Self - Painter & Experiencer
-  - Clifford E. Stone	Clifford E. Stone	...	Self - Retired US Army Sergeant
-  - Derrel W. Sims	Derrel W. Sims	...	Self - Private Investigator
-  - James Gilliland	James Gilliland	...	Self - Director, ECETI
-  - Budd Hopkins	Budd Hopkins	...	Self - Ufologist
-  - Philip J. Corso	Philip J. Corso	...	Self - Chief of Pentagon Foreign Technology Desk (archive footage)
-  - Gordon Novel	Gordon Novel	...	Self - Former CIA Operative
-  - Jim Marrs	Jim Marrs	...	Self - Author, Alien Agenda
-  - Linda Moulton Howe	Linda Moulton Howe	...	Self - TV Producer
-  - Dan Burisch	Dan Burisch	...	Self - Retired Government Microbiologist
-  - Graham Hancock	Graham Hancock	...	Self - Author, Fingerprints of the Gods
-  - Melinda Leslie	Melinda Leslie	...	Self - Researcher & Abductee
-  - Jesse Long	Jesse Long	...	Self - Abductee
-  - Yvonne Smith	Yvonne Smith	...	Self - Hypnotherapist
-  - Marc Brinkerhoff	Marc Brinkerhoff	...	Self - Contactee & Artist
-  - Shelley Yates	Shelley Yates	...	Self - Director, Fire the Grid
-  - Julian Michael	Julian Michael	...	Self - Hypnotherapist
-  - J.J. Hurtak	J.J. Hurtak	...	Self - Author, The Keys of Enoch
-  - Melissa Reid	Melissa Reid	...	Self - Experiencer & Artist
-  - Jeremy Vaeni	Jeremy Vaeni	...	Self - Experiencer & Writer
-  - Farah Yurdozu	Farah Yurdozu	...	Self - Experiencer & Researcher
-  - Posey Gilbert	Posey Gilbert	...	Self - Experiencer
-  - Alan White	Alan White	...	Self - Experiencer & Composer
-  - Harold Egeln	Harold Egeln	...	Self - Experiencer & Journalist
-  - Stephen Bassett	Stephen Bassett	...	Self - Director, Paradigm Research Group
-  - Rest of cast listed alphabetically:
-  - Richard Campbell	Richard Campbell	...	Major Desmond Morton
-  - Andrew von Urtz	Andrew von Urtz	...	Alien
+  - Tristan Layton	...	Self - Narrator (voice)
+  - Richard Dolan	...	Self - Author, UFOs & The National Security State
+  - Whitley Strieber	...	Self - Author, Communion
+  - Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
+  - Stanton Friedman	...	Self - Author, Flying Saucers & Science
+  - Paola Harris	...	Self - Author, Connecting the Dots
+  - Joni Strother	...	Self - Abductee
+  - Roger Leir	...	Self - Author, The Aliens and the Scalpel
+  - Jim Sparks	...	Self - Author, The Keepers
+  - Niara Isley	...	Self - Abductee
+  - Lyn Buchanan	...	Self - Director, The PSI Institute
+  - Nassim Haramein		...	Self - Director, The Resonance Project Foundation
+  - David Jacobs	...	Self - Historian & Hypnotherapist
+  - Nick Pope	...	Self - Former Head of the British Government's UFO Project
+  - Milton Torres	...	Self - Former USAF Fighter Pilot
+  - Edgar D. Mitchell	...	Self - Former Astronaut
+  - James Penniston	...	Self - Sergeant USAF Retired
+  - David Icke	...	Self - Author, The Biggest Secret
+  - Jaime Maussan	...	Self - TV Producer
+  - John B. Alexander	...	Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
+  - Paul Hellyer	...	Self - Former Canadian Defense Secretary
+  - Charles Hall	...	Self - Retired US Army Duty Weather Observer
+  - David Huggins	...	Self - Painter & Experiencer
+  - Clifford E. Stone	...	Self - Retired US Army Sergeant
+  - Derrel W. Sims	...	Self - Private Investigator
+  - James Gilliland	...	Self - Director, ECETI
+  - Budd Hopkins	...	Self - Ufologist
+  - Philip J. Corso	...	Self - Chief of Pentagon Foreign Technology Desk (archive footage)
+  - Gordon Novel	...	Self - Former CIA Operative
+  - Jim Marrs...	Self - Author, Alien Agenda
+  - Linda Moulton Howe...	Self - TV Producer
+  - Dan Burisch	...	Self - Retired Government Microbiologist
+  - Graham Hancock	...	Self - Author, Fingerprints of the Gods
+  - Melinda Leslie...	Self - Researcher & Abductee
+  - Jesse Long...	Self - Abductee
+  - Yvonne Smith...	Self - Hypnotherapist
+  - Marc Brinkerhoff...	Self - Contactee & Artist
+  - Shelley Yates	...	Self - Director, Fire the Grid
+  - Julian Michael	...	Self - Hypnotherapist
+  - J.J. Hurtak	...	Self - Author, The Keys of Enoch
+  - Melissa Reid...	Self - Experiencer & Artist
+  - Jeremy Vaeni...	Self - Experiencer & Writer
+  - Farah Yurdozu...	Self - Experiencer & Researcher
+  - Posey Gilbert...	Self - Experiencer
+  - Alan White...	Self - Experiencer & Composer
+  - Harold Egeln...	Self - Experiencer & Journalist
+  - Stephen Bassett	...	Self - Director, Paradigm Research Group
+  
+  
 
-### Produced by 
+#### Rest of cast listed alphabetically:
+  - Richard Campbell...	Major Desmond Morton
+  - Andrew von Urtz	...	Alien
+
+#### Produced by 
   - James Carman	...	executive producer / producer
   - Chris Edwards	...	consulting producer
   - David McGrath	...	consulting producer
   - Sabine Schenk	...	co-producer
-  - Alan Steinfeld	...	co-producerMusic by 
-  - Mikael Karlsson	Cinematography by 
-  - James Carman	Film Editing by 
+  - Alan Steinfeld	...	co-producer
+  
+#### Music by 
+  - Mikael Karlsson	
+  
+#### Cinematography by 
+  - James Carman	
+  
+#### Film Editing by 
   - Dan Rovetto	
-  - Arnie Schlissel	Makeup Department 
-  - Lisa Iadarola	...	makeup artistEditorial Department 
+  - Arnie Schlissel	
+  
+#### Makeup Department 
+  - Lisa Iadarola	...	makeup artist
+
+#### Editorial Department 
   - James Carman	...	editor
-  - Arnie Schlissel	...	colorist / on-line editorMusic Department 
+  - Arnie Schlissel	...	colorist / on-line editor
+
+#### Music Department 
   - Carrie Beehan	...	theme song
-  - Mikael Karlsson	...	composer: theme musicAdditional Crew 
+  - Mikael Karlsson	...	composer: theme music
+
+#### Additional Crew 
   - Patrick Chin	...	assistant producer
-  - Chris Perez	...	clearance counsel (as Christopher L. Perez)
+  - Chris Perez	...	clearance 
+  
+#### counsel (as Christopher L. Perez)
 
 **[`^        go to credits        ^`](#credits)**
 
