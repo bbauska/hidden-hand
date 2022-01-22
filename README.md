@@ -522,7 +522,7 @@ Toward the end of 1998 Dan disappeared. His residence was abandoned overnight, a
 I was permitted very limited contact with him during that time, mostly because he made life unbearable until they honored his demand to talk to me. But he was eventually moved again and housed at the Papoose Lab facility where he could conduct critical biological studies on captive entity they had housed in their lab, on Level-5. Contact was intermittent, but then, in early 2001 I got a strange email that caught my attention. It was from mj01@missilemail.com. Since I knew that Dan was involved with Majestic and MJ12, I was immediately on alert. It turned out to be from a person inside the project Dan was working on, who was so upset with the situation that he felt compelled to seek my help. He was aware of my identity and long standing friendship with Dan because it was contained in the briefings he got prior to accepting his assignment, and figured I might be willing to assist. My contact is now dead. He was discovered communicating with me, and was involuntarily "retired". His letters read as follows, and give a troubling glimpse into the prison-like world that was created to maintain control of Dr. Dan Burisch and force him to comply with the wishes of the 'powers that be' as he eventually came to call them.
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -534,7 +534,7 @@ Graham Hancock
 ![image](https://user-images.githubusercontent.com/41387907/137835253-39381b64-61b7-48e7-9602-4ae76004db5e.png)
 
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -545,7 +545,7 @@ Melinda Leslie
  
 MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial and covert-ops human abduction experiences for 28 years and is considered by many to be the authority on a military and intelligence agency involvement in UFO abduction cases. Both her research and personal experiences have been featured in 25 books by prominent authors in ufology.
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -554,7 +554,7 @@ Jesse Long
 
   - Abductee
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -563,7 +563,7 @@ Yvonne Smith
 
   - Hypnotherapist
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -572,7 +572,7 @@ Marc Brinkerhoff
 
   - Contactee & Artist
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -581,7 +581,7 @@ Shelley Yates
 
   - Director, Fire the Grid
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -590,7 +590,7 @@ Julian Michael
 
   - Hypnotherapist
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -599,7 +599,7 @@ J.J. Hurtak
 
   - Author, The Keys of Enoch
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -608,7 +608,7 @@ Melissa Reid
   
    - Experiencer & Artist
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -617,7 +617,7 @@ Jeremy Vaeni
 
   - Experiencer & Writer
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -626,7 +626,7 @@ Farah Yurdozu
   
   - Experiencer & Researcher
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -635,7 +635,7 @@ Posey Gilbert
 
   - Experiencer
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -644,7 +644,7 @@ Alan White
 
   - Experiencer & Composer
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -653,7 +653,7 @@ Harold Egeln
 
   - Experiencer & Journalist
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -666,7 +666,7 @@ Stephen Bassett
 
 Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) lobbyist in the United States, executive director and treasurer of the political action committee Extraterrestrial Phenomena Political Action Committee and executive director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says it wants end to end the governments imposed truth embargo regarding the facts of extraterrestrials engaging the human race. During the run-up to the presidential election 2014-2016, Bassett met with House and Senate staffers regarding the need for new congressional hearings addressing the modern evidence for an extraterrestrial presence.
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -742,15 +742,14 @@ The frame was taken on December 11, 1972 at 23:47:38.1 GMT during CSM Rev 15 fro
 
 In the central area around the LM, the largest crater is Camelot at the upper left. A labeled version highlights the LM and Poppie. In the area north of the LM, covering the EVA-3 traverse, Henry is the large crater at the foot of the North Massif just above and to the right of the center of the image. In the area west of the LM, covering the EVA-2 traverse, Nansen is at the lower left, Camelot is at the right edge above center, and Shorty is the sharp-rimmed, dark-edged crater at top center, about a Camelot diameter below the top edge of the image.
 
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
 
 ![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
 
-
-[**`^        back to top        ^`**](#)
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -762,6 +761,8 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
  
 ![image](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
 &nbsp;
+
+[**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
 ---
@@ -849,3 +850,7 @@ Alien
   - Chris Perez	...	clearance counsel (as Christopher L. Perez)
 
 **[`^        go to credits        ^`](#credits)**
+
+&nbsp;
+
+[**`^        back to top        ^`**](#hidden-hand-toc)
