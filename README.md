@@ -10,15 +10,14 @@ than are dreamt of in your philosophy.
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
 
+![Autopsy Photo](https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg)
+
+&nbsp;
+
 <p>
 Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
 </p>
-
-
-![Autopsy Photo](https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg)
-&npsp;
-
 ---
 
 [**Hidden Hand**](#hidden-hand-toc)
@@ -71,7 +70,7 @@ What is more interesting about the Einstein quote is what is not said.  Though E
 Another interpretation is that Einstein really did not want to know because he was afraid to know.  And this makes sense.  If what Edwards says is true, Einstein feared the phenomenon.  But what he feared more was us.  Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
 </p>
 
-[**`^        back to top        ^`**](#)
+[**`^        back to TOC        ^`**](#hidden-hand-toc)
 ...
 
 ---
