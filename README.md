@@ -1,4 +1,4 @@
-# The Hidden Hand - Alien Contact and the Government Coverup
+# [**The Hidden Hand - Alien Contact and the Government Coverup**] (#hidden-hand-toc)
 --James Carman (2008)
 
 ---
