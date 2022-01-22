@@ -771,13 +771,100 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
 ...
 ---
 
-Leonard Stringfield
+Leonard Stringfield (1920-1994)
  
-  - 1920-1994 UFOlogists (maybe the best ever), 
+  - UFOlogist (maybe the best ever), writer
 
- 
-![image](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
 &nbsp;
+
+Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. He died in 1994.[1]
+
+Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the civilian UFO group, National Investigations Committee On Aerial Phenomena (NICAP), under the direction of Donald Keyhoe, a friend since 1953. From 1967 to 1969, Stringfield served as an "Early Warning Coordinator" for the Condon Committee. 
+During the 1970s, he wrote a number of books about alleged recoveries of alien spaceships and alien bodies.
+
+In 1978, Stringfield served as UFO research adviser to Grenada Prime Minister Sir Eric Gairy. Privately, Stringfield worked as Director of Public Relations and Marketing Services for DuBois Chemicals, a division of Chemed Corporation, Cincinnati. He self-published "Status Reports" on alleged UFO "crash-retrievals" until his death. He died December 18, 1994 after a long battle with lung cancer.[1]
+
+#### World War II sighting
+
+Stringfield's interest in the subject began August 28, 1945, just three days before the end of the war, when he was an Army Air Force intelligence officer en route to Tokyo, Japan, along with twelve other specialists in the Fifth Air Force. As they approached Iwo Jima at about ten thousand feet in a sunlit sky, Stringfield related:
+
+> "I was shocked to see three teardrop-shaped objects from my starboard-side window. They were brilliantly white, like burning magnesium, and closing in on a parallel  course to our C-46. Suddenly, our left engine feathered, and I was later to learn that the magnetic navigation-instrument needles went wild. As the C-46 lost  altitude, with oil spurting from the troubled engine, the pilot sounded an alert; crew and passengers were told to prepare for a ditch! I do not recall my thoughts or actions during the next, horrifying moments, but my last glimpse of the three bogies placed them about 20 degrees above the level of our transport. Flying in the same, tight formation, they faded into a cloud bank. Instantly, our craft's engine revved up, and we picked up altitude and flew a steady course to land safely at Iwo Jima."
+
+#### UFO interest rekindled
+
+Stringfield said his World War II encounter was so traumatic that he tried to forget about it. But he was drawn back into the UFO field in 1950 when two very sincere people related flying saucer sightings to him. Stringfield then wrote:
+
+"This one experience near Iwo Jima was proof enough to me in 1950 that the 'foo fighter' of World War II--sometimes dubbed 'Kraut fireball' in the European Theater--and the flying saucer were one and the same kind of machine and from the same source: outer space."
+
+Uneasy about the "rumored loss of Air Force interceptors chasing UFOs, the low-level green fireballs over Sweden and the southwestern United States" and his own experience, Stringfield related he was concerned about the "intent" behind the probes. In March 1954, he created Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT.
+
+The newsletter caught the attention of radio newscaster Frank Edwards, who allowed Stringfield to announce it on his popular program in May. Instantly, Stringfield was deluged with mail and newspapers, and radio stations from coast to coast called, wanting saucer news. Stringfield soon had 2500 paid subscribers to ORBIT. During the mid-1950s, CRIFO became the world's largest civilian UFO research group.
+
+Then Stringfield wrote, "Also taking note of CRIFO was the Air Force." Stringfield said the Air Defense Command in Columbus, Ohio called him September 9, 1955, and wanted his cooperation in obtaining immediate sighting reports using his large network of sources. To his surprise, he was also informed that the Ground Observer Corps (GOC) in southwestern Ohio had been instructed to report UFO activity directly to him for screening. (Stringfield lived in Cincinnati, Ohio.) He was then to call the ADC using a telephone code number ("Fox Trot Kilo 3-0 Blue") to report the better sightings. He was requested "not to ask any questions."
+
+Later a member of the GOC informed him as to what happened to his screened reports. If the sighting was confirmed by radar, jets were then scrambled for intercept and the matter became classified. Stringfield recounted one such spectacular incident, on the night of August 23/24, 1955, when multiple UFOs were spotted on radar in the Columbus/Cincinnati region. Numerous jets were sent up for intercept over a wide region, but cloud cover prevented Stringfield from seeing what was happening, though he could hear the jets overhead.
+
+To his surprise, the Air Force cleared his reporting of the incident in his newsletter. But when he tried to interest the local Cincinnati newspapers, the story was officially denied, as was his connection with the ADC.
+
+Despite the official public denial of his work for the ADC, Stringfield wrote that he received a letter in 1956, thanking him for his assistance from no less than Major General John A. Samford, director of Air Force Intelligence. He also received a letter in 1955 from Captain Edward J. Ruppelt, who had been director of the Air Force's public UFO investigation Project Blue Book from 1951-1953. Ruppelt was requesting information on CRIFO for the book he was writing at the time (The Report on Unidentified Flying Objects), and praised the report-collecting net Stringfield had established.
+
+Stringfield said he continued his "cooperation" with the Air Force through 1956 until the GOC was disbanded and his screening duties for them ceased. Stringfield's relationship with the ADC during this period is recounted in his 1957 book, Inside Saucer Post, 3-0 Blue and in his 1977 book, Situation Red.
+
+In 1957, Stringfield discontinued CRIFO and his monthly newsletter. The same year, he became public relations adviser for the newly formed civilian UFO group NICAP under the direction of Donald Keyhoe, a friend of his since 1953. He held the post until 1972, at which point he continued his private UFO research.
+
+For over 30 years, Stringfield served in several of the major UFO Organizations in a public relations capacity. From 1957 to 1970, he was public relations adviser with the National Investigations Committee on Aerial Phenomena. Later on, he was director of public relations and board member of the Mutual UFO Network. He was also regional investigator for the Center for UFO Studies directed by Dr. J. Allen Hynek.
+
+From 1967-1969, Stringfield served as an "Early Warning Coordinator" for the so-called Condon Committee, the government sponsored scientific UFO investigation. His job, like his earlier one for the ADC, was to screen and report all UFO activity in southwestern Ohio.
+
+It was during the 1970s that Stringfield began collecting witness accounts of UFO crash recoveries, including alien bodies. Many of these stories centered around activities at nearby Wright-Patterson AFB in Dayton, Ohio.
+
+Also, when Grenada Prime Minister Sir Eric Gairy proposed the establishment of a UFO research agency within the United Nations in 1978, during the 32nd General Assembly of the UN, Stringfield served as his adviser.
+
+Stringfield retired in 1981 as Director of Public Relations and Marketing Services for DuBois Chemicals, a division of Chemed Corp, after 31 years service with the company.
+
+Stringfield first publicly reported his so-called "crash/retrieval" findings at a 1978 MUFON Symposium. He said he received two death threats beforehand, but was never sure who was behind them or how serious they were. Thereafter, he self-published seven "Status Reports" on new crash-retrieval research until his death in 1994.
+
+#### Noted crash/retrieval cases
+
+  • Roswell UFO incident - Witness accounts of the Roswell UFO incident
+  • Kecksburg UFO incident
+  • Shag Harbour UFO incident
+  • Height 611 UFO Incident
+
+#### Associated Organizations
+
+  • Civilian Research, Interplanetary Flying Objects (CRIFO)
+  • National Investigations Committee On Aerial Phenomena (NICAP)
+  • Mutual UFO Network (MUFON)
+  • Fund for UFO Research (FUFOR)
+  • Center for UFO Studies (CUFOS)
+  • Citizens Against UFO Secrecy (CAUS)
+
+#### Newsletter
+ 
+  "Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian Research Interplanetary Flying Objects (C.R.I.F.O.)
+
+#### Book
+
+  Situation Red: The UFO Siege (1977)
+
+#### Status Reports
+
+  Status Report I - Retrievals Of The Third Kind
+  Status Report II - The UFO Crash/Retrieval Syndrome
+  Status Report III - UFO Crash/Retrievals: Amassing The Evidence
+  Status Report IV - The Fatal Encounter At Ft. Dix-McGuire
+  Status Report V - UFO Crash/Retrievals: Is The Coverup Lid Lifting?
+  Status Report VI - UFO Crash/Retrievals: The Inner Sanctum
+
+#### Sources:
+
+http://www.nicap.org/bios/stringfield.htm
+http://en.wikipedia.org/wiki/Leonard_H._Stringfield
+
+&nbsp;
+
+https://blubrry.com/podcast_ufo/archive/?pi=4
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
