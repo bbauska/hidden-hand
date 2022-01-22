@@ -826,23 +826,24 @@ Stringfield first publicly reported his so-called "crash/retrieval" findings at 
 
 #### Noted crash/retrieval cases
 
-  • Roswell UFO incident - Witness accounts of the Roswell UFO incident
-  • Kecksburg UFO incident
-  • Shag Harbour UFO incident
-  • Height 611 UFO Incident
+   • Roswell UFO incident - Witness accounts of the Roswell UFO incident
+   • Kecksburg UFO incident
+   • Shag Harbour UFO incident
+   • Height 611 UFO Incident
 
 #### Associated Organizations
 
-  • Civilian Research, Interplanetary Flying Objects (CRIFO)
-  • National Investigations Committee On Aerial Phenomena (NICAP)
-  • Mutual UFO Network (MUFON)
-  • Fund for UFO Research (FUFOR)
-  • Center for UFO Studies (CUFOS)
-  • Citizens Against UFO Secrecy (CAUS)
+   • Civilian Research, Interplanetary Flying Objects (CRIFO)
+   • National Investigations Committee On Aerial Phenomena (NICAP)
+   • Mutual UFO Network (MUFON)
+   • Fund for UFO Research (FUFOR)
+   • Center for UFO Studies (CUFOS)
+   • Citizens Against UFO Secrecy (CAUS)
+   
 
 #### Newsletter
  
-  "Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian Research Interplanetary Flying Objects (C.R.I.F.O.)
+>  "Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian Research Interplanetary Flying Objects (C.R.I.F.O.)
 
 #### Book
 
@@ -850,21 +851,22 @@ Stringfield first publicly reported his so-called "crash/retrieval" findings at 
 
 #### Status Reports
 
-  Status Report I - Retrievals Of The Third Kind
-  Status Report II - The UFO Crash/Retrieval Syndrome
-  Status Report III - UFO Crash/Retrievals: Amassing The Evidence
-  Status Report IV - The Fatal Encounter At Ft. Dix-McGuire
-  Status Report V - UFO Crash/Retrievals: Is The Coverup Lid Lifting?
-  Status Report VI - UFO Crash/Retrievals: The Inner Sanctum
+   Status Report I - Retrievals Of The Third Kind
+   Status Report II - The UFO Crash/Retrieval Syndrome
+   Status Report III - UFO Crash/Retrievals: Amassing The Evidence
+   Status Report IV - The Fatal Encounter At Ft. Dix-McGuire
+   Status Report V - UFO Crash/Retrievals: Is The Coverup Lid Lifting?
+   Status Report VI - UFO Crash/Retrievals: The Inner Sanctum
 
 #### Sources:
 
-http://www.nicap.org/bios/stringfield.htm
-http://en.wikipedia.org/wiki/Leonard_H._Stringfield
+![nicap]http://www.nicap.org/bios/stringfield.htm
+
+[wikipedia]http://en.wikipedia.org/wiki/Leonard_H._Stringfield
 
 &nbsp;
 
-https://blubrry.com/podcast_ufo/archive/?pi=4
+[ufo podcast]https://blubrry.com/podcast_ufo/archive/?pi=4
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
