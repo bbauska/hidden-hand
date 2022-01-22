@@ -1,6 +1,8 @@
 # [The Hidden Hand - Alien Contact and the Government Coverup](#hidden-hand-toc)
 --James Carman (2008)
 
+**[`^        go to credits        ^`](#credits)**
+
 ---
 
 <blockquote>
@@ -97,8 +99,6 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 [**`^        back to top        ^`**](#)
 
-## [Table of Contents](#hidden-hand-toc)
- 
 ...
 
 ---
@@ -768,7 +768,8 @@ Andrew von Urtz
 
 Alien
 
-### Writing Credits (in alphabetical order)  
+## [Writing Credits (in alphabetical order)](#credits)
+
   - James Carman	Cast (in credits order)
   - Tristan Layton	Tristan Layton	...	Self - Narrator (voice)
   - Richard Dolan	Richard Dolan	...	Self - Author. UFOs & The National Security State
