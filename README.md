@@ -114,7 +114,7 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 ---
 <h4>Chuck Weiss</h4>
 
-  - Author. How I Learned to Cope with High Strangeness...
+   - Author. How I Learned to Cope with High Strangeness...
 
 <p align="center" width="100%">
   <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png "Chuck Weiss"
@@ -132,9 +132,12 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 ---
 <h4>Richard Dolan (7/1962)</h4>
 
-  - Author. UFOs & The National Security State
+   - Author. UFOs & The National Security State
 
-[Richard Dolan](https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png "Richard Dolan UFOs & The National Security State")
+<p align="center" width="100%">
+  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png "Richard Dolan UFOs & The National Security State"
+    alt="Richard Dolan"</>
+</p>
 
 <p>
 Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led him to the broader context of increased security measures and secrecy since World War II. One aspect of such government policies that has continued to hold the public's imagination for over half a century is the question of unidentified flying objects.
@@ -155,7 +158,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 <h4>Whitley Strieber</h4>
 
-  - Author, Communion
+   - Author, Communion
 
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
@@ -177,7 +180,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 <h4>Robert Dean</h4>
 
-  - Retired U.S. Army Command Sergeant Major
+   - Retired U.S. Army Command Sergeant Major
 
 [Robert Dean](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png "Robert Dean, US Army Command Sergeant Major")
 
@@ -189,9 +192,12 @@ Included in this volume are the activities of more than fifty military bases rel
 
 <h4>Stanton Friedman</h4>
 
- - Author, Flying Saucers & Science
+   - Author, Flying Saucers & Science
 
-![image](https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png)
+<p align="center" width="100%">
+  <img width="50%" src="https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png"
+    alt="Stanton Friedman"</>
+</p>
 
 <h4>THE UFO CHALLENGE</h4>
 
