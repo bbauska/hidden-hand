@@ -182,7 +182,10 @@ Included in this volume are the activities of more than fifty military bases rel
 
    - Retired U.S. Army Command Sergeant Major
 
-[Robert Dean](https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png "Robert Dean, US Army Command Sergeant Major")
+<p align="center" width="100%">
+  <img width="15%" src="https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png"
+    alt="Robert Dean"</>
+</p>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
@@ -251,21 +254,18 @@ Stanton Friedman
 
 Paola Harris
 
-  - Author, Connecting the Dots
+   - Author, Connecting the Dots
 
 Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
 
 Latest News
 The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative reporter and photojournalist In August of 2020, we all went Le Marais…
 
- 
 Links & Resources
 Exopolitics Italy is a website created by Paola Harris, MEd., for various Exopolitics initiatives in Italy. Paola is author of Exopolitics: How Do You Speak to…
-
  
 Interviews
 The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative reporter and photojournalist In August of 2020, we all went Le Marais…
-
  
 Contact
 Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Open Minds: View this “Beyond Belief” episode: HELP FUND PAOLA’S FIELD RESEARCH!
@@ -277,7 +277,7 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 
 Joni Strother
 
-  - Abductee
+   - Abductee
  
 Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
 
@@ -286,9 +286,12 @@ Abductee Joni Strother described her traumatic encounters with the aliens, whom 
 ---
 Roger Leir
 
-  - Author, The Aliens and the Scalpel
+   - Author, The Aliens and the Scalpel
 
-![image](https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png)
+<p align="center" width="100%">
+  <img width="50%" src="https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png"
+    alt="Roger Leir"</>
+</p>
 
 Dr. Roger K. Leir is one of the world's most important leaders in physical evidence research involving the field of Ufology. In this special session he will reveal scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private practice for the past 43 years and has written numerous books including The Aliens and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
  
@@ -301,8 +304,10 @@ Jim Sparks
 
   - Author, The Keepers
 
-![image](https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png)
-
+<p align="center" width="100%">
+  <img width="50%" src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
+    alt="Jim Parks"</>
+</p>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
