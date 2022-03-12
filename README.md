@@ -14,7 +14,8 @@ than are dreamt of in your philosophy.
 ---
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
-    alt="Autopsy photo"</>
+  style="width:3in,height:3in"
+  alt="Autopsy photo"</>
 </p>
 
 &nbsp;
@@ -51,8 +52,9 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
-  <img src="https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png" style="width:5in,height:5in" 
-    alt="Albert Einstein"</>
+  <img src="https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png" 
+  style="width:3in,height:3in" 
+  alt="Albert Einstein"</>
 </p>
 
 Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium. Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics. In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office. In 1905 he obtained his doctor’s degree.
@@ -87,8 +89,8 @@ Another interpretation is that Einstein really did not want to know because he w
   - Poet, novelist. Les Misérables (1862), and dramatist
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
-    alt="Victor Hugo Nadar"</>
+  <img width="30%" src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
+  alt="Victor Hugo Nadar"</>
 </p>
 
 <blockquote>
