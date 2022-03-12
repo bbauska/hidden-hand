@@ -13,7 +13,7 @@ than are dreamt of in your philosophy.
 
 ---
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
+  <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
     alt="Autopsy photo"</>
 </p>
 
