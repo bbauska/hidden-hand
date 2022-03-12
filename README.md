@@ -14,7 +14,7 @@ than are dreamt of in your philosophy.
 ---
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
-  width="500" height="500"
+  width="650" height="500"
   alt="Autopsy photo"</>
 </p>
 
@@ -139,7 +139,7 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
 
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png" 
-    width="400" height="400"
+    width="600" height="600"
     alt="Richard Dolan UFOs & The National Security State"</>
 </p>
 
