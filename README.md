@@ -14,7 +14,7 @@ than are dreamt of in your philosophy.
 ---
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
-  width="200" height="200" />
+  width="400" height="400"
   alt="Autopsy photo"</>
 </p>
 
@@ -53,7 +53,7 @@ others. The shadowy world of UFOs is suddenly brought to light.
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png" 
-  style="width:3in,height:3in" 
+  width="300" height="300"
   alt="Albert Einstein"</>
 </p>
 
@@ -119,8 +119,9 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
    - Author. How I Learned to Cope with High Strangeness...
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png "Chuck Weiss"
-    alt="Chuck Weiss"</>
+  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png" 
+  width="400" height="400"
+  alt="Chuck Weiss" </>
 </p>
 
 <p>
@@ -137,8 +138,9 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
    - Author. UFOs & The National Security State
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png "Richard Dolan UFOs & The National Security State"
-    alt="Richard Dolan"</>
+  <img src="https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png" 
+    width="400" height="400"
+    alt="Richard Dolan UFOs & The National Security State"</>
 </p>
 
 <p>
