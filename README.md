@@ -51,7 +51,7 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png"
+  <img src="https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png" style="width:5in,height:5in" 
     alt="Albert Einstein"</>
 </p>
 
