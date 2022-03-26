@@ -311,7 +311,7 @@ Jim Sparks
   - Author, The Keepers
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
+  <img width="25%" src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
     alt="Jim Parks"</>
 </p>
 
