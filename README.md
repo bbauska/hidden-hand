@@ -53,7 +53,7 @@ others. The shadowy world of UFOs is suddenly brought to light.
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png" 
-  width="450" height="350"
+  width="45%"
   alt="Albert Einstein"</>
 </p>
 
@@ -89,8 +89,9 @@ Another interpretation is that Einstein really did not want to know because he w
   - Poet, novelist. Les Misérables (1862), and dramatist
 
 <p align="center" width="100%">
-  <img width="30%" src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
-  alt="Victor Hugo Nadar"</>
+<img width="30%" 
+   src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
+   alt="Victor Hugo Nadar"</>
 </p>
 
 <blockquote>
@@ -167,8 +168,9 @@ Included in this volume are the activities of more than fifty military bases rel
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
 <p align="center" width="100%">
-  <img width="50%" src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber-communion.png?raw=true"
-    alt="Whitley Strieber"</>
+<img width="50%" 
+   src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber-communion.png?raw=true"
+   alt="Whitley Strieber"</>
 </p>
 
 <p align="center" width="100%">
