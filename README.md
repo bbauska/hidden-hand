@@ -32,13 +32,16 @@ Long, long list of authors, abductees, officers, government whistle-blowers, exp
 pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
 </p>
 
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
+
 **[`^        List of Credits        ^`](#credits)**
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------ The Hidden Hand - Alien Contact and the Government Coverup ------------------>
 <!------------------------------------------------------------------------------------------------>
 <hr/>
-
 <blockquote>
 The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
 presence here on Earth. The film takes a keen look at a spectrum of topics like alien abduction, human/alien 
@@ -94,6 +97,10 @@ Another interpretation is that Einstein really did not want to know because he w
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
+
 ...
 
 <!------------------------------------------------------------------------------------------------>
@@ -116,6 +123,10 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 </blockquote>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
+
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
  
 ...
 
@@ -155,6 +166,10 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
 </p>
 
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
+
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
 ...
@@ -183,7 +198,9 @@ UFOs and the National Security State is the first volume of a two-part detailed 
 <p>
 Included in this volume are the activities of more than fifty military bases relating to UFOs, innumerable violations of sensitive airspace by unknown craft and analyses of the Roswell controversy, the CIA-sponsored Robertson Panel, and the Condon Committee Report. Dolan highlights the development of civilian anti-secrecy movements, which flourished in the 1950s and 1960s until the adoption of an official government policy and subsequent "closing of the door" during the Nixon administration.
 </p>
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
@@ -201,14 +218,15 @@ Included in this volume are the activities of more than fifty military bases rel
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
 <p align="center" width="100%">
-<img width="50%" 
-   src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber-communion.png?raw=true"
-   alt="Whitley Strieber"</>
+<img src="/images/Whitley%20Strieber-communion.png?raw=true"
+   alt="Whitley Strieber"
+   width="50%" />
 </p>
 
 <p align="center" width="100%">
-  <img width="15%" src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber.png?raw=true"
-    alt="Whitley Strieber"</>
+<img src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber.png?raw=true"
+   alt="Whitley Strieber"
+   width="15%" />
 </p>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
@@ -224,8 +242,9 @@ Included in this volume are the activities of more than fifty military bases rel
    - Retired U.S. Army Command Sergeant Major
 
 <p align="center" width="100%">
-  <img width="15%" src="https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png"
-    alt="Robert Dean"</>
+<img src="https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png"
+   alt="Robert Dean"
+   width="15%" />
 </p>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
@@ -242,8 +261,9 @@ Included in this volume are the activities of more than fifty military bases rel
    - Author, Flying Saucers & Science
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png"
-    alt="Stanton Friedman"</>
+<img src="https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png"
+   alt="Stanton Friedman"
+   width="50%" />
 </p>
 
 <h4>THE UFO CHALLENGE</h4>
@@ -343,8 +363,9 @@ Roger Leir
    - Author, The Aliens and the Scalpel
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png"
-    alt="Roger Leir"</>
+<img src="https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png"
+   alt="Roger Leir"
+   width="50%" />
 </p>
 
 Dr. Roger K. Leir is one of the world's most important leaders in physical evidence research involving the field of Ufology. In this special session he will reveal scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private practice for the past 43 years and has written numerous books including The Aliens and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
@@ -364,8 +385,9 @@ Jim Sparks
   - Author, The Keepers
 
 <p align="center" width="100%">
-  <img width="25%" src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
-    alt="Jim Parks"</>
+<img src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
+   alt="Jim Parks"
+   width="25%" />
 </p>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
@@ -600,16 +622,14 @@ Budd Hopkins
 
   - Chief of Pentagon Foreign Technology Desk (archive footage)
 
-
-
-#### Background
+<h4>Background</h4>
 Philip James Corso (May 22, 1915 – July 16, 1998) was an American Army officer.
 
 He served in the United States Army from February 23, 1942, to March 1, 1963, and earned the rank of Lieutenant Colonel.
 
 Corso published The Day After Roswell, about how he was involved in the research of extraterrestrial technology recovered from the 1947 Roswell UFO Incident. On July 23, 1997, he was a guest on the popular late night radio show, Coast to Coast AM with Art Bell where he spoke live about his Roswell story. This interview was rebroadcast by Coast to Coast AM on July 3, 2010.
 
-#### The Day After Roswell
+<h4>The Day After Roswell</h4>
 In his book The Day After Roswell (co-author William J. Birnes) claims he stewarded extraterrestrial artifacts recovered from a crash near Roswell, New Mexico, in 1947.
 
 Corso says a covert government group was assembled under the leadership of the first Director of Central Intelligence, Adm. Roscoe H. Hillenkoetter. Among its tasks was to collect all information on off-planet technology. The US administration simultaneously discounted the existence of flying saucers in the eyes of the public, Corso says.
@@ -635,8 +655,6 @@ Gordon Novel
 Gordon Novel is a fascinating man. Carried along on the train of history, Gordon Novel has had a front seat to many of the most controversial chapters in U.S. history. From the Kennedy assassination to Watergate, Waco and beyond, Gordon has really seen it all. In his first interview for over a decade, he gives us a glimpse of his role and perspective on a multitude of subjects including; the Vietnam war, Saddam Hussein and his trial, Majestic and the CIA, UFOs, the 'Extraterrestrial Revolution' and much more.
    
 He is charming, bold, uncompromising in his vision and determined to change the world. We are given a special look at Gordon's new quest to bring free energy to the world, along with news of his proposed motion picture in development, KINGDOMS COME, in a deal being brokered with some of the biggest names in Hollywood. With the support of the CIA, he believes his vision of a world set free from the confines of oil and gas will become a reality. A big picture thinker with a strong will and an indomitable spirit, he is forging ahead against all odds. His fierce dedication is something to behold and we wish him every success in his quest.
- 
-
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
 
@@ -700,7 +718,7 @@ Graham Hancock
 
   - Author, Fingerprints of the Gods
 
-![image](https://user-images.githubusercontent.com/41387907/137835253-39381b64-61b7-48e7-9602-4ae76004db5e.png)
+![Graham Hancock](https://user-images.githubusercontent.com/41387907/137835253-39381b64-61b7-48e7-9602-4ae76004db5e.png)
 
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
@@ -976,8 +994,8 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
  
   - UFOlogists, founder of Close Encounters of the 3rd Kind
 
- 
-![image](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
+![J Allen Hynek](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
+
 &nbsp;
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
@@ -1003,13 +1021,13 @@ During the 1970s, he wrote a number of books about alleged recoveries of alien s
 
 In 1978, Stringfield served as UFO research adviser to Grenada Prime Minister Sir Eric Gairy. Privately, Stringfield worked as Director of Public Relations and Marketing Services for DuBois Chemicals, a division of Chemed Corporation, Cincinnati. He self-published "Status Reports" on alleged UFO "crash-retrievals" until his death. He died December 18, 1994 after a long battle with lung cancer.[1]
 
-#### World War II sighting
+<h4>World War II sighting</h4>
 
 Stringfield's interest in the subject began August 28, 1945, just three days before the end of the war, when he was an Army Air Force intelligence officer en route to Tokyo, Japan, along with twelve other specialists in the Fifth Air Force. As they approached Iwo Jima at about ten thousand feet in a sunlit sky, Stringfield related:
 
 >"I was shocked to see three teardrop-shaped objects from my starboard-side window. They were brilliantly white, like burning magnesium, and closing in on a parallel  course to our C-46. Suddenly, our left engine feathered, and I was later to learn that the magnetic navigation-instrument needles went wild. As the C-46 lost  altitude, with oil spurting from the troubled engine, the pilot sounded an alert; crew and passengers were told to prepare for a ditch! I do not recall my thoughts or actions during the next, horrifying moments, but my last glimpse of the three bogies placed them about 20 degrees above the level of our transport. Flying in the same, tight formation, they faded into a cloud bank. Instantly, our craft's engine revved up, and we picked up altitude and flew a steady course to land safely at Iwo Jima."
 
-#### UFO interest rekindled
+<h4>UFO interest rekindled</h4>
 
 Stringfield said his World War II encounter was so traumatic that he tried to forget about it. But he was drawn back into the UFO field in 1950 when two very sincere people related flying saucer sightings to him. Stringfield then wrote:
 
@@ -1043,29 +1061,29 @@ Stringfield retired in 1981 as Director of Public Relations and Marketing Servic
 
 Stringfield first publicly reported his so-called "crash/retrieval" findings at a 1978 MUFON Symposium. He said he received two death threats beforehand, but was never sure who was behind them or how serious they were. Thereafter, he self-published seven "Status Reports" on new crash-retrieval research until his death in 1994.
 
-#### Noted crash/retrieval cases
+<h4>Noted crash/retrieval cases</h4>
 
-	   - Roswell UFO incident - Witness accounts of the Roswell UFO incident
-	   - Kecksburg UFO incident
-	   - Shag Harbour UFO incident
-	   - Height 611 UFO Incident
+   - Roswell UFO incident - Witness accounts of the Roswell UFO incident
+   - Kecksburg UFO incident
+   - Shag Harbour UFO incident
+   - Height 611 UFO Incident
 
-#### Associated Organizations
+<h4>Associated Organizations</h4>
 
-   	* Civilian Research, Interplanetary Flying Objects (CRIFO)
-  	 * National Investigations Committee On Aerial Phenomena (NICAP)
-  	 * Mutual UFO Network (MUFON)
-  	 * Fund for UFO Research (FUFOR)
-  	 * Center for UFO Studies (CUFOS)
-  	 * Citizens Against UFO Secrecy (CAUS)
+   * Civilian Research, Interplanetary Flying Objects (CRIFO)
+   * National Investigations Committee On Aerial Phenomena (NICAP)
+   * Mutual UFO Network (MUFON)
+   * Fund for UFO Research (FUFOR)
+   * Center for UFO Studies (CUFOS)
+   * Citizens Against UFO Secrecy (CAUS)
 
 
-#### Newsletter
+<h4>Newsletter</h4>
 
 >"Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian > Research Interplanetary Flying Objects (C.R.I.F.O.)
 
 
-#### Book
+<h4>Book</h4>
 
   * Situation Red: The UFO Siege (1977)
 
@@ -1078,7 +1096,7 @@ Stringfield first publicly reported his so-called "crash/retrieval" findings at 
    5. Status Report V - UFO Crash/Retrievals: Is The Coverup Lid Lifting?
    6. Status Report VI - UFO Crash/Retrievals: The Inner Sanctum
 
-#### Sources:
+<h4>Sources:</h4>
 
 This is the *[NICAP](http://www.nicap.org/bios/stringfield.htm)*.
 
@@ -1097,7 +1115,7 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 <!------------------------------------------------------------------------------------------------>
 <hr/>
 
-#### Rest of cast listed alphabetically:
+<h4>Rest of cast listed alphabetically:</h4>
 
   - Richard Campbell
   - Major Desmond Morton
@@ -1157,46 +1175,49 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
   
   
 
-#### Rest of cast listed alphabetically:
+<h4>Rest of cast listed alphabetically:</h4>
   - Richard Campbell...	Major Desmond Morton
   - Andrew von Urtz	...	Alien
 
-#### Produced by 
+<h4>Produced by</h4>
   - James Carman	...	executive producer / producer
   - Chris Edwards	...	consulting producer
   - David McGrath	...	consulting producer
   - Sabine Schenk	...	co-producer
   - Alan Steinfeld	...	co-producer
   
-#### Music by 
+<h4>Music by</h4>
   - Mikael Karlsson	
   
-#### Cinematography by 
+<h4>Cinematography by</h4>
   - James Carman	
   
-#### Film Editing by 
+<h4>Film Editing by</h4>
   - Dan Rovetto	
   - Arnie Schlissel	
   
-#### Makeup Department 
+<h4>Makeup Department</h4>
   - Lisa Iadarola	...	makeup artist
 
-#### Editorial Department 
+<h4>Editorial Department</h4>
   - James Carman	...	editor
   - Arnie Schlissel	...	colorist / on-line editor
 
-#### Music Department 
+<h4>Music Department</h4>
   - Carrie Beehan	...	theme song
   - Mikael Karlsson	...	composer: theme music
 
-#### Additional Crew 
+<h4>Additional Crew</h4>
   - Patrick Chin	...	assistant producer
   - Chris Perez	...	clearance 
   
-#### counsel (as Christopher L. Perez)
+<h4>counsel (as Christopher L. Perez)</h4>
 
 **[`^        go to credits        ^`](#credits)**
 
 &nbsp;
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 [**`^        back to top        ^`**](#hidden-hand-toc)
