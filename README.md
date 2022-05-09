@@ -95,8 +95,6 @@ What is more interesting about the Einstein quote is what is not said.  Though E
 Another interpretation is that Einstein really did not want to know because he was afraid to know.  And this makes sense.  If what Edwards says is true, Einstein feared the phenomenon.  But what he feared more was us.  Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
 </p>
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -121,8 +119,6 @@ Another interpretation is that Einstein really did not want to know because he w
 <blockquote>
 Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
 </blockquote>
-
-[**`^        back to top        ^`**](#hidden-hand-toc)
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -201,9 +197,6 @@ Included in this volume are the activities of more than fifty military bases rel
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
-
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
 ...
 
 <!------------------------------------------------------------------------------------------------>
@@ -229,7 +222,9 @@ Included in this volume are the activities of more than fifty military bases rel
    width="15%" />
 </p>
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
  
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -247,7 +242,9 @@ Included in this volume are the activities of more than fifty military bases rel
    width="15%" />
 </p>
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 
@@ -312,7 +309,9 @@ Stanton Friedman
  
 <br>
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Paola Harris -------------------------------------------->
@@ -338,7 +337,9 @@ Contact
 Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Open Minds: View this “Beyond Belief” episode: HELP FUND PAOLA’S FIELD RESEARCH!
 
 
-[**`^        back to top        ^`**](#)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- Joni Strother -------------------------------------------->
@@ -351,7 +352,9 @@ Joni Strother
  
 Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Roger Leir ---------------------------------------------->
@@ -370,9 +373,9 @@ Roger Leir
 
 Dr. Roger K. Leir is one of the world's most important leaders in physical evidence research involving the field of Ufology. In this special session he will reveal scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private practice for the past 43 years and has written numerous books including The Aliens and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
  
-
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 ...
 
 <!------------------------------------------------------------------------------------------------>
@@ -388,10 +391,11 @@ Jim Sparks
 <img src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
    alt="Jim Parks"
    width="25%" />
+
 </p>
-
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- Niara Isley ---------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -403,7 +407,9 @@ Niara Isley
 
 [Encounters with Healing](https://encounterswithhealing.com/)
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -415,7 +421,9 @@ Lyn Buchanan
 
   - Director, The PSI Institute
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -427,7 +435,9 @@ Nassim Haramein
 
   - Director, The Resonance Project Foundation
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -439,7 +449,9 @@ David Jacobs
 
   - Historian & Hypnotherapist
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -451,7 +463,9 @@ Nick Pope
 
   - Former Head of the British Government's UFO Project
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -463,7 +477,9 @@ Milton Torres
   
   - Former USAF Fighter Pilot & Astronaut
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -475,7 +491,9 @@ Edgar D. Mitchell
 
   - Former Astronaut
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -487,8 +505,9 @@ James Penniston
 
  - Sergeant USAF Retired
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -500,8 +519,9 @@ David Icke
   
   - Author, The Biggest Secret
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -513,8 +533,9 @@ Jaime Maussan
   
   - TV Producer
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -526,7 +547,9 @@ John B. Alexander
    
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -538,7 +561,9 @@ Paul Hellyer
   
   - Former Canadian Defense Secretary
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -550,7 +575,9 @@ Charles Hall
   
   - Retired US Army Duty Weather Observer
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -562,7 +589,9 @@ David Huggins
   
   - Painter & Experiencer
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -574,7 +603,9 @@ Clifford E. Stone
   
   - Retired US Army Sergeant
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -586,7 +617,9 @@ Derrel W. Sims
   
   - Private Investigator
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -598,7 +631,9 @@ James Gilliland
   
   - Director, ECETI
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -610,7 +645,9 @@ Budd Hopkins
 
   - Ufologist
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -640,7 +677,9 @@ In the book, Corso claims the Strategic Defense Initiative (SDI), or “Star War
 
 Different parts of the Roswell craft were sent to various defense companies, who reverse engineered their properties. This engineering feat eventually led to a number of breakthroughs. Among them were integrated circuitry, night vision equipment, the laser, particle beams, and fiber optics. The contractors were told that the parts were stolen from Russia.
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -656,7 +695,9 @@ Gordon Novel is a fascinating man. Carried along on the train of history, Gordon
    
 He is charming, bold, uncompromising in his vision and determined to change the world. We are given a special look at Gordon's new quest to bring free energy to the world, along with news of his proposed motion picture in development, KINGDOMS COME, in a deal being brokered with some of the biggest names in Hollywood. With the support of the CIA, he believes his vision of a world set free from the confines of oil and gas will become a reality. A big picture thinker with a strong will and an indomitable spirit, he is forging ahead against all odds. His fierce dedication is something to behold and we wish him every success in his quest.
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -668,7 +709,9 @@ Jim Marrs
 
   - Self - Author, Alien Agenda
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -682,8 +725,9 @@ Linda Moulton Howe
 
 https://github.com/bbauska/hidden-hand/blob/main/images/linda%20moulton%20howe.png?raw=true
 
-
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -706,7 +750,9 @@ Toward the end of 1998 Dan disappeared. His residence was abandoned overnight, a
 I was permitted very limited contact with him during that time, mostly because he made life unbearable until they honored his demand to talk to me. But he was eventually moved again and housed at the Papoose Lab facility where he could conduct critical biological studies on captive entity they had housed in their lab, on Level-5. Contact was intermittent, but then, in early 2001 I got a strange email that caught my attention. It was from mj01@missilemail.com. Since I knew that Dan was involved with Majestic and MJ12, I was immediately on alert. It turned out to be from a person inside the project Dan was working on, who was so upset with the situation that he felt compelled to seek my help. He was aware of my identity and long standing friendship with Dan because it was contained in the briefings he got prior to accepting his assignment, and figured I might be willing to assist. My contact is now dead. He was discovered communicating with me, and was involuntarily "retired". His letters read as follows, and give a troubling glimpse into the prison-like world that was created to maintain control of Dr. Dan Burisch and force him to comply with the wishes of the 'powers that be' as he eventually came to call them.
 </p>
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -720,8 +766,9 @@ Graham Hancock
 
 ![Graham Hancock](https://user-images.githubusercontent.com/41387907/137835253-39381b64-61b7-48e7-9602-4ae76004db5e.png)
 
-
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -735,7 +782,9 @@ Melinda Leslie
  
 MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial and covert-ops human abduction experiences for 28 years and is considered by many to be the authority on a military and intelligence agency involvement in UFO abduction cases. Both her research and personal experiences have been featured in 25 books by prominent authors in ufology.
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -747,7 +796,9 @@ Jesse Long
 
   - Abductee
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -759,7 +810,9 @@ Yvonne Smith
 
   - Hypnotherapist
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -771,7 +824,9 @@ Marc Brinkerhoff
 
   - Contactee & Artist
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -783,7 +838,9 @@ Shelley Yates
 
   - Director, Fire the Grid
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -795,8 +852,9 @@ Julian Michael
 
   - Hypnotherapist
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 ...
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- J.J. Hurtak --------------------------------------------->
@@ -807,8 +865,9 @@ J.J. Hurtak
 
   - Author, The Keys of Enoch
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
-
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 ...
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Melissa Reid -------------------------------------------->
@@ -819,7 +878,9 @@ Melissa Reid
   
    - Experiencer & Artist
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -831,7 +892,9 @@ Jeremy Vaeni
 
   - Experiencer & Writer
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -843,7 +906,9 @@ Farah Yurdozu
   
   - Experiencer & Researcher
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -855,7 +920,9 @@ Posey Gilbert
 
   - Experiencer
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -867,7 +934,9 @@ Alan White
 
   - Experiencer & Composer
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -879,7 +948,9 @@ Harold Egeln
 
   - Experiencer & Journalist
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -895,7 +966,9 @@ Stephen Bassett
 
 Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) lobbyist in the United States, executive director and treasurer of the political action committee Extraterrestrial Phenomena Political Action Committee and executive director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says it wants end to end the governments imposed truth embargo regarding the facts of extraterrestrials engaging the human race. During the run-up to the presidential election 2014-2016, Bassett met with House and Senate staffers regarding the need for new congressional hearings addressing the modern evidence for an extraterrestrial presence.
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -972,7 +1045,9 @@ The frame was taken on December 11, 1972 at 23:47:38.1 GMT during CSM Rev 15 fro
 
 In the central area around the LM, the largest crater is Camelot at the upper left. A labeled version highlights the LM and Poppie. In the area north of the LM, covering the EVA-3 traverse, Henry is the large crater at the foot of the North Massif just above and to the right of the center of the image. In the area west of the LM, covering the EVA-2 traverse, Nansen is at the lower left, Camelot is at the right edge above center, and Shorty is the sharp-rimmed, dark-edged crater at top center, about a Camelot diameter below the top edge of the image.
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -982,7 +1057,9 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 
 ![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -998,7 +1075,9 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
 
 &nbsp;
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -1106,8 +1185,9 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 
 *[ufo podcast](https://blubrry.com/podcast_ufo/archive/?pi=4)*
 
-
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
 
 ...
 <!------------------------------------------------------------------------------------------------>
@@ -1220,4 +1300,6 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
-[**`^        back to top        ^`**](#hidden-hand-toc)
+<div align="right">
+  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
+</div>
