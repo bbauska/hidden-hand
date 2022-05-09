@@ -111,7 +111,7 @@ Another interpretation is that Einstein really did not want to know because he w
   - Poet, novelist. Les Misérables (1862), and dramatist
 
 <p align="center" width="100%">
-<img width="30%" 
+<img width="40%"
    src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
    alt="Victor Hugo Nadar"</>
 </p>
@@ -132,6 +132,11 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 <!------------------------------------------------------------------------------------------------>
 
 <h4>Harry Reid - (Dec/1939-Dec/2021)</h4>
+
+<p align="center" width="100%">
+  <img width="50%" src=" " 
+  alt="Harry Reid 2021, died Dec, 2021" </>
+</p>
 
 Career
 Police officer at U.S. Capitol, c. 1961-63; city attorney, Henderson, NV, 1964-66; Nevada state assemblyman, 1969-1970; Nevada lieutenant governor, 1970-74; ran for U.S. Senate but lost, 1974; chairman of the Nevada Gaming Commission, 1977-81; attorney in private practice, 1981-83; congressman, 1983-87; U.S. senator, 1987—; Senate Democratic Whip, 1998-2004; Senate Minority Leader, 2005—.
@@ -320,6 +325,12 @@ Stanton Friedman
 
 Paola Harris
 
+<p align="center" width="100%">
+<img src="Paola Harris.png"
+   alt="Paola Harris"
+   width="50%" />
+</p>
+
    - Author, Connecting the Dots
 
 Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
@@ -386,6 +397,12 @@ Dr. Roger K. Leir is one of the world's most important leaders in physical evide
 Jim Sparks
 
   - Author, The Keepers
+
+<p align="center" width="100%">
+<img src="./images/Jim Sparks.png"
+   alt="Jim Sparks"
+   width="25%" />
+</p>
 
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
@@ -723,7 +740,16 @@ Linda Moulton Howe
 
   - Self - TV Producer
 
-https://github.com/bbauska/hidden-hand/blob/main/images/linda%20moulton%20howe.png?raw=true
+<p align="center" width="100%">
+<img src="./images/linda moulton howe.png"
+   alt="Linda Howe"
+   width="50%" />
+</p>
+<p align="center" width="100%">
+<img src="./images/linda howe.png"
+   alt="Linda Howe"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -738,6 +764,12 @@ https://github.com/bbauska/hidden-hand/blob/main/images/linda%20moulton%20howe.p
 Dan Burisch
 
   - Retired Government Microbiologist
+
+<p align="center" width="100%">
+<img src="./images/Dan Burisch.png"
+   alt="Dan Burisch"
+   width="50%" />
+</p>
 
 ![Dan Burisch](https://user-images.githubusercontent.com/41387907/138953761-9151e3ff-c85e-41dd-8ba9-f922aab95660.png)
 
