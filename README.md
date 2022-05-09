@@ -239,7 +239,7 @@ Included in this volume are the activities of more than fifty military bases rel
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png"
    alt="Robert Dean"
-   width="15%" />
+   width="50%" />
 </p>
 
 <div align="right">
