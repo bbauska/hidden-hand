@@ -185,6 +185,12 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
    - Author. UFOs & The National Security State
 
 <p align="center" width="100%">
+<img src="./images/Richard Dolan Biography.png"
+    width="65%"
+    alt="Richard Dolan Biography" />
+</p>
+
+<p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png" 
     width="650" height="500"
     alt="Richard Dolan UFOs & The National Security State"</>
@@ -212,6 +218,12 @@ Included in this volume are the activities of more than fifty military bases rel
 <h4>Whitley Strieber</h4>
 
    - Author, Communion
+
+<p align="center" width="100%">
+<img src="./images/"Whitley Strieber.png"
+    width="65%"
+    alt="Whitley Streiber" />
+</p>
 
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
@@ -242,7 +254,7 @@ Included in this volume are the activities of more than fifty military bases rel
    - Retired U.S. Army Command Sergeant Major
 
 <p align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/41387907/137834970-18218fac-fe0f-408a-8b06-c86840b85231.png"
+<img src="./images/Robert Dean-then-now.png"
    alt="Robert Dean"
    width="50%" />
 </p>
@@ -325,13 +337,13 @@ Stanton Friedman
 
 Paola Harris
 
+   - Author, Connecting the Dots
+
 <p align="center" width="100%">
-<img src="Paola Harris.png"
+<img src="./images/Paola Harris.png"
    alt="Paola Harris"
    width="50%" />
 </p>
-
-   - Author, Connecting the Dots
 
 Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
 
@@ -360,7 +372,13 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 Joni Strother
 
    - Abductee
- 
+
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Joni Strother"
+   width="50%" />
+</p>
+
 Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
 
 <div align="right">
@@ -404,12 +422,6 @@ Jim Sparks
    width="25%" />
 </p>
 
-<p align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/41387907/140462182-19d0ef2f-e106-4341-9cde-b9ed8e460743.png"
-   alt="Jim Parks"
-   width="25%" />
-
-</p>
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -421,6 +433,12 @@ Jim Sparks
 Niara Isley
 
   - Abductee
+
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Niara Isley"
+   width="50%" />
+</p>
 
 [Encounters with Healing](https://encounterswithhealing.com/)
 
@@ -458,6 +476,12 @@ Nassim Haramein
 
   - Director, The Resonance Project Foundation
 
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Nassim Haramein"
+   width="50%" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -473,7 +497,7 @@ David Jacobs
   - Historian & Hypnotherapist
 
 <p align="center" width="100%">
-  <img src=./images/David Jacobs.png"
+  <img src="./images/David Jacobs.png"
   width="50%"
   alt="David Jacobs" />
 </p>
@@ -491,6 +515,12 @@ David Jacobs
 Nick Pope
 
   - Former Head of the British Government's UFO Project
+
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Nick Pope"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -518,7 +548,13 @@ Milton Torres
 
 Edgar D. Mitchell
 
-  - Former Astronaut
+  - Former Astronaut, 6th man on the moon
+
+<p align="center" width="100%">
+<img src="./images/dr mitchell-6th man on the moon.png"
+   alt="Dr. Edgar Mitchell"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -534,6 +570,12 @@ James Penniston
 
  - Sergeant USAF Retired
 
+<p align="center" width="100%">
+<img src="./images/"
+   alt="James Penniston"
+   width="50%" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -547,6 +589,12 @@ James Penniston
 David Icke
   
   - Author, The Biggest Secret
+
+<p align="center" width="100%">
+<img src="./images/"
+   alt="David Icke"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -583,7 +631,7 @@ John B. Alexander
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
 <p align="center" width="100%">
-  <img src="./images/"
+  <img src="./images/"corso and alien.png"
   width="45%"
   alt="John Alexander" />
 </p>
@@ -718,6 +766,12 @@ Budd Hopkins
 
   - Ufologist
 
+<p align="center" width="100%">
+<img src="./images/budd hopkins.png"
+   alt="Budd Hopkins"
+   width="50%" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -776,6 +830,7 @@ Gordon Novel
 
   - Self - Former CIA Operative
 
+
 Gordon Novel is a fascinating man. Carried along on the train of history, Gordon Novel has had a front seat to many of the most controversial chapters in U.S. history. From the Kennedy assassination to Watergate, Waco and beyond, Gordon has really seen it all. In his first interview for over a decade, he gives us a glimpse of his role and perspective on a multitude of subjects including; the Vietnam war, Saddam Hussein and his trial, Majestic and the CIA, UFOs, the 'Extraterrestrial Revolution' and much more.
    
 He is charming, bold, uncompromising in his vision and determined to change the world. We are given a special look at Gordon's new quest to bring free energy to the world, along with news of his proposed motion picture in development, KINGDOMS COME, in a deal being brokered with some of the biggest names in Hollywood. With the support of the CIA, he believes his vision of a world set free from the confines of oil and gas will become a reality. A big picture thinker with a strong will and an indomitable spirit, he is forging ahead against all odds. His fierce dedication is something to behold and we wish him every success in his quest.
@@ -793,6 +848,12 @@ He is charming, bold, uncompromising in his vision and determined to change the 
 Jim Marrs
 
   - Self - Author, Alien Agenda
+
+<p align="center" width="100%">
+<img src="./images/jim marrs.png"
+   alt="Jim Marrs"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -883,7 +944,13 @@ Graham Hancock
 Melinda Leslie
 
   - Researcher & Abductee
- 
+
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Melinda Leslie"
+   width="50%" />
+</p>
+
 MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial and covert-ops human abduction experiences for 28 years and is considered by many to be the authority on a military and intelligence agency involvement in UFO abduction cases. Both her research and personal experiences have been featured in 25 books by prominent authors in ufology.
 
 <div align="right">
@@ -900,6 +967,12 @@ Jesse Long
 
   - Abductee
 
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Jesse Long"
+   width="50%" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -914,6 +987,12 @@ Yvonne Smith
 
   - Hypnotherapist
 
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Yvonne Smith"
+   width="50%" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -927,6 +1006,12 @@ Yvonne Smith
 Marc Brinkerhoff
 
   - Contactee & Artist
+
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Marc Brinkerhoff"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -1066,6 +1151,7 @@ Stephen Bassett
 
   - Director, Paradigm Research Group
 
+Stephen Bassett.png
 ![image](https://user-images.githubusercontent.com/41387907/140463116-6170534f-ae83-4506-a093-00cf97874830.png)
 
 Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) lobbyist in the United States, executive director and treasurer of the political action committee Extraterrestrial Phenomena Political Action Committee and executive director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says it wants end to end the governments imposed truth embargo regarding the facts of extraterrestrials engaging the human race. During the run-up to the presidential election 2014-2016, Bassett met with House and Senate staffers regarding the need for new congressional hearings addressing the modern evidence for an extraterrestrial presence.
@@ -1185,6 +1271,8 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
  
   - UFOlogists, founder of Close Encounters of the 3rd Kind
 
+hynek and jacque vallee.png
+
 ![J Allen Hynek](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
 
 &nbsp;
@@ -1202,6 +1290,8 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
 Leonard Stringfield (1920-1994)
  
   - UFOlogist (maybe the best ever), writer
+
+leonard stringfield - photo.png
 
 &nbsp;
 
@@ -1315,6 +1405,8 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
   - Major Desmond Morton
   - Andrew von Urtz
   - Alien
+
+roswell alien-probably another.png
 
 <h3 id="credits">Writing Credits (in alphabetical order)</h2>
 
