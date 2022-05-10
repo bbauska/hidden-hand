@@ -215,7 +215,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 <p align="center" width="100%">
 <img src="./images/Whitley Strieber.png"
-    width="65%"
+    width="35%"
     alt="Whitley Streiber" />
 </p>
 
@@ -225,12 +225,6 @@ Included in this volume are the activities of more than fifty military bases rel
 <img src="/images/Whitley%20Strieber-communion.png?raw=true"
    alt="Whitley Strieber"
    width="50%" />
-</p>
-
-<p align="center" width="100%">
-<img src="https://github.com/bbauska/hidden-hand/blob/main/images/Whitley%20Strieber.png?raw=true"
-   alt="Whitley Strieber"
-   width="15%" />
 </p>
 
 <div align="right">
@@ -271,7 +265,7 @@ Included in this volume are the activities of more than fifty military bases rel
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png"
    alt="Stanton Friedman"
-   width="50%" />
+   width="35%" />
 </p>
 
 <h4>THE UFO CHALLENGE</h4>
@@ -336,7 +330,7 @@ Paola Harris
 <p align="center" width="100%">
 <img src="./images/Paola Harris.png"
    alt="Paola Harris"
-   width="50%" />
+   width="35%" />
 </p>
 
 Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
@@ -413,7 +407,7 @@ Jim Sparks
 <p align="center" width="100%">
 <img src="./images/Jim Sparks.png"
    alt="Jim Sparks"
-   width="25%" />
+   width="35%" />
 </p>
 
 <div align="right">
@@ -453,7 +447,7 @@ Lyn Buchanan
 <p align="center" width="100%">
 <img src="./images/Lyn Buchanan.png"
    alt="Lyn Buchanan"
-   width="50%" />
+   width="35%" />
 </p>
 
 <div align="right">
@@ -492,7 +486,7 @@ David Jacobs
 
 <p align="center" width="100%">
   <img src="./images/David Jacobs.png"
-  width="50%"
+  width="35%"
   alt="David Jacobs" />
 </p>
 
@@ -547,7 +541,7 @@ Edgar D. Mitchell
 <p align="center" width="100%">
 <img src="./images/dr mitchell-6th man on the moon.png"
    alt="Dr. Edgar Mitchell"
-   width="50%" />
+   width="65%" />
 </p>
 
 <div align="right">
@@ -763,7 +757,7 @@ Budd Hopkins
 <p align="center" width="100%">
 <img src="./images/budd hopkins.png"
    alt="Budd Hopkins"
-   width="50%" />
+   width="75%" />
 </p>
 
 <div align="right">
@@ -891,7 +885,7 @@ Dan Burisch
 <p align="center" width="100%">
 <img src="./images/Dan Burisch.png"
    alt="Dan Burisch"
-   width="50%" />
+   width="35%" />
 </p>
 
 <h5>Introduction</h5>
@@ -1242,8 +1236,8 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 <hr/>
 
 <p align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png"
-   alt=""
+<img src="./images/"
+   alt="Blank goes here"
    width="50%" />
 </p>
 
@@ -1281,7 +1275,7 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
 
 Leonard Stringfield (1920-1994)
  
-  - UFOlogist (maybe the best ever), writer
+  - UFOlogist (probably the best ever), writer
 
 <p align="center" width="100%">
 <img src="./images/leonard stringfield - photo.png"
