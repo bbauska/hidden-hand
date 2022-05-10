@@ -190,12 +190,6 @@ How I Learned to Cope with High Strangeness, Government Harrassment, and My Moth
     alt="Richard Dolan Biography" />
 </p>
 
-<p align="center" width="100%">
-  <img src="https://user-images.githubusercontent.com/41387907/137834820-8d92c542-8ebe-4154-aac6-ecbb187191e9.png" 
-    width="650" height="500"
-    alt="Richard Dolan UFOs & The National Security State"</>
-</p>
-
 <p>
 Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led him to the broader context of increased security measures and secrecy since World War II. One aspect of such government policies that has continued to hold the public's imagination for over half a century is the question of unidentified flying objects.
 </p>
@@ -220,7 +214,7 @@ Included in this volume are the activities of more than fifty military bases rel
    - Author, Communion
 
 <p align="center" width="100%">
-<img src="./images/"Whitley Strieber.png"
+<img src="./images/Whitley Strieber.png"
     width="65%"
     alt="Whitley Streiber" />
 </p>
@@ -900,8 +894,6 @@ Dan Burisch
    width="50%" />
 </p>
 
-![Dan Burisch](https://user-images.githubusercontent.com/41387907/138953761-9151e3ff-c85e-41dd-8ba9-f922aab95660.png)
-
 <h5>Introduction</h5>
 <p>
 I came to know Dr. Dan Burisch (formerly Dan Crain, Ph.D.) many years ago in Las Vegas NV. He and his family became friends with my family and I.... and eventually I came to know his story well. He asked me, in 1997 to write a book about one of his research projects. That became Eagles Disobey: The Case for Inca City, Mars and was released to the public in 1998. During that work I came to know a great deal about Dan's involvement in dark projects that are covertly funded by our military and governmen bodies - including his work up at Area-51, or as it is known by those who work up there: Watertown Strip. Dan became afraid, desperately afraid for his life toward the end of the work on Eagles Disobey. He was terrified of retailiation from his dark project supervisors because he refused to stop looking into the anomalies on Mars - and because he had shared with me many of his experiences "up north" while he was employed in Project Aquarius, and had familiarity with Project Sigma, and Looking Glass.</p>
@@ -1176,12 +1168,6 @@ John Lear
    width="50%" />
 </p>
 
-<p align="center" width="100%">
-<img src="./images/John Lear.png"
-   alt="John Lear"
-   width="50%" />
-</p>
-
 INTRODUCTION:
 
 John Lear, retired airline captain, with over 19,000 hours of flight-time, has flown in over 100 different types of planes in 60 different counties around the world.
@@ -1255,7 +1241,11 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 <!------------------------------------------------------------------------------------------------>
 <hr/>
 
-![image](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
+<p align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png"
+   alt=""
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -1271,9 +1261,11 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
  
   - UFOlogists, founder of Close Encounters of the 3rd Kind
 
-hynek and jacque vallee.png
-
-![J Allen Hynek](https://user-images.githubusercontent.com/41387907/150276142-161bb3e7-48fc-46ef-b494-db557b211dc6.png)
+<p align="center" width="100%">
+<img src="./images/hynek and jacque vallee.png"
+   alt="J Allen Hynek and Jacque Vallee"
+   width="50%" />
+</p>
 
 &nbsp;
 
@@ -1291,11 +1283,11 @@ Leonard Stringfield (1920-1994)
  
   - UFOlogist (maybe the best ever), writer
 
-leonard stringfield - photo.png
-
-&nbsp;
-
-![Leonard Stringfield](https://github.com/bbauska/hidden-hand/blob/main/images/leonard%20stringfield%20-%20photo.png?raw=true)
+<p align="center" width="100%">
+<img src="./images/leonard stringfield - photo.png"
+   alt="Leonard Stringfield"
+   width="50%" />
+</p>
 
 Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. He died in 1994.[1]
 
@@ -1502,10 +1494,6 @@ roswell alien-probably another.png
 **[`^        go to credits        ^`](#credits)**
 
 &nbsp;
-<div align="right">
-  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
-</div>
-
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
