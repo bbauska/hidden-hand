@@ -22,7 +22,7 @@ than are dreamt of in your philosophy.
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
   width="650" height="500"
-  alt="Autopsy photo"</>
+  alt="Autopsy photo" />
 </p>
 
 &nbsp;
@@ -68,9 +68,9 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
-  <img src="https://user-images.githubusercontent.com/41387907/137834233-99856897-4220-4ed1-ab10-948650a591cf.png" 
+  <img src="./images/Albert Einstein.png"
   width="75%"
-  alt="Albert Einstein"</>
+  alt="Albert Einstein" />
 </p>
 
 Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium. Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics. In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office. In 1905 he obtained his doctor’s degree.
@@ -134,8 +134,8 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 <h4>Harry Reid - (Dec/1939-Dec/2021)</h4>
 
 <p align="center" width="100%">
-  <img width="50%" src=" " 
-  alt="Harry Reid 2021, died Dec, 2021" </>
+  <img width="50%" src="./images/harry reid 2022.png"
+  alt="Harry Reid 2021, died Dec, 2021" />
 </p>
 
 Career
@@ -158,8 +158,8 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
    - Author. How I Learned to Cope with High Strangeness...
 
 <p align="center" width="100%">
-  <img width="50%" src="https://user-images.githubusercontent.com/41387907/137834729-21565915-7999-4154-8792-06b4ed597c43.png" 
-  width="400" height="400"
+  <img width="50%" src="./images/Chuck Weiss - book cover.png"
+  width="40%"
   alt="Chuck Weiss" </>
 </p>
 
@@ -438,6 +438,12 @@ Lyn Buchanan
 
   - Director, The PSI Institute
 
+<p align="center" width="100%">
+<img src="./images/Lyn Buchanan.png"
+   alt="Lyn Buchanan"
+   width="50%" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -465,6 +471,12 @@ Nassim Haramein
 David Jacobs
 
   - Historian & Hypnotherapist
+
+<p align="center" width="100%">
+  <img src=./images/David Jacobs.png"
+  width="50%"
+  alt="David Jacobs" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -550,6 +562,12 @@ Jaime Maussan
   
   - TV Producer
 
+<p align="center" width="100%">
+  <img src="./images/"
+  width="45%"
+  alt="James Maussan" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -563,6 +581,12 @@ Jaime Maussan
 John B. Alexander
    
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
+
+<p align="center" width="100%">
+  <img src="./images/"
+  width="45%"
+  alt="John Alexander" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -578,6 +602,12 @@ Paul Hellyer
   
   - Former Canadian Defense Secretary
 
+<p align="center" width="100%">
+  <img src="./images/"
+  width="45%"
+  alt="Paul Hellyer" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -591,6 +621,12 @@ Paul Hellyer
 Charles Hall
   
   - Retired US Army Duty Weather Observer
+
+<p align="center" width="100%">
+  <img src="./images/"
+  width="45%"
+  alt="Charles Hall" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -606,6 +642,12 @@ David Huggins
   
   - Painter & Experiencer
 
+<p align="center" width="100%">
+  <img src="./images/"
+  width="45%"
+  alt="David Huggins" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -619,6 +661,12 @@ David Huggins
 Clifford E. Stone
   
   - Retired US Army Sergeant
+
+<p align="center" width="100%">
+  <img src="./images/"
+  width="45%"
+  alt="Clifford Stone" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -634,6 +682,12 @@ Derrel W. Sims
   
   - Private Investigator
 
+<p align="center" width="100%">
+  <img src="./images/"
+  width="45%"
+  alt="Darrel W Sims" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -647,6 +701,8 @@ Derrel W. Sims
 James Gilliland
   
   - Director, ECETI
+
+James Gilliland.png
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -672,9 +728,21 @@ Budd Hopkins
 <!------------------------------------------------------------------------------------------------>
 <hr/>
 
+<p align="center" width="100%">
+  <img src="./images/1947-roswell-autopsy.jpg"
+  width="650" height="500"
+  alt="Autopsy photo" />
+</p>
+
 <h4>Philip J. Corso</h4>
 
   - Chief of Pentagon Foreign Technology Desk (archive footage)
+
+<p align="center" width="100%">
+  <img src="./images/20000700-ufo-magazine-03-01-01.jpg"
+  width="45%"
+  alt="Phillip Corso" />
+</p>
 
 <h4>Background</h4>
 Philip James Corso (May 22, 1915 – July 16, 1998) was an American Army officer.
@@ -796,7 +864,11 @@ Graham Hancock
 
   - Author, Fingerprints of the Gods
 
-![Graham Hancock](https://user-images.githubusercontent.com/41387907/137835253-39381b64-61b7-48e7-9602-4ae76004db5e.png)
+<p align="center" width="100%">
+<img src="./Graham Hancock facebook.png"
+  width="65%
+  alt="Graham Hancock Facebook" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -1012,7 +1084,17 @@ John Lear
  
   -  CIA pilot, UFO researcher
 
-![John Lear](https://user-images.githubusercontent.com/41387907/140462399-903e5cd6-8146-4f54-8595-4ec33de1ac1b.png)
+<p align="center" width="100%">
+<img src="./images/John Lear Las Vegas April 2008.png"
+   alt="John Lear"
+   width="50%" />
+</p>
+
+<p align="center" width="100%">
+<img src="./images/John Lear.png"
+   alt="John Lear"
+   width="50%" />
+</p>
 
 INTRODUCTION:
 
