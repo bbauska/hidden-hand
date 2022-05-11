@@ -362,7 +362,7 @@ Joni Strother
    - Abductee
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/"joni strother.png"
    alt="Joni Strother"
    width="50%" />
 </p>
@@ -423,7 +423,7 @@ Niara Isley
   - Abductee
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/"niara isley 2020.png"
    alt="Niara Isley"
    width="50%" />
 </p>
@@ -465,7 +465,7 @@ Nassim Haramein
   - Director, The Resonance Project Foundation
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/"Nassim Haramein.png"
    alt="Nassim Haramein"
    width="50%" />
 </p>
@@ -505,7 +505,7 @@ Nick Pope
   - Former Head of the British Government's UFO Project
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/Nick Pope.png"
    alt="Nick Pope"
    width="50%" />
 </p>
@@ -523,6 +523,12 @@ Nick Pope
 Milton Torres
   
   - Former USAF Fighter Pilot & Astronaut
+
+<p align="center" width="100%">
+<img src="./images/"milton torres 1957.png"
+   alt="Milton Torres"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -559,7 +565,7 @@ James Penniston
  - Sergeant USAF Retired
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/tsgt james penniston.png"
    alt="James Penniston"
    width="50%" />
 </p>
@@ -579,7 +585,7 @@ David Icke
   - Author, The Biggest Secret
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/david icke.png"
    alt="David Icke"
    width="50%" />
 </p>
@@ -599,7 +605,7 @@ Jaime Maussan
   - TV Producer
 
 <p align="center" width="100%">
-  <img src="./images/"
+  <img src="./images/james maussan.png"
   width="45%"
   alt="James Maussan" />
 </p>
@@ -639,7 +645,7 @@ Paul Hellyer
   - Former Canadian Defense Secretary
 
 <p align="center" width="100%">
-  <img src="./images/"
+  <img src="./images/paul hellyer minister of defense canada.png"
   width="45%"
   alt="Paul Hellyer" />
 </p>
@@ -659,7 +665,7 @@ Charles Hall
   - Retired US Army Duty Weather Observer
 
 <p align="center" width="100%">
-  <img src="./images/"
+  <img src="./images/charles hall.png"
   width="45%"
   alt="Charles Hall" />
 </p>
@@ -699,7 +705,7 @@ Clifford E. Stone
   - Retired US Army Sergeant
 
 <p align="center" width="100%">
-  <img src="./images/"
+  <img src="./images/clifford stone.png"
   width="45%"
   alt="Clifford Stone" />
 </p>
@@ -719,7 +725,7 @@ Derrel W. Sims
   - Private Investigator
 
 <p align="center" width="100%">
-  <img src="./images/"
+  <img src="./images/darrel sims.png"
   width="45%"
   alt="Darrel W Sims" />
 </p>
@@ -738,7 +744,11 @@ James Gilliland
   
   - Director, ECETI
 
-James Gilliland.png
+<p align="center" width="100%">
+  <img src="./images/james gilliland - eceti and trout lake washington.png"
+  width="45%"
+  alt="James Gilliland" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -954,7 +964,7 @@ Jesse Long
   - Abductee
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/jesse long.png"
    alt="Jesse Long"
    width="50%" />
 </p>
@@ -1013,6 +1023,12 @@ Shelley Yates
 
   - Director, Fire the Grid
 
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Shelley Yates"
+   width="50%" />
+</p>
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -1026,6 +1042,12 @@ Shelley Yates
 Julian Michael
 
   - Hypnotherapist
+
+<p align="center" width="100%">
+<img src="./images/"
+   alt="Julian Michael"
+   width="50%" />
+</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
