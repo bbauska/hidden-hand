@@ -550,6 +550,8 @@ Edgar D. Mitchell
    width="65%" />
 </p>
 
+https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -927,6 +929,8 @@ Graham Hancock
   alt="Graham Hancock Facebook" />
 </p>
 
+https://grahamhancock.com/hazex1/
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -969,6 +973,8 @@ Jesse Long
    width="50%" />
 </p>
 
+https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-abduction-story/
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -989,6 +995,8 @@ Yvonne Smith
    width="50%" />
 </p>
 
+https://northernencounters.wixsite.com/ufo1/yvonne-smith
+
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -1008,6 +1016,8 @@ Marc Brinkerhoff
    alt="Marc Brinkerhoff"
    width="50%" />
 </p>
+
+https://www.youtube.com/watch?v=u0xxVydxhzc
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -1159,7 +1169,8 @@ Stephen Bassett
 
   - Director, Paradigm Research Group
 
-Stephen Bassett.png
+Stephen Bassett
+
 ![image](https://user-images.githubusercontent.com/41387907/140463116-6170534f-ae83-4506-a093-00cf97874830.png)
 
 Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) lobbyist in the United States, executive director and treasurer of the political action committee Extraterrestrial Phenomena Political Action Committee and executive director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says it wants end to end the governments imposed truth embargo regarding the facts of extraterrestrials engaging the human race. During the run-up to the presidential election 2014-2016, Bassett met with House and Senate staffers regarding the need for new congressional hearings addressing the modern evidence for an extraterrestrial presence.
