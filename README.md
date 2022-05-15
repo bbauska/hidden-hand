@@ -362,7 +362,7 @@ Joni Strother
    - Abductee
 
 <p align="center" width="100%">
-<img src="./images/"joni strother.png"
+<img src="./images/joni strother.png"
    alt="Joni Strother"
    width="50%" />
 </p>
@@ -423,7 +423,7 @@ Niara Isley
   - Abductee
 
 <p align="center" width="100%">
-<img src="./images/"niara isley 2020.png"
+<img src="./images/niara isley 2020.png"
    alt="Niara Isley"
    width="50%" />
 </p>
@@ -465,7 +465,7 @@ Nassim Haramein
   - Director, The Resonance Project Foundation
 
 <p align="center" width="100%">
-<img src="./images/"Nassim Haramein.png"
+<img src="./images/Nassim Haramein.png"
    alt="Nassim Haramein"
    width="50%" />
 </p>
@@ -525,11 +525,10 @@ Milton Torres
   - Former USAF Fighter Pilot & Astronaut
 
 <p align="center" width="100%">
-<img src="./images/"milton torres 1957.png"
+<img src="./images/milton torres 1957.png"
    alt="Milton Torres"
    width="50%" />
 </p>
-
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
@@ -627,7 +626,7 @@ John B. Alexander
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
 <p align="center" width="100%">
-  <img src="./images/"corso and alien.png"
+  <img src="./images/corso and alien.png"
   width="45%"
   alt="John Alexander" />
 </p>
@@ -687,7 +686,7 @@ David Huggins
   - Painter & Experiencer
 
 <p align="center" width="100%">
-  <img src="./images/"
+  <img src="./images/david huggins.png"
   width="45%"
   alt="David Huggins" />
 </p>
@@ -924,7 +923,7 @@ Graham Hancock
   - Author, Fingerprints of the Gods
 
 <p align="center" width="100%">
-<img src="./Graham Hancock facebook.png"
+<img src="./images/Graham Hancock facebook.png"
   width="65%
   alt="Graham Hancock Facebook" />
 </p>
