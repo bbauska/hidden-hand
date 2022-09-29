@@ -904,7 +904,7 @@ Melinda Leslie
   - Researcher & Abductee
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/melinda leslie.png"
    alt="Melinda Leslie"
    width="50%" />
 </p>
@@ -947,10 +947,12 @@ Yvonne Smith
   - Hypnotherapist
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/yvonne smith.png"
    alt="Yvonne Smith"
    width="50%" />
 </p>
+Website(s):
+firethegrid.com
 
 https://northernencounters.wixsite.com/ufo1/yvonne-smith
 
@@ -966,6 +968,19 @@ https://northernencounters.wixsite.com/ufo1/yvonne-smith
 Marc Brinkerhoff
 
   - Contactee & Artist
+
+Marc Brinkerhoff
+Biography:
+Marc Brinkerhoff has had a lifetime of UFO related experiences including face-to-face meetings with human-looking aliens, and the ability to go out and take photos of UFOs on a regular basis. Marc lives in NY and he spots them from his window or walks into Central Park nearby. He has even photographed what looks to be the 'Ultraterrestrials' inside the craft.
+
+Website(s):
+marcbrinkerhoff.com
+intergalacticmission.com
+Book(s):
+Your Spirit Animal Helpers
+
+UFO Repeaters!
+Ashtar's The Space Brothers Speak
 
 <p align="center" width="100%">
 <img src="./images/"
