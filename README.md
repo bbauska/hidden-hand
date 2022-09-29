@@ -904,7 +904,7 @@ Melinda Leslie
   - Researcher & Abductee
 
 <p align="center" width="100%">
-<img src="./images/melinda leslie.png"
+<img src="./images/melinda leslie.jpg"
    alt="Melinda Leslie"
    width="50%" />
 </p>
@@ -926,7 +926,7 @@ Jesse Long
   - Abductee
 
 <p align="center" width="100%">
-<img src="./images/jesse long.png"
+<img src="./images/jesse long.jpg"
    alt="Jesse Long"
    width="50%" />
 </p>
