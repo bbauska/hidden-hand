@@ -981,8 +981,10 @@ Your Spirit Animal Helpers
 UFO Repeaters!
 Ashtar's The Space Brothers Speak
 
+https://www.youtube.com/watch?v=vWWZxB4ofXc
+
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/Marc Brinkerhoff.png"
    alt="Marc Brinkerhoff"
    width="50%" />
 </p>
@@ -1370,7 +1372,7 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!-------------------------------------- richard campbell ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <h4>Rest of cast listed alphabetically:</h4>
 <ul>
@@ -1504,6 +1506,7 @@ More details about Nick Pope and his work can be found at his website.
 <!------------------------------------ Milton Torres --------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 Milton Torres	...	Self - Former USAF Fighter Pilot
+https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 
 ...
 <hr/>
@@ -1511,6 +1514,9 @@ Milton Torres	...	Self - Former USAF Fighter Pilot
 <!---------------------------------- Edgar D. Mitchell ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Edgar D. Mitchell	...	Self - Former Astronaut
+  http://www.openminds.tv/spacingout
+  
+  
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
@@ -1797,9 +1803,8 @@ Donald Slayton
 Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object was a kite, then I realized that no kite is gonna fly that high." As I got closer it looked like a weather balloon, grey and about three feet in diameter. But as soon as I got behind the darn thing it didn't look like a balloon anymore. It looked like a saucer, a disk. About the same time, I realized that it was suddenly going away from me - and there I was, running at about 300 miles per hour. I tracked it for a little way, and then all of a sudden the damn thing just took off. It pulled about a 45 degree climbing turn and accelerated and just flat disappeared."
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!-------------------------------------- robert white -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
- 
 
 Robert White
 
@@ -1807,7 +1812,7 @@ On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile h
 Then according to a Time Magazine article, Major White exclaimed over the radio: "There ARE things out there! There absolutely is!"
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!------------------------------------ joseph a walker ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
 Joseph A. Walker
@@ -1815,7 +1820,7 @@ Joseph A. Walker
 
 On May 11, 1962 NASA pilot Joseph Walker said that one of his tasks was to detect UFOs during his X-15 flights. He had filmed five or six UFOs during his record breaking fifty-mile-high flight in April, 1962. It was the second time he had filmed UFOs in flight. During a lecture at the Second National Conference on the Peaceful Uses of Space Research in Seattle, Washigton he said: "I don't feel like speculating about them. All I know is what appeared on the film which was developed after the flight." - Joseph Walker To date none of those films has been released to the public for viewing.
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!-------------------------------------- eugene cernan ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
 Eugene Cernan
@@ -1823,9 +1828,8 @@ Eugene Cernan
 
 Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973 he said, about UFOs: "...I've been asked (about UFOs) and I've said publicly I thought they (UFOs) were somebody else, some other civilization."
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!-------------------------------- ed white & james mcdivitt ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 
 Ed White & James McDivitt
  
@@ -1833,7 +1837,7 @@ Ed White & James McDivitt
 In June 1965, astronauts Ed White (first American to walk in space) and James McDivitt were passing over Hawaii in a Gemini spacecraft when they saw a weird-looking metallic object. The UFO had long arms sticking out of it. McDivitt took pictures with a cine-camera. Those pictures have never been released.
  
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!------------------------------- james lovell and frank borman ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
 James Lovell and Frank Borman
@@ -1855,7 +1859,7 @@ Capcom: ...Estimated distance or size?
 Lovell: WE ALSO HAVE THE BOOSTER IN SIGHT...
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!----------------------------- neil armstrong & edwin aldrin ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 
 Neil Armstrong & Edwin Aldrin
@@ -1899,15 +1903,25 @@ According to a Dr. Vladimir Azhazha: "Neil Armstrong relayed the message to Miss
 According to a Dr. Aleksandr Kasantsev, Buzz Aldrin took color movie film of the UFOs from inside the module, and continued filming them after he and Armstrong went outside. Armstrong confirmed that the story was true but refused to go into further detail, beyond admitting that the CIA was behind the cover-up.
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!------------------------------------ maurice chatelain ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
 Maurice Chatelain
 
-In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed that Armstrong had indeed reported seeing two UFOs on the rim of a crater. Chatelain believes that some UFOs may come from our own solar system, specifically Titan. "The encounter was common knowledge in NASA, but nobody has talked about it until now." "...all Apollo and Gemini flights were followed, both at a distance and sometimes also quite closely, by space vehicles of extraterrestrial origin - flying saucers, or UFOs, if you want to call them by that name. Every time it occurred, the astronauts informed Mission Control, who then ordered absolute silence." "I think that Walter Schirra aboard Mercury 8 was the first of the astronauts to use the code name 'Santa Claus' to indicate the presence of flying saucers next to space capsules. However, his announcements were barely noticed by the general public. It was a little different when James Lovell on board the Apollo 8 command module came out from behind the moon and said for everybody to hear: 'PLEASE BE INFORMED THAT THERE IS A SANTA CLAUS.' Even though this happened on Christmas Day 1968, many people sensed a hidden meaning in those words." The rumors persist. NASA may well be a civilian agency, but many of its programs are funded by the defence budget and most of the astronauts are subject to military security regulations. Apart from the fact that the National Security Agency screens all films and probably radio communications as well. We have the statements by Otto Binder, Dr. Garry Henderson and Maurice Chatelain that the astronauts were under strict orders not to discuss their sightings. And Gordon Cooper has testified to a United Nations committee that one of the astronauts actually witnessed a UFO on the ground. If there is no secrecy, why has this sighting not been made public?
+In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed that Armstrong had indeed reported seeing two UFOs on the rim of a crater. <br>
+Chatelain believes that some UFOs may come from our own solar system, specifically Titan. "The encounter was common knowledge in NASA, but nobody has talked about it until now." <br>
+"...all Apollo and Gemini flights were followed, both at a distance and sometimes also quite closely, by space vehicles of extraterrestrial origin - flying saucers, or UFOs, if you want to call them by that name. <br>
+Every time it occurred, the astronauts informed Mission Control, who then ordered absolute silence." "I think that Walter Schirra aboard Mercury 8 was the first of the astronauts to use the code name 'Santa Claus' to indicate the presence of flying saucers next to space capsules. <br>
+However, his announcements were barely noticed by the general public. It was a little different when James Lovell on board the Apollo 8 command module came out from behind the moon and said for everybody to hear: 'PLEASE BE INFORMED THAT THERE IS A SANTA CLAUS.' <br>
+Even though this happened on Christmas Day 1968, many people sensed a hidden meaning in those words." The rumors persist. <br>
+NASA may well be a civilian agency, but many of its programs are funded by the defence budget and most of the astronauts are subject to military security regulations. <br>
+Apart from the fact that the National Security Agency screens all films and probably radio communications as well. <br>
+We have the statements by Otto Binder, Dr. Garry Henderson and Maurice Chatelain that the astronauts were under strict orders not to discuss their sightings. <br>
+And Gordon Cooper has testified to a United Nations committee that one of the astronauts actually witnessed a UFO on the ground. <br>
+If there is no secrecy, why has this sighting not been made public?
 
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!------------------------------------- scott carpenter ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 
 Scott Carpenter
