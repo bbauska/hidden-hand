@@ -1701,7 +1701,6 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 <!------------------------------------------------------------------------------------------------>
   - Stephen Bassett	...	Self - Director, Paradigm Research Group
   
-  
 ...
 <hr/>
 
@@ -1753,41 +1752,17 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- And the Rest -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
- 
 UFO Sightings  by Astronauts
 
 with
 
 Major Gordon Cooper
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Donald Slayton
-Major Robert White
-Joseph A. Walker
-Commander Eugene Cernan
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Ed White & James McDivitt
-James Lovell and Frank Borman
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Neil Armstrong & Edwin Aldrin
-Maurice Chatelain
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
 
-Scott Carpenter
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!----------------------------------- major gordon cooper ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 Major Gordon Cooper
  
-
 One of the original Mercury Astronauts and the last American to fly in space alone. On May 15, 1963 he shot into space in a Mercury capsule for a 22 orbit journey around the world. During the final orbit, Major Gordon Cooper told the tracking station at Muchea (near Perth Australia) that he could see a glowing, greenish object ahead of him quickly approaching his capsule. The UFO was real and solid, because it was picked up by Muchea's tracking radar. Cooper's sighting was reported by the National Broadcast Company, which was covering the flight step by step; but when Cooper landed, reporters were told that they would not be allowed to question him about the UFO sighting.
 
 Major Cooper was a firm believer in UFOs. Ten years earlier, in 1951 he had sighted a UFO while piloting an F-86 Sabrejet over Western Germany. They were metallic, saucer-shaped discs at considerable altitude and could out-maneuver all American fighter planes. Major Cooper also testified before the United Nations: "I believe that these extra-terrestrial vehicles and their crews are visiting this planet from other planets... Most astronauts were reluctant to discuss UFOs." "I did have occasion in 1951 to have two days of observation of many flights of them, of different sizes, flying in fighter formation, generally from east to west over Europe."
@@ -1797,18 +1772,15 @@ And according to a taped interview by J. L. Ferrando, Major Cooper said: "For ma
 
 read also: "Pioneering astronauts sees UFO", Area 51 and Gordon Cooper's confiscated Camera", and "No Mercury UFO"
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!------------------------------------- donald slayton ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 Donald Slayton
-
 
 Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object was a kite, then I realized that no kite is gonna fly that high." As I got closer it looked like a weather balloon, grey and about three feet in diameter. But as soon as I got behind the darn thing it didn't look like a balloon anymore. It looked like a saucer, a disk. About the same time, I realized that it was suddenly going away from me - and there I was, running at about 300 miles per hour. I tracked it for a little way, and then all of a sudden the damn thing just took off. It pulled about a 45 degree climbing turn and accelerated and just flat disappeared."
 
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- robert white -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 Robert White
 
 On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile high flight of an X-15. Major White reported: "I have no idea what it could be. It was grayish in color and about thrity to forty feet away."
@@ -1819,7 +1791,6 @@ Then according to a Time Magazine article, Major White exclaimed over the radio:
 <!------------------------------------------------------------------------------------------------>
 
 Joseph A. Walker
-
 
 On May 11, 1962 NASA pilot Joseph Walker said that one of his tasks was to detect UFOs during his X-15 flights. He had filmed five or six UFOs during his record breaking fifty-mile-high flight in April, 1962. It was the second time he had filmed UFOs in flight. During a lecture at the Second National Conference on the Peaceful Uses of Space Research in Seattle, Washigton he said: "I don't feel like speculating about them. All I know is what appeared on the film which was developed after the flight." - Joseph Walker To date none of those films has been released to the public for viewing.
 <!------------------------------------------------------------------------------------------------>
@@ -1833,7 +1804,6 @@ Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------- ed white & james mcdivitt ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 Ed White & James McDivitt
  
 
@@ -1842,7 +1812,6 @@ In June 1965, astronauts Ed White (first American to walk in space) and James Mc
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- james lovell and frank borman ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 James Lovell and Frank Borman
 
 
@@ -1864,7 +1833,6 @@ Lovell: WE ALSO HAVE THE BOOSTER IN SIGHT...
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- neil armstrong & edwin aldrin ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-
 Neil Armstrong & Edwin Aldrin
 
   According to the NASA Astronaut Neil Armstrong, the Aliens have a base on the Moon and told us in no uncertain terms to get off and stay off the Moon. According to un-confirmed reports, both Neil Armstrong and Edwin "Buzz" Aldrin saw UFOs shortly after that historic landing on the Moon in Apollo 11 on 21 July 1969. I remember hearing one of the astronauts refer to a "light" in or on a crater during the television transmission, followed by a request from mission control for further information. Nothing more was heard. According to a former NASA employee Otto Binder, unnamed radio hams with their own VHF receiving facilities that bypassed NASA's broadcasting outlets picked up the following exchange:
@@ -1908,7 +1876,6 @@ According to a Dr. Aleksandr Kasantsev, Buzz Aldrin took color movie film of the
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ maurice chatelain ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 Maurice Chatelain
 
 In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed that Armstrong had indeed reported seeing two UFOs on the rim of a crater. <br>
@@ -1926,7 +1893,6 @@ If there is no secrecy, why has this sighting not been made public?
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- scott carpenter ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-
 Scott Carpenter
  
 "At no time, when the astronauts were in space were they alone: there was a constant surveillance by UFOs."
