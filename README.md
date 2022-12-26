@@ -1373,6 +1373,7 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 </div>
 
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- richard campbell ---------------------------------------->
@@ -1380,19 +1381,25 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 <h4>Rest of cast listed alphabetically:</h4>
 <ul>
 <li>Richard Campbell</li>
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------- Major Desmond Morton ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <li>Major Desmond Morton</li>
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- Andrew von Urtz ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 <li>Andrew von Urtz</li>
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------------ Alien ----------------------------------------------->
@@ -1405,13 +1412,17 @@ roswell alien-probably another.png
 <h3 id="credits">Writing Credits (in alphabetical order)</h2>
 
   - James Carman	Cast (in credits order)
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ Ttristan Layton ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Tristan Layton	...	Self - Narrator (voice)
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Richard Dolan ------------------------------------------->
@@ -1423,19 +1434,25 @@ roswell alien-probably another.png
 <!------------------------------------ Whitley Strieber ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Whitley Strieber	...	Self - Author, Communion
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Robert Dean --------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Paola Harris -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Paola Harris	...	Self - Author, Connecting the Dots
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Joni Strother ------------------------------------------->
@@ -1447,37 +1464,49 @@ roswell alien-probably another.png
 <!--------------------------------------- Roger Leir --------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Roger Leir	...	Self - Author, The Aliens and the Scalpel
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!--------------------------------------- Jim Sparks --------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Jim Sparks	...	Self - Author, The Keepers
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Niara Isley --------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Niara Isley	...	Self - Abductee
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Lyn Buchanan -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Lyn Buchanan	...	Self - Director, The PSI Institute
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- Nassim Haramein ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Nassim Haramein		...	Self - Director, The Resonance Project Foundation
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- David Jacobs -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - David Jacobs	...	Self - Historian & Hypnotherapist
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Nick Pope ----------------------------------------------->
@@ -1504,6 +1533,7 @@ More details about Nick Pope and his work can be found at his website.
 &nbsp;
 
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ Milton Torres --------------------------------------------->
@@ -1512,6 +1542,7 @@ Milton Torres	...	Self - Former USAF Fighter Pilot
 https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------- Edgar D. Mitchell ------------------------------------------->
@@ -1688,13 +1719,17 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 <!---------------------------------------- Alan White -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Alan White...	Self - Experiencer & Composer
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- Harold Egeln ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Harold Egeln...	Self - Experiencer & Journalist
+
 ...
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Stephen Bassett ----------------------------------------->
@@ -1703,6 +1738,9 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
   
 ...
 <hr/>
+<!------------------------------------------------------------------------------------------------>
+<!---------------------------------------- Rest of Cast ------------------------------------------>
+<!------------------------------------------------------------------------------------------------>
 
 <h4>Rest of cast listed alphabetically:</h4>
   - Richard Campbell...	Major Desmond Morton
@@ -1749,6 +1787,7 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- And the Rest -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1758,6 +1797,7 @@ with
 
 Major Gordon Cooper
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- major gordon cooper ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1771,6 +1811,8 @@ And according to a taped interview by J. L. Ferrando, Major Cooper said: "For ma
 "I was furthermore a witness to an extraordinary phenomenon, here on this planet Earth. It happened a few months ago in Florida. There I saw with my own eyes a defined area of ground being consumed by flames, with four indentions left by a flying object which had descended in the middle of a field. Beings had left the craft (there were other traces to prove this). They seemed to have studied topography, they had collected soil samples and, eventually, they returned to where they had come from, disappearing at enormous speed... I happen to know that authority did just about everything to keep this incident from the press and TV, in fear of a panicky reaction from the public."
 
 read also: "Pioneering astronauts sees UFO", Area 51 and Gordon Cooper's confiscated Camera", and "No Mercury UFO"
+
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- donald slayton ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1778,6 +1820,7 @@ Donald Slayton
 
 Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object was a kite, then I realized that no kite is gonna fly that high." As I got closer it looked like a weather balloon, grey and about three feet in diameter. But as soon as I got behind the darn thing it didn't look like a balloon anymore. It looked like a saucer, a disk. About the same time, I realized that it was suddenly going away from me - and there I was, running at about 300 miles per hour. I tracked it for a little way, and then all of a sudden the damn thing just took off. It pulled about a 45 degree climbing turn and accelerated and just flat disappeared."
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- robert white -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1786,6 +1829,7 @@ Robert White
 On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile high flight of an X-15. Major White reported: "I have no idea what it could be. It was grayish in color and about thrity to forty feet away."
 Then according to a Time Magazine article, Major White exclaimed over the radio: "There ARE things out there! There absolutely is!"
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ joseph a walker ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1801,6 +1845,8 @@ Eugene Cernan
 
 
 Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973 he said, about UFOs: "...I've been asked (about UFOs) and I've said publicly I thought they (UFOs) were somebody else, some other civilization."
+
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------- ed white & james mcdivitt ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1809,6 +1855,7 @@ Ed White & James McDivitt
 
 In June 1965, astronauts Ed White (first American to walk in space) and James McDivitt were passing over Hawaii in a Gemini spacecraft when they saw a weird-looking metallic object. The UFO had long arms sticking out of it. McDivitt took pictures with a cine-camera. Those pictures have never been released.
  
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- james lovell and frank borman ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1830,6 +1877,7 @@ Lovell: WE HAVE SEVERAL...ACTUAL SIGHTING.
 Capcom: ...Estimated distance or size?
 Lovell: WE ALSO HAVE THE BOOSTER IN SIGHT...
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- neil armstrong & edwin aldrin ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
@@ -1873,6 +1921,7 @@ quick scoop and back again.
 According to a Dr. Vladimir Azhazha: "Neil Armstrong relayed the message to Mission Control that two large, mysterious objects were watching them after having landed near the moon module. But this message was never heard by the public - because NASA censored it."
 According to a Dr. Aleksandr Kasantsev, Buzz Aldrin took color movie film of the UFOs from inside the module, and continued filming them after he and Armstrong went outside. Armstrong confirmed that the story was true but refused to go into further detail, beyond admitting that the CIA was behind the cover-up.
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ maurice chatelain ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -1890,6 +1939,7 @@ We have the statements by Otto Binder, Dr. Garry Henderson and Maurice Chatelain
 And Gordon Cooper has testified to a United Nations committee that one of the astronauts actually witnessed a UFO on the ground. <br>
 If there is no secrecy, why has this sighting not been made public?
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- scott carpenter ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
