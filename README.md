@@ -1688,55 +1688,55 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Marc Brinkerhoff ---------------------------------------->
+<!-------------------------------------- marc brinkerhoff ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Marc Brinkerhoff...	Self - Contactee & Artist
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- Shelley Yates ------------------------------------------>
+<!--------------------------------------- shelley yates ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Shelley Yates	...	Self - Director, Fire the Grid
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Julian Michael ------------------------------------------>
+<!-------------------------------------- julian michael ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Julian Michael	...	Self - Hypnotherapist
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------------- J.J. Hurtak ------------------------------------------->
+<!---------------------------------------- j.j. hurtak ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - J.J. Hurtak	...	Self - Author, The Keys of Enoch
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- Melissa Reid ------------------------------------------->
+<!--------------------------------------- melissa reid ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Melissa Reid...	Self - Experiencer & Artist
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Stephen Bassett ----------------------------------------->
+<!--------------------------------------- jeremy vaeni ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Jeremy Vaeni...	Self - Experiencer & Writer
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- Farah Yordozu ------------------------------------------>
+<!--------------------------------------- farah yordozu ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Farah Yurdozu...	Self - Experiencer & Researcher
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- Posey Gilbert ------------------------------------------>
+<!--------------------------------------- posey gilbert ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Posey Gilbert...	Self - Experiencer
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------------- Alan White -------------------------------------------->
+<!---------------------------------------- alan white -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Alan White...	Self - Experiencer & Composer
 
@@ -1744,7 +1744,7 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------------- Harold Egeln ------------------------------------------>
+<!---------------------------------------- harold egeln ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
   - Harold Egeln...	Self - Experiencer & Journalist
 
@@ -1752,14 +1752,14 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Stephen Bassett ----------------------------------------->
+<!-------------------------------------- stephen bassett ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
   - Stephen Bassett	...	Self - Director, Paradigm Research Group
   
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!---------------------------------------- Rest of Cast ------------------------------------------>
+<!---------------------------------------- rest of cast ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
 
 <h4>Rest of cast listed alphabetically:</h4>
@@ -1809,7 +1809,7 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- And the Rest -------------------------------------------->
+<!-------------------------------------- and the rest -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 UFO Sightings by Astronauts
 with
@@ -1972,17 +1972,19 @@ quick scoop and back again.
 <!------------------------------------------------------------------------------------------------>
 <h4>Maurice Chatelain</h4>
 
-In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed that Armstrong had indeed reported seeing two UFOs on the rim of a crater. <br>
-Chatelain believes that some UFOs may come from our own solar system, specifically Titan. "The encounter was common knowledge in NASA, but nobody has talked about it until now." <br>
-"...all Apollo and Gemini flights were followed, both at a distance and sometimes also quite closely, by space vehicles of extraterrestrial origin - flying saucers, or UFOs, if you want to call them by that name. <br>
-Every time it occurred, the astronauts informed Mission Control, who then ordered absolute silence." "I think that Walter Schirra aboard Mercury 8 was the first of the astronauts to use the code name 'Santa Claus' to indicate the presence of flying saucers next to space capsules. <br>
-However, his announcements were barely noticed by the general public. It was a little different when James Lovell on board the Apollo 8 command module came out from behind the moon and said for everybody to hear: 'PLEASE BE INFORMED THAT THERE IS A SANTA CLAUS.' <br>
-Even though this happened on Christmas Day 1968, many people sensed a hidden meaning in those words." The rumors persist. <br>
-NASA may well be a civilian agency, but many of its programs are funded by the defence budget and most of the astronauts are subject to military security regulations. <br>
-Apart from the fact that the National Security Agency screens all films and probably radio communications as well. <br>
-We have the statements by Otto Binder, Dr. Garry Henderson and Maurice Chatelain that the astronauts were under strict orders not to discuss their sightings. <br>
-And Gordon Cooper has testified to a United Nations committee that one of the astronauts actually witnessed a UFO on the ground. <br>
-If there is no secrecy, why has this sighting not been made public?
+<p>In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed that Armstrong had indeed reported seeing two UFOs on the rim of a crater.<br>
+<br>Chatelain believes that some UFOs may come from our own solar system, specifically Titan. "The encounter was common knowledge in NASA, but nobody has talked about it until now." <br>
+<br>"...all Apollo and Gemini flights were followed, both at a distance and sometimes also quite closely, by space vehicles of extraterrestrial origin - flying saucers, or UFOs, if you want to call them by that name. <br>
+<br>Every time it occurred, the astronauts informed Mission Control, who then ordered absolute silence."<br>
+<br>"I think that Walter Schirra aboard Mercury 8 was the first of the astronauts to use the code name 'Santa Claus' to indicate the presence of flying saucers next to space capsules. <br>
+<br>However, his announcements were barely noticed by the general public.<br>
+<br>It was a little different when James Lovell on board the Apollo 8 command module came out from behind the moon and said for everybody to hear: 'PLEASE BE INFORMED THAT THERE IS A SANTA CLAUS.'<br>
+<br>Even though this happened on Christmas Day 1968, many people sensed a hidden meaning in those words." The rumors persist.<br>
+<br>NASA may well be a civilian agency, but many of its programs are funded by the defence budget and most of the astronauts are subject to military security regulations. <br>
+<br>Apart from the fact that the National Security Agency screens all films and probably radio communications as well.<br>
+<br>We have the statements by Otto Binder, Dr. Garry Henderson and Maurice Chatelain that the astronauts were under strict orders not to discuss their sightings. <br>
+<br>And Gordon Cooper has testified to a United Nations committee that one of the astronauts actually witnessed a UFO on the ground.<br>
+<br>If there is no secrecy, why has this sighting not been made public?</p>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
@@ -1990,7 +1992,7 @@ If there is no secrecy, why has this sighting not been made public?
 <!------------------------------------------------------------------------------------------------>
 <h4>Scott Carpenter</h4>
  
-"At no time, when the astronauts were in space were they alone: there was a constant surveillance by UFOs."
+<p>"At no time, when the astronauts were in space were they alone: there was a constant surveillance by UFOs."</p>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
