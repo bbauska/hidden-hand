@@ -3,7 +3,7 @@
 --James Carman (2008)
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------ The Hidden Hand - Alien Contact and the Government Coverup ------------------>
+<!------------------ the hidden hand - alien contact and the government coverup ------------------>
 <!------------------------------------------------------------------------------------------------>
 <hr/>
 
@@ -15,7 +15,7 @@ than are dreamt of in your philosophy.
 </blockquote>
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------------- Autopsy Photo -------------------------------------------->
+<!------------------------------------- autopsy photo -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <hr/>
 
@@ -39,7 +39,7 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 **[`^        List of Credits        ^`](#credits)**
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------ The Hidden Hand - Alien Contact and the Government Coverup ------------------>
+<!------------------ the hidden hand - alien contact and the government coverup ------------------>
 <!------------------------------------------------------------------------------------------------>
 <hr/>
 <blockquote>
@@ -62,40 +62,60 @@ others. The shadowy world of UFOs is suddenly brought to light.
 ...
 
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Albert Einstein ------------------------------------------->
+<!------------------------------------ albert einstein ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <hr/>
 
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
   <img src="./images/Albert Einstein.png"
-  width="75%"
-  alt="Albert Einstein" />
+  width="45%"
+  alt="Albert Einstein." />
 </p>
 
 “You never fail until you stop trying.”
 ― Albert Einstein
 
-Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium. Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics. In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office. In 1905 he obtained his doctor’s degree.
-
-Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938). Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.
+Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium.<br>
+<br>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.<br>
+<br>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office.<br>
+<br>In 1905 he obtained his doctor’s degree.<br>
+<br>Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938).<br>
+<br>Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.
 
 <blockquote>
-In a recently unearthed recording of an interview conducted nearly 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft. UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947. As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.
+In a recently unearthed recording of an interview conducted nearly 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft.<br>
+<br>UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947.<br>
+<br>As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.
 </blockquote>
+
 <blockquote>
-According to Wright, she accompanied Einstein to what had been dubbed a “crisis conference” that was hastily held in July of 1947 at a remote army airbase in the American southwest. Upon their arrival, the duo entered a hangar that was under heavy security and, when they entered the building, they discovered that it contained a rather curious craft that appeared to have sustained significant damage. “It was disc-shaped, sort of concave,” Wright recalled, “its size stood up to one-fourth of the hangar floor.” While her response to the strange scene was one of “wonderment, half curiosity and maybe half fear,” she said that Einstein was “not disturbed at all” and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.
+According to Wright, she accompanied Einstein to what had been dubbed a "crisis conference" that was hastily held in July of 1947 at a remote army airbase in the American southwest.<br>
+<br>Upon their arrival, the duo entered a hangar that was under heavy security and, when they entered the building, they discovered that it contained a rather curious craft that appeared to have sustained significant damage.<br>
+<br>"It was disc-shaped, sort of concave," Wright recalled, "its size stood up to one-fourth of the hangar floor."<br>
+<br>While her response to the strange scene was one of "wonderment, half curiosity and maybe half fear," she said that Einstein was "not disturbed at all" and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.
 </blockquote>
- <p>
-The year of this Einstein quote (1952) is more than interesting. It is the same year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was planned. It was also the same year that mass UFO sightings were occurring with frequency over Washington, DC. And it was the same year that Frank Edwards maintained Einstein had warned the President about attacking the saucers.
+
+<p>The year of this Einstein quote (1952) is more than interesting.<br>
+<br>It is the same year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was planned.<br>
+<br>It was also the same year that mass UFO sightings were occurring with frequency over Washington, DC.<br>
+<br>And it was the same year that Frank Edwards maintained Einstein had warned the President about attacking the saucers.</p>
+ 
+<p>
+What is more interesting about the Einstein quote is what is not said.<br>
+<br>Though Einstein admits that there is reality to the phenomena ("These people are seeing something"), he says that he does not want to know just what it is that the people are seeing.<br>
+<br>This is of course disingenuous of Einstein.<br>
+<br>Since when does science shy away from encouraging finding solutions to mysteries?<br>
+<br>Einstein’s own friend and associate Goudsmit certainly was interested in the phenomena during the same time period Einstein was writing Gardner about it!<br>
+<br>It sounds more like Einstein simply does not wish to engage someone outside of his circle on this obviously sensitive matter.
 </p>
  
 <p>
-What is more interesting about the Einstein quote is what is not said.  Though Einstein admits that there is reality to the phenomena (“These people are seeing something”), he says that he does not want to know just what it is that the people are seeing.  This is of course disingenuous of Einstein.  Since when does science shy away from encouraging finding solutions to mysteries?  Einstein’s own friend and associate Goudsmit certainly was interested in the phenomena during the same time period Einstein was writing Gardner about it!  It sounds more like Einstein simply does not wish to engage someone outside of his circle on this obviously sensitive matter.
-</p>
- 
-<p>
-Another interpretation is that Einstein really did not want to know because he was afraid to know.  And this makes sense.  If what Edwards says is true, Einstein feared the phenomenon.  But what he feared more was us.  Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
+Another interpretation is that Einstein really did not want to know because he was afraid to know.<br>
+<br>And this makes sense.<br>
+<br>If what Edwards says is true, Einstein feared the phenomenon.<br>
+<br>But what he feared more was us.<br>
+<br>Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
 </p>
 
 <div align="right">
@@ -1791,81 +1811,98 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- And the Rest -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-UFO Sightings  by Astronauts
-
+UFO Sightings by Astronauts
 with
-
 Major Gordon Cooper
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------------- major gordon cooper ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-Major Gordon Cooper
- 
-One of the original Mercury Astronauts and the last American to fly in space alone. On May 15, 1963 he shot into space in a Mercury capsule for a 22 orbit journey around the world. During the final orbit, Major Gordon Cooper told the tracking station at Muchea (near Perth Australia) that he could see a glowing, greenish object ahead of him quickly approaching his capsule. The UFO was real and solid, because it was picked up by Muchea's tracking radar. Cooper's sighting was reported by the National Broadcast Company, which was covering the flight step by step; but when Cooper landed, reporters were told that they would not be allowed to question him about the UFO sighting.
+<h4>Major Gordon Cooper</h4>
 
-Major Cooper was a firm believer in UFOs. Ten years earlier, in 1951 he had sighted a UFO while piloting an F-86 Sabrejet over Western Germany. They were metallic, saucer-shaped discs at considerable altitude and could out-maneuver all American fighter planes. Major Cooper also testified before the United Nations: "I believe that these extra-terrestrial vehicles and their crews are visiting this planet from other planets... Most astronauts were reluctant to discuss UFOs." "I did have occasion in 1951 to have two days of observation of many flights of them, of different sizes, flying in fighter formation, generally from east to west over Europe."
+<p>One of the original Mercury Astronauts and the last American to fly in space alone.<br>
+<br>On May 15, 1963 he shot into space in a Mercury capsule for a 22 orbit journey around the world.<br>
+<br>During the final orbit, Major Gordon Cooper told the tracking station at Muchea (near Perth Australia) that he could see a glowing, greenish object ahead of him quickly approaching his capsule.<br>
+<br>The UFO was real and solid, because it was picked up by Muchea's tracking radar.<br>
+<br>Cooper's sighting was reported by the National Broadcast Company, which was covering the flight step by step; but when Cooper landed, reporters were told that they would not be allowed to question him about the UFO sighting.</p>
 
-And according to a taped interview by J. L. Ferrando, Major Cooper said: "For many years I have lived with a secret, in a secrecy imposed on all specialists in astronautics. I can now reveal that every day, in the USA, our radar instruments capture objects of form and composition unknown to us. And there are thousands of witness reports and a quantity of documents to prove this, but nobody wants to make them public. Why? Because authority is afraid that people may think of God knows what kind of horrible invaders. So the password still is: We have to avoid panic by all means."
-"I was furthermore a witness to an extraordinary phenomenon, here on this planet Earth. It happened a few months ago in Florida. There I saw with my own eyes a defined area of ground being consumed by flames, with four indentions left by a flying object which had descended in the middle of a field. Beings had left the craft (there were other traces to prove this). They seemed to have studied topography, they had collected soil samples and, eventually, they returned to where they had come from, disappearing at enormous speed... I happen to know that authority did just about everything to keep this incident from the press and TV, in fear of a panicky reaction from the public."
+<p>Major Cooper was a firm believer in UFOs.<br>
+<br>Ten years earlier, in 1951 he had sighted a UFO while piloting an F-86 Sabrejet over Western Germany.<br>
+<br>They were metallic, saucer-shaped discs at considerable altitude and could out-maneuver all American fighter planes.<br>
+<br>Major Cooper also testified before the United Nations: "I believe that these extra-terrestrial vehicles and their crews are visiting this planet from other planets... Most astronauts were reluctant to discuss UFOs." "I did have occasion in 1951 to have two days of observation of many flights of them, of different sizes, flying in fighter formation, generally from east to west over Europe."</p>
 
-read also: "Pioneering astronauts sees UFO", Area 51 and Gordon Cooper's confiscated Camera", and "No Mercury UFO"
+<p>And according to a taped interview by J. L. Ferrando, Major Cooper said: "For many years I have lived with a secret, in a secrecy imposed on all specialists in astronautics.<br>
+<br>I can now reveal that every day, in the USA, our radar instruments capture objects of form and composition unknown to us.<br>
+<br>And there are thousands of witness reports and a quantity of documents to prove this, but nobody wants to make them public.<br>
+<br>Why?<br>
+Because authority is afraid that people may think of God knows what kind of horrible invaders.<br>
+<br>So the password still is: We have to avoid panic by all means."<br>
+<br>"I was furthermore a witness to an extraordinary phenomenon, here on this planet Earth.<br>
+<br>It happened a few months ago in Florida.<br>
+<br>There I saw with my own eyes a defined area of ground being consumed by flames, with four indentions left by a flying object which had descended in the middle of a field.<br>
+Beings had left the craft (there were other traces to prove this).<br>
+<br>They seemed to have studied topography, they had collected soil samples and, eventually, they returned to where they had come from, disappearing at enormous speed...<br>
+<br>I happen to know that authority did just about everything to keep this incident from the press and TV, in fear of a panicky reaction from the public."<br>
+<br>read also: "Pioneering astronauts sees UFO", Area 51 and Gordon Cooper's confiscated Camera", and "No Mercury UFO"</p>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- donald slayton ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-Donald Slayton
+<h4>Donald Slayton</h4>
 
-Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object was a kite, then I realized that no kite is gonna fly that high." As I got closer it looked like a weather balloon, grey and about three feet in diameter. But as soon as I got behind the darn thing it didn't look like a balloon anymore. It looked like a saucer, a disk. About the same time, I realized that it was suddenly going away from me - and there I was, running at about 300 miles per hour. I tracked it for a little way, and then all of a sudden the damn thing just took off. It pulled about a 45 degree climbing turn and accelerated and just flat disappeared."
+<p>Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object was a kite, then I realized that no kite is gonna fly that high." As I got closer it looked like a weather balloon, grey and about three feet in diameter. But as soon as I got behind the darn thing it didn't look like a balloon anymore. It looked like a saucer, a disk. About the same time, I realized that it was suddenly going away from me - and there I was, running at about 300 miles per hour. I tracked it for a little way, and then all of a sudden the damn thing just took off. It pulled about a 45 degree climbing turn and accelerated and just flat disappeared."</p>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- robert white -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-Robert White
+<h4>Robert White</h4>
 
-On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile high flight of an X-15. Major White reported: "I have no idea what it could be. It was grayish in color and about thrity to forty feet away."
-Then according to a Time Magazine article, Major White exclaimed over the radio: "There ARE things out there! There absolutely is!"
+<p>On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile high flight of an X-15. Major White reported: "I have no idea what it could be. It was grayish in color and about thrity to forty feet away."
+Then according to a Time Magazine article, Major White exclaimed over the radio: "There ARE things out there! There absolutely is!"</p>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ joseph a walker ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 
-Joseph A. Walker
+<h4>Joseph A. Walker</h4>
 
-On May 11, 1962 NASA pilot Joseph Walker said that one of his tasks was to detect UFOs during his X-15 flights. He had filmed five or six UFOs during his record breaking fifty-mile-high flight in April, 1962. It was the second time he had filmed UFOs in flight. During a lecture at the Second National Conference on the Peaceful Uses of Space Research in Seattle, Washigton he said: "I don't feel like speculating about them. All I know is what appeared on the film which was developed after the flight." - Joseph Walker To date none of those films has been released to the public for viewing.
+<p>On May 11, 1962 NASA pilot Joseph Walker said that one of his tasks was to detect UFOs during his X-15 flights. He had filmed five or six UFOs during his record breaking fifty-mile-high flight in April, 1962. It was the second time he had filmed UFOs in flight. During a lecture at the Second National Conference on the Peaceful Uses of Space Research in Seattle, Washigton he said: "I don't feel like speculating about them. All I know is what appeared on the film which was developed after the flight." - Joseph Walker To date none of those films has been released to the public for viewing.</p>
+
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- eugene cernan ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
+<h4>Eugene Cernan</h4>
 
-Eugene Cernan
-
-
-Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973 he said, about UFOs: "...I've been asked (about UFOs) and I've said publicly I thought they (UFOs) were somebody else, some other civilization."
+<p>Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973 he said, about UFOs: "...I've been asked (about UFOs) and I've said publicly I thought they (UFOs) were somebody else, some other civilization."</p>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------- ed white & james mcdivitt ------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-Ed White & James McDivitt
- 
+<h4>Ed White & James McDivitt</h4>
 
-In June 1965, astronauts Ed White (first American to walk in space) and James McDivitt were passing over Hawaii in a Gemini spacecraft when they saw a weird-looking metallic object. The UFO had long arms sticking out of it. McDivitt took pictures with a cine-camera. Those pictures have never been released.
+<p>In June 1965, astronauts Ed White (first American to walk in space) and James McDivitt were passing over Hawaii in a Gemini spacecraft when they saw a weird-looking metallic object.<br>
+<br>The UFO had long arms sticking out of it. McDivitt took pictures with a cine-camera.<br>
+<br>Those pictures have never been released.</p>
  
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------- james lovell and frank borman ---------------------------------->
 <!------------------------------------------------------------------------------------------------>
-James Lovell and Frank Borman
+<h4>James Lovell and Frank Borman</h4>
 
+<p>In December 1965, Gemini astronauts James Lovell and Frank Borman also saw a UFO during their second orbit of their record-breaking 14 day flight.<br>
+<br>Borman reported that he saw an unidentified spacecraft some distance from their capsule.<br>
+<br>Gemini Control, at Cape Kennedy told him that he was seeing the final stage of their own Titan booster rocket.<br>
+<br>Borman confirmed that he could see the booster rocket all right, but that he could also see something completely different.</p>
 
-In December 1965, Gemini astronauts James Lovell and Frank Borman also saw a UFO during their second orbit of their record-breaking 14 day flight. Borman reported that he saw an unidentified spacecraft some distance from their capsule. Gemini Control, at Cape Kennedy told him that he was seeing the final stage of their own Titan booster rocket. Borman confirmed that he could see the booster rocket all right, but that he could also see something completely different.
+<p>During James Lovell's flight on Gemini 7:</p>
 
-During James Lovell's flight on Gemini 7:
-
+<blockquote>
 Lovell: BOGEY AT 10 O'CLOCK HIGH.
 
 Capcom: This is Houston. Say again 7.
@@ -1876,15 +1913,22 @@ Lovell: WE HAVE SEVERAL...ACTUAL SIGHTING.
 
 Capcom: ...Estimated distance or size?
 Lovell: WE ALSO HAVE THE BOOSTER IN SIGHT...
+</blockquote>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!----------------------------- neil armstrong & edwin aldrin ------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-Neil Armstrong & Edwin Aldrin
+<h4>Neil Armstrong & Edwin Aldrin</h4>
 
-  According to the NASA Astronaut Neil Armstrong, the Aliens have a base on the Moon and told us in no uncertain terms to get off and stay off the Moon. According to un-confirmed reports, both Neil Armstrong and Edwin "Buzz" Aldrin saw UFOs shortly after that historic landing on the Moon in Apollo 11 on 21 July 1969. I remember hearing one of the astronauts refer to a "light" in or on a crater during the television transmission, followed by a request from mission control for further information. Nothing more was heard. According to a former NASA employee Otto Binder, unnamed radio hams with their own VHF receiving facilities that bypassed NASA's broadcasting outlets picked up the following exchange:
+<p>
+According to the NASA Astronaut Neil Armstrong, the Aliens have a base on the Moon and told us in no uncertain terms to get off and stay off the Moon.<br>
+<br>According to un-confirmed reports, both Neil Armstrong and Edwin "Buzz" Aldrin saw UFOs shortly after that historic landing on the Moon in Apollo 11 on 21 July 1969.<br>
+<br>I remember hearing one of the astronauts refer to a "light" in or on a crater during the television transmission, followed by a request from mission control for further information.<br>
+<br>Nothing more was heard.<br>
+<br>According to a former NASA employee Otto Binder, unnamed radio hams with their own VHF receiving facilities that bypassed NASA's broadcasting outlets picked up the following exchange:</p>
 
+<blockquote>
 NASA: Whats there?
 Mission Control calling Apollo 11...
 
@@ -1893,7 +1937,6 @@ OH MY GOD! You wouldn't believe it!
 I'm telling you there are other spacecraft out there,
 Lined up on the far side of the crater edge!
 They're on the Moon watching us!
-
 
 A certain professor, who wished to remain anonymous, was engaged in a discussion with Neil Armstrong during a NASA symposium.
 
@@ -1916,16 +1959,18 @@ Professor: But NASA had other missions after Apollo 11?
 Armstrong: Naturally - NASA was committed at that time, and
 couldn't risk panic on Earth. But it really was a
 quick scoop and back again.
+</blockquote>
 
-
-According to a Dr. Vladimir Azhazha: "Neil Armstrong relayed the message to Mission Control that two large, mysterious objects were watching them after having landed near the moon module. But this message was never heard by the public - because NASA censored it."
-According to a Dr. Aleksandr Kasantsev, Buzz Aldrin took color movie film of the UFOs from inside the module, and continued filming them after he and Armstrong went outside. Armstrong confirmed that the story was true but refused to go into further detail, beyond admitting that the CIA was behind the cover-up.
+<p>According to a Dr. Vladimir Azhazha: "Neil Armstrong relayed the message to Mission Control that two large, mysterious objects were watching them after having landed near the moon module.<br>
+<br>But this message was never heard by the public - because NASA censored it."<br>
+<br>According to a Dr. Aleksandr Kasantsev, Buzz Aldrin took color movie film of the UFOs from inside the module, and continued filming them after he and Armstrong went outside.<br>
+<br>Armstrong confirmed that the story was true but refused to go into further detail, beyond admitting that the CIA was behind the cover-up.</p>
 
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ maurice chatelain ----------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-Maurice Chatelain
+<h4>Maurice Chatelain</h4>
 
 In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed that Armstrong had indeed reported seeing two UFOs on the rim of a crater. <br>
 Chatelain believes that some UFOs may come from our own solar system, specifically Titan. "The encounter was common knowledge in NASA, but nobody has talked about it until now." <br>
@@ -1943,6 +1988,17 @@ If there is no secrecy, why has this sighting not been made public?
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- scott carpenter ------------------------------------------>
 <!------------------------------------------------------------------------------------------------>
-Scott Carpenter
+<h4>Scott Carpenter</h4>
  
 "At no time, when the astronauts were in space were they alone: there was a constant surveillance by UFOs."
+
+<hr/>
+<!------------------------------------------------------------------------------------------------>
+<!--------------------------------------- don schmitt -------------------------------------------->
+<!------------------------------------------------------------------------------------------------>
+
+<h4>Don Schmitt</h4>
+
+<p>Don Schmitt is the former co-director of the J. Allen Hynek Center for UFO Studies, where he served as Director of Special Investigations for ten years.<br>
+<br>Prior to that, he was a special investigator for the late Dr. J. Allen Hynek and the art director for the International UFO Reporter.<br>
+<br>Schmitt is the author of dozens of articles about UFOs, as well as the co-author of two best-selling books, UFO CRASH AT ROSWELL, Avon 1991, best-selling Witness to Roswell, New Page, NJ, 2007, and The Truth About the UFO Crash at Roswell, published by M. Evans, 1994.</p>
