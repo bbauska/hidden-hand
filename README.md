@@ -2,11 +2,10 @@
 
 --James Carman (2008)
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------ the hidden hand - alien contact and the government coverup ------------------>
 <!------------------------------------------------------------------------------------------------>
-<hr/>
-
 <blockquote>
 There are more things in heaven and earth, Horatio,
 than are dreamt of in your philosophy.
@@ -14,11 +13,10 @@ than are dreamt of in your philosophy.
 - Hamlet (1.5.167-8), Hamlet to Horatio
 </blockquote>
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- autopsy photo -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<hr/>
-
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
   width="650" height="500"
@@ -38,6 +36,7 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 
 **[`^        List of Credits        ^`](#credits)**
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------ the hidden hand - alien contact and the government coverup ------------------>
 <!------------------------------------------------------------------------------------------------>
@@ -61,6 +60,7 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 ...
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ albert einstein ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
@@ -124,11 +124,10 @@ Another interpretation is that Einstein really did not want to know because he w
 
 ...
 
+<hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- Victor Hugo ---------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<hr/>
-
 <h4>Victor Hugo (Feb/1802 - May/1885)</h4>
 
   - Poet, novelist. Les Misérables (1862), and dramatist
@@ -153,7 +152,6 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 <!------------------------------------------------------------------------------------------------>
 <!---------------------------------------- Harry Reid -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-
 <h4>Harry Reid - (Dec/1939-Dec/2021)</h4>
 
 <p align="center" width="100%">
@@ -365,6 +363,7 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------- Joni Strother -------------------------------------------->
@@ -384,6 +383,7 @@ Abductee Joni Strother described her traumatic encounters with the aliens, whom 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
+
 <hr/>
 <!------------------------------------------------------------------------------------------------>
 <!-------------------------------------- Roger Leir ---------------------------------------------->
@@ -393,10 +393,11 @@ Roger Leir
    - Author, The Aliens and the Scalpel
 
 <p align="center" width="100%">
-<img src="https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png"
+<img src=".images/roger leir.png"
    alt="Roger Leir"
    width="50%" />
 </p>
+<!-- https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png" -->
 
 Dr. Roger K. Leir is one of the world's most important leaders in physical evidence research involving the field of Ufology. In this special session he will reveal scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private practice for the past 43 years and has written numerous books including The Aliens and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
  
@@ -542,7 +543,7 @@ Edgar D. Mitchell
   - Former Astronaut, 6th man on the moon
 
 <p align="center" width="100%">
-<img src="./images/dr mitchell-6th man on the moon.png"
+<img src="./images/edgar mitchell.png"
    alt="Dr. Edgar Mitchell"
    width="65%" />
 </p>
