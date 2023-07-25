@@ -84,7 +84,7 @@ Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Si
 <br>Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.
 
 <blockquote>
-In a recently unearthed recording of an interview conducted nearly 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft.<br>
+In a recently unearthed recording of an interview conducted over 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft.<br>
 <br>UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947.<br>
 <br>As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.
 </blockquote>
