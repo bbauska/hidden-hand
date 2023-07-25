@@ -2005,3 +2005,8 @@ quick scoop and back again.
 <p>Don Schmitt is the former co-director of the J. Allen Hynek Center for UFO Studies, where he served as Director of Special Investigations for ten years.<br>
 <br>Prior to that, he was a special investigator for the late Dr. J. Allen Hynek and the art director for the International UFO Reporter.<br>
 <br>Schmitt is the author of dozens of articles about UFOs, as well as the co-author of two best-selling books, UFO CRASH AT ROSWELL, Avon 1991, best-selling Witness to Roswell, New Page, NJ, 2007, and The Truth About the UFO Crash at Roswell, published by M. Evans, 1994.</p>
+
+<h3>Finishing Notes:</h3>
+<p>With regard to the ufo phenomenon, the skeptics MUST be right 100% of the time.  And lie, lie, lie.  Because it is the US Government with trillions of dollars and a literal army to support their pathetic lies.  A disinformation bunch of douche-bags.  Thinking they are the smartest in the universe.  Case closed</p>
+<p>Makes me want to vomit.  How does humanity evolve so long as idiots in the caves see fear in the shadows?  I see opportunity.  And their goes 75 years swept under the rug and de-evolution of humanity.  Fuck you military industrial complex.  Cowards, one and all.  Cowards and pussies.</p>
+<h4>Fuck you, fuck you, fuck you!</h4>
