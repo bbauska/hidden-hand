@@ -40,7 +40,6 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 <!------------------------------------------------------------------------------------------------>
 <!------------------ the hidden hand - alien contact and the government coverup ------------------>
 <!------------------------------------------------------------------------------------------------>
-<hr/>
 <blockquote>
 The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
 presence here on Earth. The film takes a keen look at a spectrum of topics like alien abduction, human/alien 
@@ -64,8 +63,6 @@ others. The shadowy world of UFOs is suddenly brought to light.
 <!------------------------------------------------------------------------------------------------>
 <!------------------------------------ albert einstein ------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
-<hr/>
-
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
   <img src="./images/Albert Einstein.png"
