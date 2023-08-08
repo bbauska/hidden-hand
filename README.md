@@ -388,7 +388,7 @@ Roger Leir
    - Author, The Aliens and the Scalpel
 
 <p align="center" width="100%">
-<img src=".images/roger_leir.webp"
+<img src=".images/Roger_Leir.webp"
    alt="Roger Leir"
    width="50%" />
 </p>
@@ -538,9 +538,9 @@ Edgar D. Mitchell
   - Former Astronaut, 6th man on the moon
 
 <p align="center" width="100%">
-<img src="./images/edgar_mitchell.webp"
-   alt="Dr. Edgar Mitchell"
-   width="65%" />
+<img src="./images/dr_mitchell-6th_man_on_the_moon.webp"
+  alt="Dr. Edgar Mitchell"
+  width="65%" />
 </p>
 
 https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
