@@ -64,8 +64,9 @@ others. The shadowy world of UFOs is suddenly brought to light.
 <!------------------------------------ albert einstein ------------------------------------------->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Albert Einstein (1879-1955)</h4>
+
 <p align="center" width="100%">
-  <img src="./images/Albert Einstein.png"
+  <img src="./images/Albert_Einstein.webp"
   style="width:450"
   alt="Albert Einstein." />
 </p>
@@ -132,7 +133,7 @@ Another interpretation is that Einstein really did not want to know because he w
 <p align="center" width="100%">
 <img width="40%"
    src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
-   alt="Victor Hugo Nadar"</>
+   alt="Victor Hugo Nadar."</>
 </p>
 
 <blockquote>
@@ -198,9 +199,9 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
    - Author. UFOs & The National Security State
 
 <p align="center" width="100%">
-<img src="./images/Richard Dolan Biography.png"
-    width="65%"
-    alt="Richard Dolan Biography" />
+<img src="./images/Richard_Dolan_Biography.webp"
+  width="65%"
+  alt="Richard Dolan Biography" />
 </p>
 
 <p>
@@ -225,15 +226,15 @@ Included in this volume are the activities of more than fifty military bases rel
    - Author, Communion
 
 <p align="center" width="100%">
-<img src="./images/Whitley Strieber.png"
+<img src="./images/Whitley_Strieber.webp"
     width="35%"
-    alt="Whitley Streiber" />
+    alt="Whitley Streiber." />
 </p>
 
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
 <p align="center" width="100%">
-<img src="/images/Whitley%20Strieber-communion.png?raw=true"
+<img src="/images/Whitley_Strieber-communion.webp?raw=true"
    alt="Whitley Strieber"
    width="50%" />
 </p>
@@ -251,8 +252,8 @@ Included in this volume are the activities of more than fifty military bases rel
    - Retired U.S. Army Command Sergeant Major
 
 <p align="center" width="100%">
-<img src="./images/Robert Dean-then-now.png"
-   alt="Robert Dean"
+<img src="./images/Robert_Dean_then_now.webp"
+   alt="Robert Dean."
    width="50%" />
 </p>
 
@@ -271,7 +272,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png"
-   alt="Stanton Friedman"
+   alt="Stanton Friedman."
    width="35%" />
 </p>
 
@@ -334,7 +335,7 @@ Paola Harris
    - Author, Connecting the Dots
 
 <p align="center" width="100%">
-<img src="./images/Paola Harris.png"
+<img src="./images/Paola_Harris.webp"
    alt="Paola Harris"
    width="35%" />
 </p>
@@ -367,8 +368,8 @@ Joni Strother
    - Abductee
 
 <p align="center" width="100%">
-<img src="./images/joni strother.png"
-   alt="Joni Strother"
+<img src="./images/joni_strother.webp"
+   alt="Joni Strother."
    width="50%" />
 </p>
 
@@ -387,7 +388,7 @@ Roger Leir
    - Author, The Aliens and the Scalpel
 
 <p align="center" width="100%">
-<img src=".images/roger leir.png"
+<img src=".images/roger_leir.webp"
    alt="Roger Leir"
    width="50%" />
 </p>
@@ -409,7 +410,7 @@ Jim Sparks
   - Author, The Keepers
 
 <p align="center" width="100%">
-<img src="./images/Jim Sparks.png"
+<img src="./images/Jim_Sparks.webp"
    alt="Jim Sparks"
    width="35%" />
 </p>
@@ -426,9 +427,9 @@ Niara Isley
   - Abductee
 
 <p align="center" width="100%">
-<img src="./images/niara isley 2020.png"
-   alt="Niara Isley"
-   width="50%" />
+<img src="./images/niara_isley_2020.webp"
+  alt="Niara Isley"
+  width="50%" />
 </p>
 
 [Encounters with Healing](https://encounterswithhealing.com/)
@@ -446,9 +447,9 @@ Lyn Buchanan
   - Director, The PSI Institute
 
 <p align="center" width="100%">
-<img src="./images/Lyn Buchanan.png"
-   alt="Lyn Buchanan"
-   width="35%" />
+<img src="./images/Lyn_Buchanan.webp"
+  alt="Lyn Buchanan."
+  width="35%" />
 </p>
 
 <div align="right">
@@ -464,9 +465,9 @@ Nassim Haramein
   - Director, The Resonance Project Foundation
 
 <p align="center" width="100%">
-<img src="./images/Nassim Haramein.png"
-   alt="Nassim Haramein"
-   width="50%" />
+<img src="./images/Nassim_Haramein.webp"
+  alt="Nassim Haramein."
+  width="50%" />
 </p>
 
 <div align="right">
@@ -482,9 +483,9 @@ David Jacobs
   - Historian & Hypnotherapist
 
 <p align="center" width="100%">
-  <img src="./images/David Jacobs.png"
+  <img src="./images/David_Jacobs.webp"
   width="35%"
-  alt="David Jacobs" />
+  alt="David Jacobs." />
 </p>
 
 <div align="right">
@@ -500,8 +501,8 @@ Nick Pope
   - Former Head of the British Government's UFO Project
 
 <p align="center" width="100%">
-<img src="./images/Nick Pope.png"
-   alt="Nick Pope"
+<img src="./images/Nick_Pope.webp"
+   alt="Nick Pope."
    width="50%" />
 </p>
 
@@ -519,8 +520,8 @@ Milton Torres
   - Former USAF Fighter Pilot & Astronaut
 
 <p align="center" width="100%">
-<img src="./images/milton torres 1957.png"
-   alt="Milton Torres"
+<img src="./images/milton_torres_1957.webp"
+   alt="Milton Torres."
    width="50%" />
 </p>
 <div align="right">
@@ -558,8 +559,8 @@ James Penniston
  - Sergeant USAF Retired
 
 <p align="center" width="100%">
-<img src="./images/tsgt james penniston.png"
-   alt="James Penniston"
+<img src="./images/tsgt_james_penniston.webp"
+   alt="James Penniston."
    width="50%" />
 </p>
 
@@ -577,7 +578,7 @@ David Icke
   - Author, The Biggest Secret
 
 <p align="center" width="100%">
-<img src="./images/david icke.png"
+<img src="./images/david_icke.webp"
    alt="David Icke"
    width="50%" />
 </p>
@@ -596,9 +597,9 @@ Jaime Maussan
   - TV Producer
 
 <p align="center" width="100%">
-  <img src="./images/james maussan.png"
+  <img src="./images/james_maussan.webp"
   width="45%"
-  alt="James Maussan" />
+  alt="James Maussan." />
 </p>
 
 <div align="right">
@@ -615,9 +616,9 @@ John B. Alexander
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
 <p align="center" width="100%">
-  <img src="./images/corso and alien.png"
+  <img src="./images/corso_and_alien.webp"
   width="45%"
-  alt="John Alexander" />
+  alt="John Alexander." />
 </p>
 
 <div align="right">
@@ -634,9 +635,9 @@ Paul Hellyer
   - Former Canadian Defense Secretary
 
 <p align="center" width="100%">
-  <img src="./images/paul hellyer minister of defense canada.png"
+  <img src="./images/paul_hellyer_minister_of_defense_canada.webp"
   width="45%"
-  alt="Paul Hellyer" />
+  alt="Paul Hellyer." />
 </p>
 
 <div align="right">
@@ -653,9 +654,9 @@ Charles Hall
   - Retired US Army Duty Weather Observer
 
 <p align="center" width="100%">
-  <img src="./images/charles hall.png"
+  <img src="./images/charles_hall.webp"
   width="45%"
-  alt="Charles Hall" />
+  alt="Charles Hall." />
 </p>
 
 <div align="right">
@@ -672,9 +673,9 @@ David Huggins
   - Painter & Experiencer
 
 <p align="center" width="100%">
-  <img src="./images/david huggins.png"
+  <img src="./images/david_huggins.webp"
   width="45%"
-  alt="David Huggins" />
+  alt="David Huggins." />
 </p>
 
 <div align="right">
@@ -691,9 +692,9 @@ Clifford E. Stone
   - Retired US Army Sergeant
 
 <p align="center" width="100%">
-  <img src="./images/clifford stone.png"
+  <img src="./images/clifford_stone.webp"
   width="45%"
-  alt="Clifford Stone" />
+  alt="Clifford Stone." />
 </p>
 
 <div align="right">
