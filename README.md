@@ -199,7 +199,7 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
    - Author. UFOs & The National Security State
 
 <p align="center" width="100%">
-<img src="./images/Richard_Dolan_Biography.webp"
+<img src="./images/Richard_Dolan-Biography.webp"
   width="65%"
   alt="Richard Dolan Biography" />
 </p>
@@ -531,7 +531,7 @@ Milton Torres
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Edgar Mitchell -------------------------------------------->
+<!------------------------------------ edgar mitchell -------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 Edgar D. Mitchell
 
@@ -711,7 +711,7 @@ Derrel W. Sims
   - Private Investigator
 
 <p align="center" width="100%">
-  <img src="./images/darrel sims.png"
+  <img src="./images/darrel_sims.webp"
   width="45%"
   alt="Darrel W Sims" />
 </p>
@@ -730,9 +730,9 @@ James Gilliland
   - Director, ECETI
 
 <p align="center" width="100%">
-  <img src="./images/james gilliland - eceti and trout lake washington.png"
+  <img src="./images/james_gilliland-eceti_and_trout_lake_washington.webp"
   width="45%"
-  alt="James Gilliland" />
+  alt="James Gilliland at Trout Lake, WA." />
 </p>
 
 <div align="right">
@@ -749,8 +749,8 @@ Budd Hopkins
   - Ufologist
 
 <p align="center" width="100%">
-<img src="./images/budd hopkins.png"
-   alt="Budd Hopkins"
+<img src="./images/budd_hopkins.webp"
+   alt="Budd Hopkins."
    width="75%" />
 </p>
 
@@ -764,9 +764,9 @@ Budd Hopkins
 <!-------------------------------------- Philip J. Corso  ---------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 <p align="center" width="100%">
-  <img src="./images/1947-roswell-autopsy.jpg"
-  width="650" height="500"
-  alt="Autopsy photo" />
+  <img src="./images/1947-roswell-autopsy.webp"
+  style="width:650;height:500"
+  alt="Autopsy photo." />
 </p>
 
 <h4>Philip J. Corso</h4>
@@ -774,9 +774,9 @@ Budd Hopkins
   - Chief of Pentagon Foreign Technology Desk (archive footage)
 
 <p align="center" width="100%">
-  <img src="./images/20000700-ufo-magazine-03-01-01.jpg"
+  <img src="./images/20000700-ufo-magazine-03-01-01.webp"
   width="45%"
-  alt="Phillip Corso" />
+  alt="Phillip Corso." />
 </p>
 
 <h4>Background</h4>
@@ -829,7 +829,7 @@ Jim Marrs
   - Self - Author, Alien Agenda
 
 <p align="center" width="100%">
-<img src="./images/jim marrs.png"
+<img src="./images/jim_marrs.webp"
    alt="Jim Marrs"
    width="50%" />
 </p>
@@ -848,14 +848,12 @@ Linda Moulton Howe
   - Self - TV Producer
 
 <p align="center" width="100%">
-<img src="./images/linda moulton howe.png"
-   alt="Linda Howe"
-   width="50%" />
-</p>
-<p align="center" width="100%">
-<img src="./images/linda howe.png"
-   alt="Linda Howe"
-   width="50%" />
+<img src="./images/linda_moulton_howe.webp"
+   alt="Linda Howe."
+   style="width:250" />
+<img src="./images/linda_howe.webp"
+   alt="Linda Howe."
+   style="width:250" />
 </p>
 
 <div align="right">
@@ -872,8 +870,8 @@ Dan Burisch
   - Retired Government Microbiologist
 
 <p align="center" width="100%">
-<img src="./images/Dan Burisch.png"
-   alt="Dan Burisch"
+<img src="./images/Dan_Burisch.webp"
+   alt="Dan Burisch."
    width="35%" />
 </p>
 
@@ -900,9 +898,9 @@ Graham Hancock
   - Author, Fingerprints of the Gods
 
 <p align="center" width="100%">
-<img src="./images/Graham Hancock facebook.png"
+<img src="./images/Graham_Hancock_facebook.webp"
   width="65%
-  alt="Graham Hancock Facebook" />
+  alt="Graham Hancock Facebook." />
 </p>
 
 https://grahamhancock.com/hazex1/
@@ -944,8 +942,8 @@ Jesse Long
   - Abductee
 
 <p align="center" width="100%">
-<img src="./images/jesse long.jpg"
-   alt="Jesse Long"
+<img src="./images/jesse_long.webp"
+   alt="Jesse Long."
    width="50%" />
 </p>
 
@@ -958,15 +956,15 @@ https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-a
 ...
 <hr/>
 <!------------------------------------------------------------------------------------------------>
-<!------------------------------------- Yvonne Smith --------------------------------------------->
+<!------------------------------------- yvonne smith --------------------------------------------->
 <!------------------------------------------------------------------------------------------------>
 Yvonne Smith
 
   - Hypnotherapist
 
 <p align="center" width="100%">
-<img src="./images/yvonne smith.png"
-   alt="Yvonne Smith"
+<img src="./images/yvonne_smith.webp"
+   alt="Yvonne Smith."
    width="50%" />
 </p>
 Website(s):
