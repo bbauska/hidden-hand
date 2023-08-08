@@ -3,9 +3,9 @@
 --James Carman (2008)
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------ the hidden hand - alien contact and the government coverup ------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ the hidden hand - alien contact and the government coverup ~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <blockquote>
 There are more things in heaven and earth, Horatio,
 than are dreamt of in your philosophy.
@@ -14,9 +14,9 @@ than are dreamt of in your philosophy.
 </blockquote>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- autopsy photo -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ autopsy photo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
   width="650" height="500"
@@ -37,9 +37,9 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 **[`^        List of Credits        ^`](#credits)**
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------ the hidden hand - alien contact and the government coverup ------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~ the hidden hand - alien contact and the government coverup ~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <blockquote>
 The Hidden Hand is a controversial Award-winning documentary that explores the possibility of an extraterrestrial 
 presence here on Earth. The film takes a keen look at a spectrum of topics like alien abduction, human/alien 
@@ -60,9 +60,9 @@ others. The shadowy world of UFOs is suddenly brought to light.
 ...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------------ albert einstein ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Albert Einstein (1879-1955)</h4>
 <p align="center" width="100%">
   <img src="./images/Albert Einstein.png"
@@ -122,9 +122,9 @@ Another interpretation is that Einstein really did not want to know because he w
 ...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------------- Victor Hugo ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Victor Hugo (Feb/1802 - May/1885)</h4>
 
   - Poet, novelist. Les Misérables (1862), and dramatist
@@ -146,13 +146,13 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 ...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!---------------------------------------- Harry Reid -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Harry Reid - (Dec/1939-Dec/2021)</h4>
 
 <p align="center" width="100%">
-  <img width="50%" src="./images/harry reid 2022.png"
+  <img width="50%" src="./images/harry_reid_2022.webp"
   alt="Harry Reid 2021, died Dec, 2021" />
 </p>
 
@@ -167,22 +167,19 @@ See the section on [`code`](#code).
 Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra-Z/Reid-Harry.html#ixzz7Ik2R5aRj)**
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!------------------------------------- Chuck Weiss ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Chuck Weiss</h4>
 
    - Author. How I Learned to Cope with High Strangeness...
 
-<p align="center" width="100%">
-  <img width="50%" src="./images/Chuck Weiss - book cover.png"
-  width="40%"
+<img class="defined"
+  width="50%" src="./images/Chuck_Weiss-book_cover.webp"
+  style="width:400"
   alt="Chuck Weiss" </>
-</p>
 
-<p>
-How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)
-</p>
+<p>How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -540,7 +537,7 @@ Edgar D. Mitchell
   - Former Astronaut, 6th man on the moon
 
 <p align="center" width="100%">
-<img src="./images/edgar mitchell.png"
+<img src="./images/edgar_mitchell.webp"
    alt="Dr. Edgar Mitchell"
    width="65%" />
 </p>
