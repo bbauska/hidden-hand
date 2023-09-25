@@ -70,12 +70,12 @@ others. The shadowy world of UFOs is suddenly brought to light.
   style="width:450"
   alt="Albert Einstein." />
 </p>
-  <q cite="https://www.relicsworld.com/albert-einstein/when-you-are-courting-a-nice-girl-an-hour-seems-like-a-author-albert-einstein">“You never fail until you stop trying.”    
+  <q cite="https://www.relicsworld.com/albert-einstein/when-you-are-courting-a-nice-girl-an-hour-seems-like-a-author-albert-einstein">You never fail until you stop trying.
   </q>
 <i>― Albert Einstein</i>
-
+<br><br>
 <p>Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium (secondary school).</p>
-<p>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.</p>p
+<p>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.</p>
 <p>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office.</p>
 <p>In 1905 he obtained his doctor’s degree.</p>
 <p>Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938).</p>
