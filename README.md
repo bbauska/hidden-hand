@@ -262,7 +262,12 @@ Included in this volume are the activities of more than fifty military bases rel
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
-...
+<p>As a retired command Sergeant Major, Robert O. Dean's history includes forty years 
+of research in the UFO field. He spent twenty-seven years of active duty in the US 
+Army where he retired as Command Sergeant Major after serving as a highly decorated 
+infantry combat veteran. He also served in Intelligence Field Operations and was 
+stationed at Supreme Headquarters Allied Powers Europe (SHAPE), the military arm of NATO.</p>
+
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stanton friedman ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -361,10 +366,10 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 </div>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- Joni Strother -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Joni Strother
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ joni strother ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Joni Strother</h4>
 
    - Abductee
 
@@ -381,10 +386,10 @@ Abductee Joni Strother described her traumatic encounters with the aliens, whom 
 </div>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Roger Leir ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Roger Leir
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ roger leir ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Roger Leir</h4>
 
    - Author, The Aliens and the Scalpel
 
@@ -403,9 +408,9 @@ Dr. Roger K. Leir is one of the world's most important leaders in physical evide
 ...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Jim Sparks ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim sparks ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Jim Sparks
 
   - Author, The Keepers
@@ -420,9 +425,9 @@ Jim Sparks
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- Niara Isley ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ niara isley ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Niara Isley
 
   - Abductee
@@ -440,9 +445,9 @@ Niara Isley
 </div>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- Lyn Buchanan --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ lyn buchanan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Lyn Buchanan
 
   - Director, The PSI Institute
@@ -458,9 +463,9 @@ Lyn Buchanan
 </div>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Nassim Haramein ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nassim haramein ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Nassim Haramein
 
   - Director, The Resonance Project Foundation
@@ -476,9 +481,9 @@ Nassim Haramein
 </div>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- David Jacobs --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david jacobs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 David Jacobs
 
   - Historian & Hypnotherapist
@@ -494,9 +499,9 @@ David Jacobs
 </div>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Nick Pope ----------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nick pope ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Nick Pope
 
   - Former Head of the British Government's UFO Project
@@ -513,9 +518,9 @@ Nick Pope
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Milton Torres --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ milton torres ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Milton Torres
   
   - Former USAF Fighter Pilot & Astronaut
@@ -552,9 +557,9 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james penniston ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 James Penniston
 
  - Sergeant USAF Retired
@@ -571,9 +576,9 @@ James Penniston
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- David Icke ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david icke ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 David Icke
   
   - Author, The Biggest Secret
@@ -590,9 +595,9 @@ David Icke
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Jaime Maussan ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jaime maussan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Jaime Maussan
   
   - TV Producer
@@ -609,9 +614,9 @@ Jaime Maussan
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------- John B. Alexander ------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ john b. alexander ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 John B. Alexander
    
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
@@ -628,9 +633,9 @@ John B. Alexander
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Paul Hellyer -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paul hellyer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Paul Hellyer
   
   - Former Canadian Defense Secretary
@@ -647,9 +652,9 @@ Paul Hellyer
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Charles Hall -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ charles hall ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Charles Hall
   
   - Retired US Army Duty Weather Observer
@@ -666,9 +671,9 @@ Charles Hall
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- David Huggins ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david huggins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 David Huggins
   
   - Painter & Experiencer
@@ -685,9 +690,9 @@ David Huggins
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------- Clifford E. Stone ------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ clifford e. stone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Clifford E. Stone
   
   - Retired US Army Sergeant
@@ -704,9 +709,9 @@ Clifford E. Stone
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Derrel W. Sims ------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ derrel w. sims ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Derrel W. Sims
   
   - Private Investigator
@@ -723,9 +728,9 @@ Derrel W. Sims
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ James Gilliland ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james gilliland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 James Gilliland
   
   - Director, ECETI
@@ -742,9 +747,9 @@ James Gilliland
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Budd Hopkins -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ budd hopkins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Budd Hopkins
 
   - Ufologist
@@ -761,9 +766,9 @@ Budd Hopkins
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Philip J. Corso  ---------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ philip j. corso ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
   <img src="./images/1947-roswell-autopsy.webp"
   style="width:650;height:500"
@@ -804,9 +809,9 @@ Different parts of the Roswell craft were sent to various defense companies, who
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Gordon Novel -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gordon novel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Gordon Novel
 
   - Self - Former CIA Operative
@@ -822,9 +827,9 @@ He is charming, bold, uncompromising in his vision and determined to change the 
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Jim Marrs ----------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim marrs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Jim Marrs
 
   - Self - Author, Alien Agenda
@@ -841,9 +846,9 @@ Jim Marrs
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------------- Linda Moulton Howe ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ linda moulton howe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Linda Moulton Howe
 
   - Self - TV Producer
@@ -863,9 +868,9 @@ Linda Moulton Howe
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Dan Burisch --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ dan burisch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Dan Burisch
 
   - Retired Government Microbiologist
@@ -878,11 +883,49 @@ Dan Burisch
 
 <h5>Introduction</h5>
 <p>
-I came to know Dr. Dan Burisch (formerly Dan Crain, Ph.D.) many years ago in Las Vegas NV. He and his family became friends with my family and I.... and eventually I came to know his story well. He asked me, in 1997 to write a book about one of his research projects. That became Eagles Disobey: The Case for Inca City, Mars and was released to the public in 1998. During that work I came to know a great deal about Dan's involvement in dark projects that are covertly funded by our military and governmen bodies - including his work up at Area-51, or as it is known by those who work up there: Watertown Strip. Dan became afraid, desperately afraid for his life toward the end of the work on Eagles Disobey. He was terrified of retailiation from his dark project supervisors because he refused to stop looking into the anomalies on Mars - and because he had shared with me many of his experiences "up north" while he was employed in Project Aquarius, and had familiarity with Project Sigma, and Looking Glass.</p>
+I came to know Dr. Dan Burisch (formerly Dan Crain, Ph.D.) many years ago in Las 
+Vegas NV. He and his family became friends with my family and I.... and eventually 
+I came to know his story well. He asked me, in 1997 to write a book about one of 
+his research projects. That became Eagles Disobey: The Case for Inca City, Mars 
+and was released to the public in 1998. During that work I came to know a great 
+deal about Dan's involvement in dark projects that are covertly funded by our 
+military and governmen bodies - including his work up at Area-51, or as it is 
+known by those who work up there: Watertown Strip. Dan became afraid, desperately 
+afraid for his life toward the end of the work on Eagles Disobey. He was terrified 
+of retailiation from his dark project supervisors because he refused to stop looking 
+into the anomalies on Mars - and because he had shared with me many of his experiences 
+"up north" while he was employed in Project Aquarius, and had familiarity with Project 
+Sigma, and Looking Glass.</p>
 <p>
-Toward the end of 1998 Dan disappeared. His residence was abandoned overnight, and nobody seemed to know where he had been taken. He turned up half way across the country, with most of his memories concerning his association with me and our work on Eagles Disobey altered or erased. I tried my best to remind him of his past, but he did not believe me until I showed him a copy of the book and photographs of himself sitting on my couch playing with the dogs. He returned to his new location, but memories started to break through the conditioning to such an extent that Dan fled and was eventually recaptured and whisked off to a military base for re-conditioning. When they realized that they couldn't keep it up with out damaging his ability to think and function (remember, they wanted him to continue to work for them in his capacity as team leader and microbiologist) they decided to re-wind his memories and return him to Las Vegas under the careful observation of his spouse, who relays all communication up the pipeline, and signs much of her correspondence with her title/designation PsiOpSec.</p>
+Toward the end of 1998 Dan disappeared. His residence was abandoned overnight, and 
+nobody seemed to know where he had been taken. He turned up half way across the country, 
+with most of his memories concerning his association with me and our work on Eagles 
+Disobey altered or erased. I tried my best to remind him of his past, but he did not 
+believe me until I showed him a copy of the book and photographs of himself sitting 
+on my couch playing with the dogs. He returned to his new location, but memories 
+started to break through the conditioning to such an extent that Dan fled and was 
+eventually recaptured and whisked off to a military base for re-conditioning. When 
+they realized that they couldn't keep it up with out damaging his ability to think 
+and function (remember, they wanted him to continue to work for them in his capacity 
+as team leader and microbiologist) they decided to re-wind his memories and return 
+him to Las Vegas under the careful observation of his spouse, who relays all communication 
+up the pipeline, and signs much of her correspondence with her title/designation PsiOpSec.</p>
 <p>
-I was permitted very limited contact with him during that time, mostly because he made life unbearable until they honored his demand to talk to me. But he was eventually moved again and housed at the Papoose Lab facility where he could conduct critical biological studies on captive entity they had housed in their lab, on Level-5. Contact was intermittent, but then, in early 2001 I got a strange email that caught my attention. It was from mj01@missilemail.com. Since I knew that Dan was involved with Majestic and MJ12, I was immediately on alert. It turned out to be from a person inside the project Dan was working on, who was so upset with the situation that he felt compelled to seek my help. He was aware of my identity and long standing friendship with Dan because it was contained in the briefings he got prior to accepting his assignment, and figured I might be willing to assist. My contact is now dead. He was discovered communicating with me, and was involuntarily "retired". His letters read as follows, and give a troubling glimpse into the prison-like world that was created to maintain control of Dr. Dan Burisch and force him to comply with the wishes of the 'powers that be' as he eventually came to call them.
+I was permitted very limited contact with him during that time, mostly because he 
+made life unbearable until they honored his demand to talk to me. But he was eventually 
+moved again and housed at the Papoose Lab facility where he could conduct critical 
+biological studies on captive entity they had housed in their lab, on Level-5. Contact 
+was intermittent, but then, in early 2001 I got a strange email that caught my attention. 
+It was from mj01@missilemail.com. Since I knew that Dan was involved with Majestic and 
+MJ12, I was immediately on alert. It turned out to be from a person inside the project 
+Dan was working on, who was so upset with the situation that he felt compelled to seek 
+my help. He was aware of my identity and long standing friendship with Dan because it 
+was contained in the briefings he got prior to accepting his assignment, and figured 
+I might be willing to assist. My contact is now dead. He was discovered communicating 
+with me, and was involuntarily "retired". His letters read as follows, and give a 
+troubling glimpse into the prison-like world that was created to maintain control 
+of Dr. Dan Burisch and force him to comply with the wishes of the 'powers that be' 
+as he eventually came to call them.
 </p>
 
 <div align="right">
@@ -891,9 +934,9 @@ I was permitted very limited contact with him during that time, mostly because h
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Graham Hancock ------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ graham hancock ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Graham Hancock
 
   - Author, Fingerprints of the Gods
@@ -912,9 +955,9 @@ https://grahamhancock.com/hazex1/
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Melinda Leslie ------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ melinda leslie ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Melinda Leslie
 
   - Researcher & Abductee
@@ -925,7 +968,11 @@ Melinda Leslie
    width="50%" />
 </p>
 
-MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial and covert-ops human abduction experiences for 28 years and is considered by many to be the authority on a military and intelligence agency involvement in UFO abduction cases. Both her research and personal experiences have been featured in 25 books by prominent authors in ufology.
+<p>MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial 
+and covert-ops human abduction experiences for 28 years and is considered by many 
+to be the authority on a military and intelligence agency involvement in UFO 
+abduction cases. Both her research and personal experiences have been featured 
+in 25 books by prominent authors in ufology.</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -933,12 +980,10 @@ MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestri
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Jesse Long ----------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<hr/>
-
-Jesse Long
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jesse long ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Jesse Long</h4>
 
   - Abductee
 
@@ -956,9 +1001,9 @@ https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-a
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- yvonne smith --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ yvonne smith ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Yvonne Smith
 
   - Hypnotherapist
@@ -979,16 +1024,19 @@ https://northernencounters.wixsite.com/ufo1/yvonne-smith
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------- Marc Brinkerhoff ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ marc brinkerhoff ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Marc Brinkerhoff
 
   - Contactee & Artist
 
-Marc Brinkerhoff
-Biography:
-Marc Brinkerhoff has had a lifetime of UFO related experiences including face-to-face meetings with human-looking aliens, and the ability to go out and take photos of UFOs on a regular basis. Marc lives in NY and he spots them from his window or walks into Central Park nearby. He has even photographed what looks to be the 'Ultraterrestrials' inside the craft.
+<cite>Biography:</cite>
+<p>Marc Brinkerhoff has had a lifetime of UFO related experiences including face-to-face 
+meetings with human-looking aliens, and the ability to go out and take photos of UFOs 
+on a regular basis. Marc lives in NY and he spots them from his window or walks into 
+Central Park nearby. He has even photographed what looks to be the 'Ultraterrestrials' 
+inside the craft.</p>
 
 Website(s):
 marcbrinkerhoff.com
@@ -1015,9 +1063,9 @@ https://www.youtube.com/watch?v=u0xxVydxhzc
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Shelley Yates --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ shelley yates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Shelley Yates
 
   - Director, Fire the Grid
@@ -1034,9 +1082,9 @@ Shelley Yates
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Julian Michael -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ julian michael ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Julian Michael
 
   - Hypnotherapist
@@ -1052,9 +1100,9 @@ Julian Michael
 </div>
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- J.J. Hurtak --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ j.j. hurtak ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 J.J. Hurtak
 
   - Author, The Keys of Enoch
@@ -1064,10 +1112,10 @@ J.J. Hurtak
 </div>
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Melissa Reid -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Melissa Reid
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ melissa reid ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Melissa Reid</h4>
   
    - Experiencer & Artist
 
@@ -1077,10 +1125,10 @@ Melissa Reid
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Jeremy Vaeni -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Jeremy Vaeni
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jeremy vaeni ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Jeremy Vaeni</h4>
 
   - Experiencer & Writer
 
@@ -1090,10 +1138,10 @@ Jeremy Vaeni
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Farah Yurdozu --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Farah Yurdozu
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ farah yurdozu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Farah Yurdozu</h4>
   
   - Experiencer & Researcher
 
@@ -1101,12 +1149,11 @@ Farah Yurdozu
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
-...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Posey Gilbert --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Posey Gilbert
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ posey gilbert ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Posey Gilbert</h4>
 
   - Experiencer
 
@@ -1114,12 +1161,11 @@ Posey Gilbert
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
-...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Alan White ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Alan White
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alan white ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Alan White</h4>
 
   - Experiencer & Composer
 
@@ -1127,12 +1173,11 @@ Alan White
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
-...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Harold Egeln -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Harold Egeln
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ harold egeln ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Harold Egeln</h4>
 
   - Experiencer & Journalist
 
@@ -1140,12 +1185,11 @@ Harold Egeln
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
-...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- Stephen Bassett ---------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Stephen Bassett
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stephen bassett ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Stephen Bassett</h4>
 
   - Director, Paradigm Research Group
 
@@ -1159,12 +1203,11 @@ Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology)
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
 
-...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- John Lear  ---------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-John Lear
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ john lear ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>John Lear</h4>
  
   -  CIA pilot, UFO researcher
 
@@ -1240,28 +1283,10 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
-
-...
-<hr/>
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------------------  ----------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<p align="center" width="100%">
-<img src="./images/"
-   alt="Blank goes here"
-   width="50%" />
-</p>
-
-<div align="right">
-  <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
-</div>
-
-...
-<hr/>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------- Dr. J. Allen Hynek  ---------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ dr's. j. allen hynek & jacques vallee ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right)</h4>
  
   - UFOlogists, founder of Close Encounters of the 3rd Kind
 
@@ -1279,10 +1304,10 @@ Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right).
 
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------- Leonard Stringfield  --------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-Leonard Stringfield (1920-1994)
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ leonard stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Leonard Stringfield (1920-1994)</h4>
  
   - UFOlogist (probably the best ever), writer
 
@@ -1390,97 +1415,91 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 ...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- richard campbell ---------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<h4>Rest of cast listed alphabetically:</h4>
-<ul>
-<li>Richard Campbell</li>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ rest of cast ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h3>Rest of cast listed alphabetically:</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ richard campbell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Richard Campbell</h4>
 
-...
-
-<hr/>
-<!------------------------------------------------------------------------------------------------>
-<!---------------------------------- Major Desmond Morton ---------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<li>Major Desmond Morton</li>
-
-...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- Andrew von Urtz ------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
-<li>Andrew von Urtz</li>
-
-...
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ major desmond morton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Major Desmond Morton</h4>
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------------ Alien ----------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-<li>Alien</li>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ andrew von urtz ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Andrew von Urtz</h4>
+
+<hr/>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alien ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--><li>Alien</li>
 </ul>
 
-roswell alien-probably another.png
+<p align="center" width="100%">
+<img src="./images/roswell_alien_probably_another.webp"
+   alt="Rowell Alien, probably another."
+   width="50%" />
+</p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ credits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="credits">Writing Credits (in alphabetical order)</h2>
 
   - James Carman	Cast (in credits order)
 
-...
-
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Ttristan Layton ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ tristan layton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Tristan Layton	...	Self - Narrator (voice)
 
-...
+<hr/>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ richard dolan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  - Richard Dolan	...	Self - Author, UFOs & The National Security State
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Richard Dolan ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-  - Richard Dolan	...	Self - Author, UFOs & The National Security State
-...
-<hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------ Whitley Strieber ------------------------------------------>
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ whitley strieber ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Whitley Strieber	...	Self - Author, Communion
 
-...
-
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Robert Dean --------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ robert dean ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
 
-...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Paola Harris -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paola harris ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Paola Harris	...	Self - Author, Connecting the Dots
 
-...
 
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Joni Strother ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ joni strother ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Joni Strother	...	Self - Abductee
-...
+
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ roger leir ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Roger Leir	...	Self - Author, The Aliens and the Scalpel
 
-...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1488,7 +1507,7 @@ Roger Leir	...	Self - Author, The Aliens and the Scalpel
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Jim Sparks	...	Self - Author, The Keepers
 
-...
+
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1614,49 +1633,49 @@ David Huggins	...	Self - Painter & Experiencer
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ clifford stone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Clifford E. Stone	...	Self - Retired US Army Sergeant
-...
+
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stephen bassett ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Derrel W. Sims	...	Self - Private Investigator
-...
+
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james gilliland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 James Gilliland	...	Self - Director, ECETI
-...
+
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!-------------------------------------- Philip J. Corso ----------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ philip j. corso ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Philip J. Corso	...	Self - Chief of Pentagon Foreign Technology Desk (archive footage)
-...
+
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!--------------------------------------- Gordon Novel ------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gordon novel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Gordon Novel	...	Self - Former CIA Operative
 ...
 <hr/>
-<!------------------------------------------------------------------------------------------------>
-<!----------------------------------------- Jim Marrs -------------------------------------------->
-<!------------------------------------------------------------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim marrs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Jim Marrs...	Self - Author, Alien Agenda
-...
-<hr/>
-<!------------------------------------------------------------------------------------------------>
-<!------------------------------------- Linda Moulton Howe --------------------------------------->
-<!------------------------------------------------------------------------------------------------>
-  - Linda Moulton Howe...	Self - TV Producer
-...
+
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!---------------------------------------- Dan Burischh ------------------------------------------>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ linda moulton howe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  - Linda Moulton Howe...	Self - TV Producer
+
+<hr/>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ dan burischh ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Dan Burisch	...	Self - Retired Government Microbiologist
-...
+
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ graham hancock ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1728,14 +1747,12 @@ James Gilliland	...	Self - Director, ECETI
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ posey gilbert ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Posey Gilbert...	Self - Experiencer
-...
+
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alan white ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Alan White...	Self - Experiencer & Composer
-
-...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1743,15 +1760,12 @@ James Gilliland	...	Self - Director, ECETI
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Harold Egeln...	Self - Experiencer & Journalist
 
-...
-
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stephen bassett ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
   - Stephen Bassett	...	Self - Director, Paradigm Research Group
   
-...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ rest of cast ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1869,8 +1883,11 @@ confiscated Camera", and "No Mercury UFO"</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Robert White</h4>
 
-<p>On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile high flight of an X-15. Major White reported: "I have no idea what it could be. It was grayish in color and about thrity to forty feet away."
-Then according to a Time Magazine article, Major White exclaimed over the radio: "There ARE things out there! There absolutely is!"</p>
+<p>On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile 
+high flight of an X-15. Major White reported: "I have no idea what it could be. 
+It was grayish in color and about thrity to forty feet away."
+Then according to a Time Magazine article, Major White exclaimed over the radio: 
+"There ARE things out there! There absolutely is!"</p>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1878,14 +1895,23 @@ Then according to a Time Magazine article, Major White exclaimed over the radio:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Joseph A. Walker</h4>
 
-<p>On May 11, 1962 NASA pilot Joseph Walker said that one of his tasks was to detect UFOs during his X-15 flights. He had filmed five or six UFOs during his record breaking fifty-mile-high flight in April, 1962. It was the second time he had filmed UFOs in flight. During a lecture at the Second National Conference on the Peaceful Uses of Space Research in Seattle, Washigton he said: "I don't feel like speculating about them. All I know is what appeared on the film which was developed after the flight." - Joseph Walker To date none of those films has been released to the public for viewing.</p>
+<p>On May 11, 1962 NASA pilot Joseph Walker said that one of his tasks was to detect 
+UFOs during his X-15 flights. He had filmed five or six UFOs during his record breaking 
+fifty-mile-high flight in April, 1962. It was the second time he had filmed UFOs in 
+flight. During a lecture at the Second National Conference on the Peaceful Uses of 
+Space Research in Seattle, Washigton he said: "I don't feel like speculating about 
+them. All I know is what appeared on the film which was developed after the flight."</p>
+<cite>- Joseph Walker.</cite>
+<p>To date none of those films has been released to the public for viewing.</p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ eugene cernan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Eugene Cernan</h4>
 
-<p>Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973 he said, about UFOs: "...I've been asked (about UFOs) and I've said publicly I thought they (UFOs) were somebody else, some other civilization."</p>
+<p>Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973 
+he said, about UFOs: "...I've been asked (about UFOs) and I've said publicly I thought 
+they (UFOs) were somebody else, some other civilization."</p>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1893,9 +1919,12 @@ Then according to a Time Magazine article, Major White exclaimed over the radio:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Ed White & James McDivitt</h4>
 
-<p>In June 1965, astronauts Ed White (first American to walk in space) and James McDivitt were passing over Hawaii in a Gemini spacecraft when they saw a weird-looking metallic object.<br>
-<br>The UFO had long arms sticking out of it. McDivitt took pictures with a cine-camera.<br>
-<br>Those pictures have never been released.</p>
+<p>In June 1965, astronauts Ed White (first American to walk in space) and James 
+McDivitt were passing over Hawaii in a Gemini spacecraft when they saw a weird-
+looking metallic object.</p>
+<p>The UFO had long arms sticking out of it. McDivitt took pictures with a cine-
+camera.</p>
+<p>Those pictures have never been released.</p>
  
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1903,10 +1932,14 @@ Then according to a Time Magazine article, Major White exclaimed over the radio:
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>James Lovell and Frank Borman</h4>
 
-<p>In December 1965, Gemini astronauts James Lovell and Frank Borman also saw a UFO during their second orbit of their record-breaking 14 day flight.<br>
-<br>Borman reported that he saw an unidentified spacecraft some distance from their capsule.<br>
-<br>Gemini Control, at Cape Kennedy told him that he was seeing the final stage of their own Titan booster rocket.<br>
-<br>Borman confirmed that he could see the booster rocket all right, but that he could also see something completely different.</p>
+<p>In December 1965, Gemini astronauts James Lovell and Frank Borman also saw a UFO 
+during their second orbit of their record-breaking 14 day flight.</p>
+<p>Borman reported that he saw an unidentified spacecraft some distance from their 
+capsule.<br>
+Gemini Control, at Cape Kennedy told him that he was seeing the final stage of their 
+own Titan booster rocket.<br>
+Borman confirmed that he could see the booster rocket all right, but that he could 
+also see something completely different.</p>
 
 <p>During James Lovell's flight on Gemini 7:</p>
 
@@ -1930,11 +1963,18 @@ Lovell: WE ALSO HAVE THE BOOSTER IN SIGHT...
 <h4>Neil Armstrong & Edwin Aldrin</h4>
 
 <p>
-According to the NASA Astronaut Neil Armstrong, the Aliens have a base on the Moon and told us in no uncertain terms to get off and stay off the Moon.<br>
-<br>According to un-confirmed reports, both Neil Armstrong and Edwin "Buzz" Aldrin saw UFOs shortly after that historic landing on the Moon in Apollo 11 on 21 July 1969.<br>
-<br>I remember hearing one of the astronauts refer to a "light" in or on a crater during the television transmission, followed by a request from mission control for further information.<br>
+According to the NASA Astronaut Neil Armstrong, the Aliens have a base on the Moon 
+and told us in no uncertain terms to get off and stay off the Moon.<br>
+<br>According to un-confirmed reports, both Neil Armstrong and Edwin "Buzz" Aldrin 
+saw UFOs shortly after that historic landing on the Moon in Apollo 11 on 21 
+July 1969.<br>
+<br>I remember hearing one of the astronauts refer to a "light" in or on a crater 
+during the television transmission, followed by a request from mission control 
+for further information.<br>
 <br>Nothing more was heard.<br>
-<br>According to a former NASA employee Otto Binder, unnamed radio hams with their own VHF receiving facilities that bypassed NASA's broadcasting outlets picked up the following exchange:</p>
+<br>According to a former NASA employee Otto Binder, unnamed radio hams with 
+their own VHF receiving facilities that bypassed NASA's broadcasting outlets 
+picked up the following exchange:</p>
 
 <blockquote>
 NASA: Whats there?
@@ -1969,10 +2009,15 @@ couldn't risk panic on Earth. But it really was a
 quick scoop and back again.
 </blockquote>
 
-<p>According to a Dr. Vladimir Azhazha: "Neil Armstrong relayed the message to Mission Control that two large, mysterious objects were watching them after having landed near the moon module.<br>
+<p>According to a Dr. Vladimir Azhazha: "Neil Armstrong relayed the message to Mission 
+Control that two large, mysterious objects were watching them after having landed near 
+the moon module.<br>
 <br>But this message was never heard by the public - because NASA censored it."<br>
-<br>According to a Dr. Aleksandr Kasantsev, Buzz Aldrin took color movie film of the UFOs from inside the module, and continued filming them after he and Armstrong went outside.<br>
-<br>Armstrong confirmed that the story was true but refused to go into further detail, beyond admitting that the CIA was behind the cover-up.</p>
+<br>According to a Dr. Aleksandr Kasantsev, Buzz Aldrin took color movie film of the 
+UFOs from inside the module, and continued filming them after he and Armstrong went 
+outside.<br>
+<br>Armstrong confirmed that the story was true but refused to go into further detail, 
+beyond admitting that the CIA was behind the cover-up.</p>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1980,18 +2025,35 @@ quick scoop and back again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Maurice Chatelain</h4>
 
-<p>In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed that Armstrong had indeed reported seeing two UFOs on the rim of a crater.<br>
-<br>Chatelain believes that some UFOs may come from our own solar system, specifically Titan. "The encounter was common knowledge in NASA, but nobody has talked about it until now." <br>
-<br>"...all Apollo and Gemini flights were followed, both at a distance and sometimes also quite closely, by space vehicles of extraterrestrial origin - flying saucers, or UFOs, if you want to call them by that name. <br>
-<br>Every time it occurred, the astronauts informed Mission Control, who then ordered absolute silence."<br>
-<br>"I think that Walter Schirra aboard Mercury 8 was the first of the astronauts to use the code name 'Santa Claus' to indicate the presence of flying saucers next to space capsules. <br>
+<p>In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed 
+that Armstrong had indeed reported seeing two UFOs on the rim of a crater.<br>
+<br>Chatelain believes that some UFOs may come from our own solar system, specifically 
+Titan. "The encounter was common knowledge in NASA, but nobody has talked about it 
+until now." <br>
+<br>"...all Apollo and Gemini flights were followed, both at a distance and sometimes 
+also quite closely, by space vehicles of extraterrestrial origin - flying saucers, or 
+UFOs, if you want to call them by that name. <br>
+<br>Every time it occurred, the astronauts informed Mission Control, who then ordered 
+absolute silence."<br>
+<br>"I think that Walter Schirra aboard Mercury 8 was the first of the astronauts to 
+use the code name 'Santa Claus' to indicate the presence of flying saucers next to 
+space capsules. <br>
 <br>However, his announcements were barely noticed by the general public.<br>
-<br>It was a little different when James Lovell on board the Apollo 8 command module came out from behind the moon and said for everybody to hear: 'PLEASE BE INFORMED THAT THERE IS A SANTA CLAUS.'<br>
-<br>Even though this happened on Christmas Day 1968, many people sensed a hidden meaning in those words." The rumors persist.<br>
-<br>NASA may well be a civilian agency, but many of its programs are funded by the defence budget and most of the astronauts are subject to military security regulations. <br>
-<br>Apart from the fact that the National Security Agency screens all films and probably radio communications as well.<br>
-<br>We have the statements by Otto Binder, Dr. Garry Henderson and Maurice Chatelain that the astronauts were under strict orders not to discuss their sightings. <br>
-<br>And Gordon Cooper has testified to a United Nations committee that one of the astronauts actually witnessed a UFO on the ground.<br>
+<br>It was a little different when James Lovell on board the Apollo 8 command module 
+came out from behind the moon and said for everybody to hear: 'PLEASE BE INFORMED 
+THAT THERE IS A SANTA CLAUS.'<br>
+<br>Even though this happened on Christmas Day 1968, many people sensed a hidden 
+meaning in those words." The rumors persist.<br>
+<br>NASA may well be a civilian agency, but many of its programs are funded by 
+the defence budget and most of the astronauts are subject to military security 
+regulations. <br>
+<br>Apart from the fact that the National Security Agency screens all films and 
+probably radio communications as well.<br>
+<br>We have the statements by Otto Binder, Dr. Garry Henderson and Maurice 
+Chatelain that the astronauts were under strict orders not to discuss their 
+sightings. <br>
+<br>And Gordon Cooper has testified to a United Nations committee that one 
+of the astronauts actually witnessed a UFO on the ground.<br>
 <br>If there is no secrecy, why has this sighting not been made public?</p>
 
 <hr/>
@@ -2000,7 +2062,8 @@ quick scoop and back again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Scott Carpenter</h4>
  
-<p>"At no time, when the astronauts were in space were they alone: there was a constant surveillance by UFOs."</p>
+<p>"At no time, when the astronauts were in space were they alone: there was a constant 
+surveillance by UFOs."</p>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2008,11 +2071,24 @@ quick scoop and back again.
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Don Schmitt</h4>
 
-<p>Don Schmitt is the former co-director of the J. Allen Hynek Center for UFO Studies, where he served as Director of Special Investigations for ten years.<br>
-<br>Prior to that, he was a special investigator for the late Dr. J. Allen Hynek and the art director for the International UFO Reporter.<br>
-<br>Schmitt is the author of dozens of articles about UFOs, as well as the co-author of two best-selling books, UFO CRASH AT ROSWELL, Avon 1991, best-selling Witness to Roswell, New Page, NJ, 2007, and The Truth About the UFO Crash at Roswell, published by M. Evans, 1994.</p>
+<p>Don Schmitt is the former co-director of the J. Allen Hynek Center for UFO Studies, 
+where he served as Director of Special Investigations for ten years.<br>
+<br>Prior to that, he was a special investigator for the late Dr. J. Allen Hynek and 
+the art director for the International UFO Reporter.<br>
+<br>Schmitt is the author of dozens of articles about UFOs, as well as the co-author 
+of two best-selling books, UFO CRASH AT ROSWELL, Avon 1991, best-selling Witness to 
+Roswell, New Page, NJ, 2007, and The Truth About the UFO Crash at Roswell, published 
+by M. Evans, 1994.</p>
 
 <h3>Finishing Notes:</h3>
-<p>With regard to the ufo phenomenon, the skeptics MUST be right 100% of the time.  And lie, lie, lie.  Because it is the US Government with trillions of dollars and a literal army to support their pathetic lies.  A disinformation bunch of douche-bags.  Thinking they are the smartest in the universe.  Case closed</p>
-<p>Makes me want to vomit.  How does humanity evolve so long as idiots in the caves see fear in the shadows?  I see opportunity.  And their goes 75 years swept under the rug and de-evolution of humanity.  Fuck you military industrial complex.  Cowards, one and all.  Cowards and pussies.</p>
-<h4>Fuck you, fuck you, fuck you!</h4>
+
+<p>With regard to the ufo phenomenon, the skeptics MUST be right 100% of the time.  
+And lie, lie, lie.  Because it is the US Government with trillions of dollars and a 
+literal army to support their pathetic lies.  A disinformation bunch of douche-bags.  
+Thinking they are the smartest in the universe.  Selfish motherfuckers.  Case closed</p>
+<p>Makes me want to vomit.  How does humanity evolve so long as idiots in the caves 
+see fear in the shadows?  I see opportunity.  And there goes 75 years swept under 
+the rug and de-evolution of humanity.  Fuck you military industrial complex.<br>
+Cowards, one and all.  Cowards and pussies.
+Counter-intelligence means no-intelligence.  Title is spot-on.  Fucking cowards.<br>
+FOAD and don't forget to 'D'</p>
