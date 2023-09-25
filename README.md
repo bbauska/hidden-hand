@@ -70,9 +70,9 @@ others. The shadowy world of UFOs is suddenly brought to light.
   style="width:450"
   alt="Albert Einstein." />
 </p>
-
-“You never fail until you stop trying.”
-― Albert Einstein
+  <q cite="https://www.relicsworld.com/albert-einstein/when-you-are-courting-a-nice-girl-an-hour-seems-like-a-author-albert-einstein">“You never fail until you stop trying.”    
+  </q>
+<i>― Albert Einstein</i>
 
 <p>Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium (secondary school).</p>
 <p>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.</p>p
@@ -94,24 +94,28 @@ others. The shadowy world of UFOs is suddenly brought to light.
 <p>While her response to the strange scene was one of "wonderment, half curiosity and maybe half fear," she said that Einstein was "not disturbed at all" and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.</p>
 </blockquote>
 
-<p>The year of this Einstein quote (1952) is more than interesting.</p>
-<p>It is the same year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was planned.</p>
-<p>It was also the same year that mass UFO sightings were occurring with frequency over Washington, DC.</p>
-<p>And it was the same year that Frank Edwards maintained Einstein had warned the President about attacking the saucers.</p>
+<p>The year of this Einstein quote (1952) is more than interesting.  It is the same 
+year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was 
+planned.  It was also the same year that mass UFO sightings were occurring with 
+frequency over Washington, DC.  And it was the same year that Frank Edwards maintained 
+Einstein had warned the President about attacking the saucers.</p>
  
-<p>What is more interesting about the Einstein quote is what is not said.</p>
-</>Though Einstein admits that there is reality to the phenomena ("These people are seeing something"), he says that he does not want to know just what it is that the people are seeing.</p>
-<p>This is of course disingenuous of Einstein.</p>
-<p>Since when does science shy away from encouraging finding solutions to mysteries?</p>
-<p>Einstein’s own friend and associate Goudsmit certainly was interested in the phenomena during the same time period Einstein was writing Gardner about it!</p>
-<p>It sounds more like Einstein simply does not wish to engage someone outside of his circle on this obviously sensitive matter.</p>
+<p>What is more interesting about the Einstein quote is what is not said.  Though 
+Einstein admits that there is reality to the phenomena ("These people are seeing 
+something"), he says that he does not want to know just what it is that the people 
+are seeing. This is of course disingenuous of Einstein.  Since when does science 
+shy away from encouraging finding solutions to mysteries?</p>
+<p>Einstein’s own friend and associate Goudsmit certainly was interested in the 
+phenomena during the same time period Einstein was writing Gardner about it!</p>
+<p>It sounds more like Einstein simply does not wish to engage someone outside of 
+his circle on this obviously sensitive matter.</p>
  
-<p>Another interpretation is that Einstein really did not want to know because he was afraid to know.</p>
-<p>And this makes sense.</p>
-<p>If what Edwards says is true, Einstein feared the phenomenon.</p>
-<p>But what he feared more was us.</p>
-<p>Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
-</p>
+<p>Another interpretation is that Einstein really did not want to know because he was 
+afraid to know.  And this makes sense.  If what Edwards says is true, Einstein feared 
+the phenomenon.</p>
+<p>But what he feared more was us.  Einstein feared our potential for a war-like reaction 
+to the continued flyovers of craft that were piloted by beings that were not from here 
+and that were unknown to science.</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -1811,30 +1815,45 @@ Major Gordon Cooper
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Major Gordon Cooper</h4>
 
-<p>One of the original Mercury Astronauts and the last American to fly in space alone.<br>
-<br>On May 15, 1963 he shot into space in a Mercury capsule for a 22 orbit journey around the world.<br>
-<br>During the final orbit, Major Gordon Cooper told the tracking station at Muchea (near Perth Australia) that he could see a glowing, greenish object ahead of him quickly approaching his capsule.<br>
-<br>The UFO was real and solid, because it was picked up by Muchea's tracking radar.<br>
-<br>Cooper's sighting was reported by the National Broadcast Company, which was covering the flight step by step; but when Cooper landed, reporters were told that they would not be allowed to question him about the UFO sighting.</p>
+<p>One of the original Mercury Astronauts and the last American to fly in space alone.</p>
+<p>On May 15, 1963 he shot into space in a Mercury capsule for a 22 orbit journey 
+around the world.  During the final orbit, Major Gordon Cooper told the tracking 
+station at Muchea (near Perth Australia) that he could see a glowing, greenish 
+object ahead of him quickly approaching his capsule.</p>
+<p>The UFO was real and solid, because it was picked up by Muchea's tracking radar.
+Cooper's sighting was reported by the National Broadcast Company, which was covering 
+the flight step by step; but when Cooper landed, reporters were told that they would 
+not be allowed to question him about the UFO sighting.</p>
 
-<p>Major Cooper was a firm believer in UFOs.<br>
-<br>Ten years earlier, in 1951 he had sighted a UFO while piloting an F-86 Sabrejet over Western Germany.<br>
-<br>They were metallic, saucer-shaped discs at considerable altitude and could out-maneuver all American fighter planes.<br>
-<br>Major Cooper also testified before the United Nations: "I believe that these extra-terrestrial vehicles and their crews are visiting this planet from other planets... Most astronauts were reluctant to discuss UFOs." "I did have occasion in 1951 to have two days of observation of many flights of them, of different sizes, flying in fighter formation, generally from east to west over Europe."</p>
+<p>Major Cooper was a firm believer in UFOs. Ten years earlier, in 1951 he had sighted 
+a UFO while piloting an F-86 Sabrejet over Western Germany.  They were metallic, 
+saucer-shaped discs at considerable altitude and could out-maneuver all American 
+fighter planes.  Major Cooper also testified before the United Nations: "I believe 
+that these extra-terrestrial vehicles and their crews are visiting this planet from 
+other planets... Most astronauts were reluctant to discuss UFOs." "I did have occasion 
+in 1951 to have two days of observation of many flights of them, of different sizes, 
+flying in fighter formation, generally from east to west over Europe."</p>
 
-<p>And according to a taped interview by J. L. Ferrando, Major Cooper said: "For many years I have lived with a secret, in a secrecy imposed on all specialists in astronautics.<br>
-<br>I can now reveal that every day, in the USA, our radar instruments capture objects of form and composition unknown to us.<br>
-<br>And there are thousands of witness reports and a quantity of documents to prove this, but nobody wants to make them public.<br>
-<br>Why?<br>
-Because authority is afraid that people may think of God knows what kind of horrible invaders.<br>
-<br>So the password still is: We have to avoid panic by all means."<br>
-<br>"I was furthermore a witness to an extraordinary phenomenon, here on this planet Earth.<br>
-<br>It happened a few months ago in Florida.<br>
-<br>There I saw with my own eyes a defined area of ground being consumed by flames, with four indentions left by a flying object which had descended in the middle of a field.<br>
-Beings had left the craft (there were other traces to prove this).<br>
-<br>They seemed to have studied topography, they had collected soil samples and, eventually, they returned to where they had come from, disappearing at enormous speed...<br>
-<br>I happen to know that authority did just about everything to keep this incident from the press and TV, in fear of a panicky reaction from the public."<br>
-<br>read also: "Pioneering astronauts sees UFO", Area 51 and Gordon Cooper's confiscated Camera", and "No Mercury UFO"</p>
+<p>And according to a taped interview by J. L. Ferrando, Major Cooper said: "For many 
+years I have lived with a secret, in a secrecy imposed on all specialists in astronautics.
+I can now reveal that every day, in the USA, our radar instruments capture objects of form 
+and composition unknown to us.  And there are thousands of witness reports and a quantity 
+of documents to prove this, but nobody wants to make them public.</p>
+<p>Why?</p>
+<p>Because authority is afraid that people may think of God knows what kind of 
+horrible invaders.  So the password still is: We have to avoid panic by all means."
+"I was furthermore a witness to an extraordinary phenomenon, here on this planet Earth.<br>
+<p>It happened a few months ago in Florida.<br>
+There I saw with my own eyes a defined area of ground being consumed by flames, with four 
+indentions left by a flying object which had descended in the middle of a field.
+Beings had left the craft (there were other traces to prove this).</p>
+<p>They seemed to have studied topography, they had collected soil samples and, 
+eventually, they returned to where they had come from, disappearing at enormous 
+speed...</p>
+<p>I happen to know that authority did just about everything to keep this incident 
+from the press and TV, in fear of a panicky reaction from the public."</p>
+<p>read also: "Pioneering astronauts sees UFO", Area 51 and Gordon Cooper's 
+confiscated Camera", and "No Mercury UFO"</p>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
