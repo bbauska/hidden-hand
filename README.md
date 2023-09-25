@@ -76,22 +76,22 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 <p>Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium (secondary school).</p>
 <p>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.</p>p
-<p>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office.</p>p
+<p>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office.</p>
 <p>In 1905 he obtained his doctor’s degree.</p>
-<p>Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938).</p>p
+<p>Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938).</p>
 <p>Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.</p>
 
 <blockquote>
-In a recently unearthed recording of an interview conducted over 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft.<br>
-<br>UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947.<br>
-<br>As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.
+<p>In a recently unearthed recording of an interview conducted over 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft.</p>
+<p>UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947.</p>
+<p>As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.</p>
 </blockquote>
 
 <blockquote>
-According to Wright, she accompanied Einstein to what had been dubbed a "crisis conference" that was hastily held in July of 1947 at a remote army airbase in the American southwest.<br>
-<br>Upon their arrival, the duo entered a hangar that was under heavy security and, when they entered the building, they discovered that it contained a rather curious craft that appeared to have sustained significant damage.<br>
-<br>"It was disc-shaped, sort of concave," Wright recalled, "its size stood up to one-fourth of the hangar floor."<br>
-<br>While her response to the strange scene was one of "wonderment, half curiosity and maybe half fear," she said that Einstein was "not disturbed at all" and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.
+<p>According to Wright, she accompanied Einstein to what had been dubbed a "crisis conference" that was hastily held in July of 1947 at a remote army airbase in the American southwest.</p>
+<p>Upon their arrival, the duo entered a hangar that was under heavy security and, when they entered the building, they discovered that it contained a rather curious craft that appeared to have sustained significant damage.</p>
+<p>"It was disc-shaped, sort of concave," Wright recalled, "its size stood up to one-fourth of the hangar floor."</p>
+<p>While her response to the strange scene was one of "wonderment, half curiosity and maybe half fear," she said that Einstein was "not disturbed at all" and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.</p>
 </blockquote>
 
 <p>The year of this Einstein quote (1952) is more than interesting.</p>
