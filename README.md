@@ -42,7 +42,7 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <blockquote>
 The Hidden Hand is a controversial Award-winning documentary that explores the possibility, make that probability
-of an extraterrestrial presence here on Earth. After all, there are a trillion Earth-like planets in the Mily Way alone.
+of an extraterrestrial presence here on Earth. After all, there are a trillion Earth-like planets in the Milky Way alone.
 The film takes a keen look at a spectrum of topics like alien abduction, human/alien hybridization, the military's 
 reverse-engineering of alien technology and the government cover-up of anything related to extraterrestrials.
 </blockquote>
