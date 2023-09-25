@@ -74,12 +74,12 @@ others. The shadowy world of UFOs is suddenly brought to light.
 “You never fail until you stop trying.”
 ― Albert Einstein
 
-Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium.<br>
-<br>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.<br>
-<br>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office.<br>
-<br>In 1905 he obtained his doctor’s degree.<br>
-<br>Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938).<br>
-<br>Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.
+<p>Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium (secondary school).</p>
+<p>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.</p>p
+<p>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office.</p>p
+<p>In 1905 he obtained his doctor’s degree.</p>
+<p>Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938).</p>p
+<p>Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.</p>
 
 <blockquote>
 In a recently unearthed recording of an interview conducted over 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft.<br>
@@ -94,26 +94,23 @@ According to Wright, she accompanied Einstein to what had been dubbed a "crisis 
 <br>While her response to the strange scene was one of "wonderment, half curiosity and maybe half fear," she said that Einstein was "not disturbed at all" and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.
 </blockquote>
 
-<p>The year of this Einstein quote (1952) is more than interesting.<br>
-<br>It is the same year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was planned.<br>
-<br>It was also the same year that mass UFO sightings were occurring with frequency over Washington, DC.<br>
-<br>And it was the same year that Frank Edwards maintained Einstein had warned the President about attacking the saucers.</p>
+<p>The year of this Einstein quote (1952) is more than interesting.</p>
+<p>It is the same year that the Robertson Panel (on which Einstein’s associate Goudsmit served) was planned.</p>
+<p>It was also the same year that mass UFO sightings were occurring with frequency over Washington, DC.</p>
+<p>And it was the same year that Frank Edwards maintained Einstein had warned the President about attacking the saucers.</p>
  
-<p>
-What is more interesting about the Einstein quote is what is not said.<br>
-<br>Though Einstein admits that there is reality to the phenomena ("These people are seeing something"), he says that he does not want to know just what it is that the people are seeing.<br>
-<br>This is of course disingenuous of Einstein.<br>
-<br>Since when does science shy away from encouraging finding solutions to mysteries?<br>
-<br>Einstein’s own friend and associate Goudsmit certainly was interested in the phenomena during the same time period Einstein was writing Gardner about it!<br>
-<br>It sounds more like Einstein simply does not wish to engage someone outside of his circle on this obviously sensitive matter.
-</p>
+<p>What is more interesting about the Einstein quote is what is not said.</p>
+</>Though Einstein admits that there is reality to the phenomena ("These people are seeing something"), he says that he does not want to know just what it is that the people are seeing.</p>
+<p>This is of course disingenuous of Einstein.</p>
+<p>Since when does science shy away from encouraging finding solutions to mysteries?</p>
+<p>Einstein’s own friend and associate Goudsmit certainly was interested in the phenomena during the same time period Einstein was writing Gardner about it!</p>
+<p>It sounds more like Einstein simply does not wish to engage someone outside of his circle on this obviously sensitive matter.</p>
  
-<p>
-Another interpretation is that Einstein really did not want to know because he was afraid to know.<br>
-<br>And this makes sense.<br>
-<br>If what Edwards says is true, Einstein feared the phenomenon.<br>
-<br>But what he feared more was us.<br>
-<br>Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
+<p>Another interpretation is that Einstein really did not want to know because he was afraid to know.</p>
+<p>And this makes sense.</p>
+<p>If what Edwards says is true, Einstein feared the phenomenon.</p>
+<p>But what he feared more was us.</p>
+<p>Einstein feared our potential for a war-like reaction to the continued flyovers of craft that were piloted by beings that were not from here and that were unknown to science.
 </p>
 
 <div align="right">
@@ -157,8 +154,8 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
   alt="Harry Reid 2021, died Dec, 2021" />
 </p>
 
-Career
-Police officer at U.S. Capitol, c. 1961-63; city attorney, Henderson, NV, 1964-66; Nevada state assemblyman, 1969-1970; Nevada lieutenant governor, 1970-74; ran for U.S. Senate but lost, 1974; chairman of the Nevada Gaming Commission, 1977-81; attorney in private practice, 1981-83; congressman, 1983-87; U.S. senator, 1987—; Senate Democratic Whip, 1998-2004; Senate Minority Leader, 2005—.
+<h3>Career</h3
+<p></p>Police officer at U.S. Capitol, c. 1961-63; city attorney, Henderson, NV, 1964-66; Nevada state assemblyman, 1969-1970; Nevada lieutenant governor, 1970-74; ran for U.S. Senate but lost, 1974; chairman of the Nevada Gaming Commission, 1977-81; attorney in private practice, 1981-83; congressman, 1983-87; U.S. senator, 1987—; Senate Democratic Whip, 1998-2004; Senate Majority Leader, 2005—2015.  And Senate Minority Leader until 2017.
 
 
 I love supporting the **[EFF](https://eff.org)**.
