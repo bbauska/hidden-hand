@@ -44,13 +44,13 @@ Director, Ed Hunt</p>
 
 [UFO Casebook](http://www.ufocasebook.com/)
 
-[[The UFO Chronicles]](http://www.theufochronicles.com/)
+[The UFO Chronicles](http://www.theufochronicles.com/)
 
-[[UFO Digest​]](http://www.ufodigest.com/)
+[UFO Digest​](http://www.ufodigest.com/)
 
 [UFO Evidence](http://www.ufoevidence.org/)
 
-[[Unexplained Mysteries]](http://www.unexplained-mysteries.com/)
+[Unexplained Mysteries](http://www.unexplained-mysteries.com/)
 
 ### UFO Organizations
 
