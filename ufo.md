@@ -1,10 +1,10 @@
 <h2>One of the best, if not the best movie prior to 2010 is 1979's production: UFO's Are Real</h2>
-<cite>Ed Hunt, director</cite>
-<cite>Brandon Chase, starring</cite>
+<p>Starring, Brandon Chase</p>
+<p>Director, Ed Hunt</p>
 
-**[UFO-Related Websites](http://www.kevinrandle.blogspot.com/)**
+<b>[UFO-Related Websites](http://www.kevinrandle.blogspot.com/)</b>
 
-**​*By Anthony Bragalia (the smartest man in ufology...just ask him)
+<b><i>By Anthony Bragalia (the smartest man in ufology...just ask him)</i></b>
 
 [[The Anomalist​]](http://www.anomalist.com/)
 
