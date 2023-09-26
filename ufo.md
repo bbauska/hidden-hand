@@ -6,9 +6,9 @@
 
 <b><i>By Anthony Bragalia (the smartest man in ufology...just ask him)</i></b>
 
-[[The Anomalist​]](http://www.anomalist.com/)
+[The Anomalist]](http://www.anomalist.com/)
 
-​[[Anomaly Archives]](http://www.anomalyarchives.org/)
+[[Anomaly Archives](http://www.anomalyarchives.org/)
 
 [Astronomy UFO](http://www.astronomyufo.com/UFO/SUNlite.htm)
 
