@@ -1,6 +1,6 @@
 <h2>One of the best, if not the best movie prior to 2010 is 1979's production: UFO's Are Real</h2>
-<p>Starring, Brandon Chase</p>
-<p>Director, Ed Hunt</p>
+<p>Starring, Brandon Chase<br>
+Director, Ed Hunt</p>
 
 <b>[UFO-Related Websites](http://www.kevinrandle.blogspot.com/)</b>
 
@@ -16,8 +16,7 @@
 
 [Blue Book Archive](http://www.bluebookarchive.org/)
 
-[Blue Book Sightings Records]
-(https://www.fold3.com/title_461/project_blue_book_ufo_investigations#overview)
+[Blue Book Sightings Records](https://www.fold3.com/title_461/project_blue_book_ufo_investigations#overview)
 
 [CIA UFO Files](https://www.cia.gov/library/readingroom/search/site/ufo)
 
@@ -27,8 +26,7 @@
 
 ​[Mysterious Universe](http://www.mysteriousuniverse.org/)
 
-[NSA UFO Files]
-(https://www.nsa.gov/news-features/declassified-documents/ufo/)
+[NSA UFO Files](https://www.nsa.gov/news-features/declassified-documents/ufo/)
 
 [OpenMinds](http://www.openminds.tv/)
 
