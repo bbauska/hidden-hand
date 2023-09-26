@@ -1,4 +1,6 @@
 <h2>One of the best, if not the best movie prior to 2010 is 1979's production: UFO's Are Real</h2>
+<cite>Ed Hunt, director</cite>
+<cite>Brandon Chase, starring</cite>
 
 **[UFO-Related Websites](http://www.kevinrandle.blogspot.com/)**
 
