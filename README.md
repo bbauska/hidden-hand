@@ -8,8 +8,6 @@ hidden-hand: "The Hidden Hand - Alien Contact and the Government Coverup"
 
 --James Carman (2008)
 
-<h3><a href="https://kevinrandle.blogspot.com/">Kevin Randle blog</a></h3>
-
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ the hidden hand - alien contact and the government coverup ~~~~~~~~~~~~~~~~-->
@@ -66,6 +64,8 @@ others. The shadowy world of UFOs is suddenly brought to light.
 —James Carman
 
 ...
+
+<h3><a href="https://kevinrandle.blogspot.com/">Kevin Randle blog</a></h3>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
