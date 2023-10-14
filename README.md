@@ -551,7 +551,7 @@ Edgar D. Mitchell
   - Former Astronaut, 6th man on the moon
 
 <p align="center" width="100%">
-<img src="./images/dr_mitchell_6th_man_on_the_moon.webp"
+<img src="./images/Dr_Mitchell_6th_Man_on_the_Moon.webp"
   alt="Dr. Edgar Mitchell"
   style="width:65%" />
 </p>
@@ -1057,7 +1057,7 @@ Ashtar's The Space Brothers Speak
 https://www.youtube.com/watch?v=vWWZxB4ofXc
 
 <p align="center" width="100%">
-<img src="./images/Marc Brinkerhoff.png"
+<img src="./images/Marc_Brinkerhoff.webp"
    alt="Marc Brinkerhoff"
    style="width:50%" />
 </p>
@@ -1097,7 +1097,7 @@ Julian Michael
   - Hypnotherapist
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/Julian_Michael.webp"
    alt="Julian Michael"
    style="width:50%" />
 </p>
