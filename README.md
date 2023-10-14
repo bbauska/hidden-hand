@@ -551,7 +551,7 @@ Edgar D. Mitchell
   - Former Astronaut, 6th man on the moon
 
 <p align="center" width="100%">
-<img src="./images/dr_mitchell-6th_man_on_the_moon.webp"
+<img src="./images/dr_mitchell_6th_man_on_the_moon.webp"
   alt="Dr. Edgar Mitchell"
   style="width:65%" />
 </p>
