@@ -140,7 +140,7 @@ and that were unknown to science.</p>
   - Poet, novelist. Les Misérables (1862), and dramatist
 
 <p align="center" width="100%">
-<img width="40%"
+<img style="width:40%"
    src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
    alt="Victor Hugo Nadar."</>
 </p>
@@ -162,7 +162,7 @@ Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, Fran
 <h4>Harry Reid - (Dec/1939-Dec/2021)</h4>
 
 <p align="center" width="100%">
-  <img width="50%" src="./images/harry_reid_2022.webp"
+  <img style="width:50%" src="./images/harry_reid_2022.webp"
   alt="Harry Reid 2021, died Dec, 2021" />
 </p>
 
@@ -185,8 +185,7 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
    - Author. How I Learned to Cope with High Strangeness...
 
 <img class="defined"
-  width="50%" src="./images/Chuck_Weiss-book_cover.webp"
-  style="width:400"
+  style="width:50%" src="./images/Chuck_Weiss-book_cover.webp"
   alt="Chuck Weiss" </>
 
 <p>How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)</p>
@@ -209,7 +208,7 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 
 <p align="center" width="100%">
 <img src="./images/Richard_Dolan-Biography.webp"
-  width="65%"
+  style="width:65%"
   alt="Richard Dolan Biography" />
 </p>
 
@@ -236,7 +235,7 @@ Included in this volume are the activities of more than fifty military bases rel
 
 <p align="center" width="100%">
 <img src="./images/Whitley_Strieber.webp"
-    width="35%"
+    style="width:35%"
     alt="Whitley Streiber." />
 </p>
 
@@ -245,7 +244,7 @@ Included in this volume are the activities of more than fifty military bases rel
 <p align="center" width="100%">
 <img src="/images/Whitley_Strieber-communion.webp?raw=true"
    alt="Whitley Strieber"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -263,7 +262,7 @@ Included in this volume are the activities of more than fifty military bases rel
 <p align="center" width="100%">
 <img src="./images/Robert_Dean_then_now.webp"
    alt="Robert Dean."
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -287,7 +286,7 @@ stationed at Supreme Headquarters Allied Powers Europe (SHAPE), the military arm
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png"
    alt="Stanton Friedman."
-   width="35%" />
+   style="width:35%" />
 </p>
 
 <h4>THE UFO CHALLENGE</h4>
@@ -351,7 +350,7 @@ Paola Harris
 <p align="center" width="100%">
 <img src="./images/Paola_Harris.webp"
    alt="Paola Harris"
-   width="35%" />
+   style="width:35%" />
 </p>
 
 Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
@@ -384,7 +383,7 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 <p align="center" width="100%">
 <img src="./images/joni_strother.webp"
    alt="Joni Strother."
-   width="50%" />
+   style="width:50%" />
 </p>
 
 Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
@@ -402,9 +401,9 @@ Abductee Joni Strother described her traumatic encounters with the aliens, whom 
    - Author, The Aliens and the Scalpel
 
 <p align="center" width="100%">
-<img src=".images/Roger_Leir.webp"
+<img src="./images/Roger_Leir.webp"
    alt="Roger Leir"
-   width="50%" />
+   style="width:50%" />
 </p>
 <!-- https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png" -->
 
@@ -426,7 +425,7 @@ Jim Sparks
 <p align="center" width="100%">
 <img src="./images/Jim_Sparks.webp"
    alt="Jim Sparks"
-   width="35%" />
+   style="width:35%" />
 </p>
 
 <div align="right">
@@ -443,7 +442,7 @@ Niara Isley
 <p align="center" width="100%">
 <img src="./images/niara_isley_2020.webp"
   alt="Niara Isley"
-  width="50%" />
+  style="width:50%" />
 </p>
 
 [Encounters with Healing](https://encounterswithhealing.com/)
@@ -463,7 +462,7 @@ Lyn Buchanan
 <p align="center" width="100%">
 <img src="./images/Lyn_Buchanan.webp"
   alt="Lyn Buchanan."
-  width="35%" />
+  style="width:35%" />
 </p>
 
 <div align="right">
@@ -481,7 +480,7 @@ Nassim Haramein
 <p align="center" width="100%">
 <img src="./images/Nassim_Haramein.webp"
   alt="Nassim Haramein."
-  width="50%" />
+  style="width:50%" />
 </p>
 
 <div align="right">
@@ -498,7 +497,7 @@ David Jacobs
 
 <p align="center" width="100%">
   <img src="./images/David_Jacobs.webp"
-  width="35%"
+  style="width:35%"
   alt="David Jacobs." />
 </p>
 
@@ -517,7 +516,7 @@ Nick Pope
 <p align="center" width="100%">
 <img src="./images/Nick_Pope.webp"
    alt="Nick Pope."
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -536,7 +535,7 @@ Milton Torres
 <p align="center" width="100%">
 <img src="./images/milton_torres_1957.webp"
    alt="Milton Torres."
-   width="50%" />
+   Style="width:50%" />
 </p>
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -554,7 +553,7 @@ Edgar D. Mitchell
 <p align="center" width="100%">
 <img src="./images/dr_mitchell-6th_man_on_the_moon.webp"
   alt="Dr. Edgar Mitchell"
-  width="65%" />
+  style="width:65%" />
 </p>
 
 https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
@@ -575,7 +574,7 @@ James Penniston
 <p align="center" width="100%">
 <img src="./images/tsgt_james_penniston.webp"
    alt="James Penniston."
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -594,7 +593,7 @@ David Icke
 <p align="center" width="100%">
 <img src="./images/david_icke.webp"
    alt="David Icke"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -612,7 +611,7 @@ Jaime Maussan
 
 <p align="center" width="100%">
   <img src="./images/james_maussan.webp"
-  width="45%"
+  style="width:45%"
   alt="James Maussan." />
 </p>
 
@@ -631,7 +630,7 @@ John B. Alexander
 
 <p align="center" width="100%">
   <img src="./images/corso_and_alien.webp"
-  width="45%"
+  style="width:45%"
   alt="John Alexander." />
 </p>
 
@@ -650,7 +649,7 @@ Paul Hellyer
 
 <p align="center" width="100%">
   <img src="./images/paul_hellyer_minister_of_defense_canada.webp"
-  width="45%"
+  style="width:45%"
   alt="Paul Hellyer." />
 </p>
 
@@ -669,7 +668,7 @@ Charles Hall
 
 <p align="center" width="100%">
   <img src="./images/charles_hall.webp"
-  width="45%"
+  style="width:45%"
   alt="Charles Hall." />
 </p>
 
@@ -688,7 +687,7 @@ David Huggins
 
 <p align="center" width="100%">
   <img src="./images/david_huggins.webp"
-  width="45%"
+  style="width:45%"
   alt="David Huggins." />
 </p>
 
@@ -707,7 +706,7 @@ Clifford E. Stone
 
 <p align="center" width="100%">
   <img src="./images/clifford_stone.webp"
-  width="45%"
+  style="width:45%"
   alt="Clifford Stone." />
 </p>
 
@@ -726,7 +725,7 @@ Derrel W. Sims
 
 <p align="center" width="100%">
   <img src="./images/darrel_sims.webp"
-  width="45%"
+  style="width:45%"
   alt="Darrel W Sims" />
 </p>
 
@@ -745,7 +744,7 @@ James Gilliland
 
 <p align="center" width="100%">
   <img src="./images/james_gilliland-eceti_and_trout_lake_washington.webp"
-  width="45%"
+  style="width:45%"
   alt="James Gilliland at Trout Lake, WA." />
 </p>
 
@@ -765,7 +764,7 @@ Budd Hopkins
 <p align="center" width="100%">
 <img src="./images/budd_hopkins.webp"
    alt="Budd Hopkins."
-   width="75%" />
+   style="width:75%" />
 </p>
 
 <div align="right">
@@ -789,7 +788,7 @@ Budd Hopkins
 
 <p align="center" width="100%">
   <img src="./images/20000700-ufo-magazine-03-01-01.webp"
-  width="45%"
+  style="width:45%"
   alt="Phillip Corso." />
 </p>
 
@@ -845,7 +844,7 @@ Jim Marrs
 <p align="center" width="100%">
 <img src="./images/jim_marrs.webp"
    alt="Jim Marrs"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -886,7 +885,7 @@ Dan Burisch
 <p align="center" width="100%">
 <img src="./images/Dan_Burisch.webp"
    alt="Dan Burisch."
-   width="35%" />
+   style="width:35%" />
 </p>
 
 <h5>Introduction</h5>
@@ -951,7 +950,7 @@ Graham Hancock
 
 <p align="center" width="100%">
 <img src="./images/Graham_Hancock_facebook.webp"
-  width="65%
+  style="width:65%
   alt="Graham Hancock Facebook." />
 </p>
 
@@ -973,7 +972,7 @@ Melinda Leslie
 <p align="center" width="100%">
 <img src="./images/melinda_leslie.webp"
    alt="Melinda Leslie"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <p>MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial 
@@ -998,7 +997,7 @@ in 25 books by prominent authors in ufology.</p>
 <p align="center" width="100%">
 <img src="./images/jesse_long.webp"
    alt="Jesse Long."
-   width="50%" />
+   style="width:50%" />
 </p>
 
 https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-abduction-story/
@@ -1019,7 +1018,7 @@ Yvonne Smith
 <p align="center" width="100%">
 <img src="./images/yvonne_smith.webp"
    alt="Yvonne Smith."
-   width="50%" />
+   style="width:50%" />
 </p>
 Website(s):
 firethegrid.com
@@ -1060,7 +1059,7 @@ https://www.youtube.com/watch?v=vWWZxB4ofXc
 <p align="center" width="100%">
 <img src="./images/Marc Brinkerhoff.png"
    alt="Marc Brinkerhoff"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 https://www.youtube.com/watch?v=u0xxVydxhzc
@@ -1079,9 +1078,9 @@ Shelley Yates
   - Director, Fire the Grid
 
 <p align="center" width="100%">
-<img src="./images/"
+<img src="./images/Shelley_Yates.webp"
    alt="Shelley Yates"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -1100,7 +1099,7 @@ Julian Michael
 <p align="center" width="100%">
 <img src="./images/"
    alt="Julian Michael"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <div align="right">
@@ -1222,7 +1221,7 @@ Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology)
 <p align="center" width="100%">
 <img src="./images/John Lear Las Vegas April 2008.png"
    alt="John Lear"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 INTRODUCTION:
@@ -1301,7 +1300,7 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 <p align="center" width="100%">
 <img src="./images/hynek and jacque vallee.png"
    alt="J Allen Hynek and Jacque Vallee"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 &nbsp;
@@ -1322,7 +1321,7 @@ In the central area around the LM, the largest crater is Camelot at the upper le
 <p align="center" width="100%">
 <img src="./images/leonard stringfield - photo.png"
    alt="Leonard Stringfield"
-   width="50%" />
+   style="width:50%" />
 </p>
 
 Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. He died in 1994.[1]
@@ -1454,7 +1453,7 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 <p align="center" width="100%">
 <img src="./images/roswell_alien_probably_another.webp"
    alt="Rowell Alien, probably another."
-   width="50%" />
+   style="width:50%" />
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1569,7 +1568,7 @@ More details about Nick Pope and his work can be found at his website.
 <p align="center" width="100%">
 <img src=""
    alt=""
-   width="50%" />
+   style="width:50%" />
 </p>
 
 &nbsp;
