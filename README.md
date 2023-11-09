@@ -75,7 +75,7 @@ others. The shadowy world of UFOs is suddenly brought to light.
 
 <p align="center" width="100%">
   <img src="./images/Albert_Einstein.webp"
-  style="width:450"
+  style="width:50%;"
   alt="Albert Einstein." />
 </p>
   <q cite="https://www.relicsworld.com/albert-einstein/when-you-are-courting-a-nice-girl-an-hour-seems-like-a-author-albert-einstein">You never fail until you stop trying.
@@ -140,7 +140,7 @@ and that were unknown to science.</p>
   - Poet, novelist. Les Misérables (1862), and dramatist
 
 <p align="center" width="100%">
-<img style="width:40%"
+<img style="width:35%"
    src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
    alt="Victor Hugo Nadar."</>
 </p>
@@ -208,7 +208,7 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 
 <p align="center" width="100%">
 <img src="./images/Richard_Dolan-Biography.webp"
-  style="width:65%"
+  style="width:50%"
   alt="Richard Dolan Biography" />
 </p>
 
@@ -244,7 +244,7 @@ Included in this volume are the activities of more than fifty military bases rel
 <p align="center" width="100%">
 <img src="/images/Whitley_Strieber-communion.webp?raw=true"
    alt="Whitley Strieber"
-   style="width:50%" />
+   style="width:35%" />
 </p>
 
 <div align="right">
@@ -442,7 +442,7 @@ Niara Isley
 <p align="center" width="100%">
 <img src="./images/niara_isley_2020.webp"
   alt="Niara Isley"
-  style="width:50%" />
+  style="width:35%" />
 </p>
 
 [Encounters with Healing](https://encounterswithhealing.com/)
@@ -480,7 +480,7 @@ Nassim Haramein
 <p align="center" width="100%">
 <img src="./images/Nassim_Haramein.webp"
   alt="Nassim Haramein."
-  style="width:50%" />
+  style="width:35%" />
 </p>
 
 <div align="right">
@@ -516,7 +516,7 @@ Nick Pope
 <p align="center" width="100%">
 <img src="./images/Nick_Pope.webp"
    alt="Nick Pope."
-   style="width:50%" />
+   style="width:35%" />
 </p>
 
 <div align="right">
@@ -950,7 +950,7 @@ Graham Hancock
 
 <p align="center" width="100%">
 <img src="./images/Graham_Hancock_facebook.webp"
-  style="width:65%
+  style="width:50%"
   alt="Graham Hancock Facebook." />
 </p>
 
@@ -1204,8 +1204,11 @@ J.J. Hurtak
   - Director, Paradigm Research Group
 
 Stephen Bassett
-
-![image](https://user-images.githubusercontent.com/41387907/140463116-6170534f-ae83-4506-a093-00cf97874830.png)
+<p align="center" width="100%">
+<img src="https://user-images.githubusercontent.com/41387907/140463116-6170534f-ae83-4506-a093-00cf97874830.png"
+  alt="Shelley Yates"
+  style="width:50%" />
+</p>
 
 Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) lobbyist in the United States, executive director and treasurer of the political action committee Extraterrestrial Phenomena Political Action Committee and executive director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says it wants end to end the governments imposed truth embargo regarding the facts of extraterrestrials engaging the human race. During the run-up to the presidential election 2014-2016, Bassett met with House and Senate staffers regarding the need for new congressional hearings addressing the modern evidence for an extraterrestrial presence.
 
@@ -1646,7 +1649,7 @@ Clifford E. Stone	...	Self - Retired US Army Sergeant
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stephen bassett ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ derrel w sims ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Derrel W. Sims	...	Self - Private Investigator
 
