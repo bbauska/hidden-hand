@@ -1057,7 +1057,7 @@ Ashtar's The Space Brothers Speak
 https://www.youtube.com/watch?v=vWWZxB4ofXc
 
 <p align="center" width="100%">
-<img src="./images/Marc_Brinkerhoff.webp"
+<img src="./images/Marc-Brinkerhoff.jpg"
    alt="Marc Brinkerhoff"
    style="width:50%" />
 </p>
@@ -1078,7 +1078,7 @@ Shelley Yates
   - Director, Fire the Grid
 
 <p align="center" width="100%">
-<img src="./images/Shelley_Yates.webp"
+<img src="./images/Shelley-Yates.jpg"
    alt="Shelley Yates"
    style="width:50%" />
 </p>
@@ -1096,11 +1096,14 @@ Julian Michael
 
   - Hypnotherapist
 
+<p>No Image Found</p>
+<!--
 <p align="center" width="100%">
 <img src="./images/Julian_Michael.webp"
    alt="Julian Michael"
    style="width:50%" />
 </p>
+-->
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -1219,7 +1222,7 @@ Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology)
   -  CIA pilot, UFO researcher
 
 <p align="center" width="100%">
-<img src="./images/John Lear Las Vegas April 2008.png"
+<img src="./images/John_Lear_Las_Vegas_April_2008.webp"
    alt="John Lear"
    style="width:50%" />
 </p>
@@ -1298,7 +1301,7 @@ In the central area around the LM, the largest crater is Camelot at the upper le
   - UFOlogists, founder of Close Encounters of the 3rd Kind
 
 <p align="center" width="100%">
-<img src="./images/hynek and jacque vallee.png"
+<img src="./images/hynek_and_jacque_vallee.webp"
    alt="J Allen Hynek and Jacque Vallee"
    style="width:50%" />
 </p>
@@ -1319,7 +1322,7 @@ In the central area around the LM, the largest crater is Camelot at the upper le
   - UFOlogist (probably the best ever), writer
 
 <p align="center" width="100%">
-<img src="./images/leonard stringfield - photo.png"
+<img src="./images/leonard_stringfield_photo.webp"
    alt="Leonard Stringfield"
    style="width:50%" />
 </p>
@@ -1451,7 +1454,7 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 </ul>
 
 <p align="center" width="100%">
-<img src="./images/roswell_alien_probably_another.webp"
+<img src="./images/roswell_alien-probably_another.webp"
    alt="Rowell Alien, probably another."
    style="width:50%" />
 </p>
