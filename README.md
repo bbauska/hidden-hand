@@ -494,6 +494,8 @@ Nassim Haramein
 David Jacobs
 
   - Historian & Hypnotherapist
+  
+  - "It's a club no one wants to belong to.", regarding Alien Abductions.
 
 <p align="center" width="100%">
   <img src="./images/David_Jacobs.webp"
