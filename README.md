@@ -972,7 +972,7 @@ Melinda Leslie
 <p align="center" width="100%">
 <img src="./images/melinda_leslie.webp"
    alt="Melinda Leslie"
-   style="width:50%" />
+   style="width:35%" />
 </p>
 
 <p>MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial 
@@ -997,7 +997,7 @@ in 25 books by prominent authors in ufology.</p>
 <p align="center" width="100%">
 <img src="./images/jesse_long.webp"
    alt="Jesse Long."
-   style="width:50%" />
+   style="width:35%" />
 </p>
 
 https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-abduction-story/
@@ -1018,7 +1018,7 @@ Yvonne Smith
 <p align="center" width="100%">
 <img src="./images/yvonne_smith.webp"
    alt="Yvonne Smith."
-   style="width:50%" />
+   style="width:35%" />
 </p>
 Website(s):
 firethegrid.com
@@ -1080,7 +1080,7 @@ Shelley Yates
 <p align="center" width="100%">
 <img src="./images/Shelley-Yates.jpg"
    alt="Shelley Yates"
-   style="width:50%" />
+   style="width:35%" />
 </p>
 
 <div align="right">
