@@ -32,8 +32,9 @@ than are dreamt of in your philosophy.
 &nbsp;
 
 <p>
-Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, directors, historians, 
-pilots, astronauts, ufologists, microbiologist, experiencers, researchers & contactees.
+Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, 
+directors, historians, pilots, astronauts, ufologists, microbiologist, experiencers, 
+researchers & contactees.
 </p>
 
 <div align="right">
@@ -47,19 +48,23 @@ pilots, astronauts, ufologists, microbiologist, experiencers, researchers & cont
 <!--~~~~~~~~~~~~~~~~ the hidden hand - alien contact and the government coverup ~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <blockquote>
-The Hidden Hand is a controversial Award-winning documentary that explores the possibility, make that probability
-of an extraterrestrial presence here on Earth. After all, there are a trillion Earth-like planets in the Milky Way alone.
-The film takes a keen look at a spectrum of topics like alien abduction, human/alien hybridization, the military's 
-reverse-engineering of alien technology and the government cover-up of anything related to extraterrestrials.
+The Hidden Hand is a controversial Award-winning documentary that explores the 
+possibility, make that probability of an extraterrestrial presence here on Earth. 
+After all, there are a trillion Earth-like planets in the Milky Way alone. The film 
+takes a keen look at a spectrum of topics like alien abduction, human/alien hybridization, 
+the military's reverse-engineering of alien technology and the government cover-up 
+of anything related to extraterrestrials.
 </blockquote>
 
 <blockquote>
-Is preoccupation with E.T.'s a form of cultural madness, or is something really going on? How would E.T. contact 
-change the religious and political institutions of our society? The Hidden Hand is full of riveting interviews 
-with experts and experiencers alike: Whitley Strieber, Dr. Edgar Mitchell, the 6th astronaut on the moon, 
-Paul Hellyer, a former Canadian Defence Minister, Richard Dolan, Jim Marrs, Linda Moulton Howe, Col. John Alexander, 
-Lyn Buchanan, Clifford Stone, Nassim Haramein, David Icke, Dr. Roger Leir, Graham Hancock and Paola Harris, among 
-others. The shadowy world of UFOs is suddenly brought to light.
+Is preoccupation with E.T.'s a form of cultural madness, or is something really going 
+on? How would E.T. contact change the religious and political institutions of our 
+society? The Hidden Hand is full of riveting interviews with experts and experiencers 
+alike: Whitley Strieber, Dr. Edgar Mitchell, the 6th astronaut on the moon, Paul Hellyer, 
+a former Canadian Defence Minister, Richard Dolan, Jim Marrs, Linda Moulton Howe, 
+Col. John Alexander, Lyn Buchanan, Clifford Stone, Nassim Haramein, David Icke, 
+Dr. Roger Leir, Graham Hancock and Paola Harris, among others. The shadowy world 
+of UFOs is suddenly brought to light.
 </blockquote>
 —James Carman
 
@@ -82,24 +87,47 @@ others. The shadowy world of UFOs is suddenly brought to light.
   </q>
 <i>― Albert Einstein</i>
 <br><br>
-<p>Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. Six weeks later the family moved to Munich, where he later on began his schooling at the Luitpold Gymnasium (secondary school).</p>
-<p>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained as a teacher in physics and mathematics.</p>
-<p>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, as he was unable to find a teaching post, he accepted a position as technical assistant in the Swiss Patent Office.</p>
+<p>Albert Einstein was born at Ulm, in Württemberg, Germany, on March 14, 1879. 
+Six weeks later the family moved to Munich, where he later on began his schooling 
+at the Luitpold Gymnasium (secondary school).</p>
+<p>Later, they moved to Italy and Albert continued his education at Aarau, Switzerland 
+and in 1896 he entered the Swiss Federal Polytechnic School in Zurich to be trained 
+as a teacher in physics and mathematics.</p>
+<p>In 1901, the year he gained his diploma, he acquired Swiss citizenship and, 
+as he was unable to find a teaching post, he accepted a position as technical assistant 
+in the Swiss Patent Office.</p>
 <p>In 1905 he obtained his doctor’s degree.</p>
-<p>Einstein’s researches are, of course, well chronicled and his more important works include Special Theory of Relativity (1905), Relativity (English translations, 1920 and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian Movement (1926), and The Evolution of Physics (1938).</p>
-<p>Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy (1934), and Out of My Later Years (1950) are perhaps the most important.</p>
+<p>Einstein’s researches are, of course, well chronicled and his more important works 
+include Special Theory of Relativity (1905), Relativity (English translations, 1920 
+and 1950), General Theory of Relativity (1916), Investigations on Theory of Brownian 
+Movement (1926), and The Evolution of Physics (1938).</p>
+<p>Among his non-scientific works, About Zionism (1930), Why War? (1933), My Philosophy 
+(1934), and Out of My Later Years (1950) are perhaps the most important.</p>
 
 <blockquote>
-<p>In a recently unearthed recording of an interview conducted over 30 years ago, a former assistant to Albert Einstein alleges that the famed scientist was enlisted to examine the Roswell wreckage, including the ET occupants of the downed craft.</p>
-<p>UFO researcher Anthony Bragalia uncovered the remarkable revelation when he tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 about her time working with Einstein in the summer of 1947.</p>
-<p>As luck would have it, Franklin still had the tapes from her conversation with the former assistant and what she told the researcher was nothing short of stunning.</p>
+<p>In a recently unearthed recording of an interview conducted over 30 years ago, a 
+former assistant to Albert Einstein alleges that the famed scientist was enlisted 
+to examine the Roswell wreckage, including the ET occupants of the downed craft.</p>
+<p>UFO researcher Anthony Bragalia uncovered the remarkable revelation when he 
+tracked down ufologist Sheila Franklin, who interviewed Dr. Shirley Wright in 1993 
+about her time working with Einstein in the summer of 1947.</p>
+<p>As luck would have it, Franklin still had the tapes from her conversation with 
+the former assistant and what she told the researcher was nothing short of stunning.</p>
 </blockquote>
 
 <blockquote>
-<p>According to Wright, she accompanied Einstein to what had been dubbed a "crisis conference" that was hastily held in July of 1947 at a remote army airbase in the American southwest.</p>
-<p>Upon their arrival, the duo entered a hangar that was under heavy security and, when they entered the building, they discovered that it contained a rather curious craft that appeared to have sustained significant damage.</p>
-<p>"It was disc-shaped, sort of concave," Wright recalled, "its size stood up to one-fourth of the hangar floor."</p>
-<p>While her response to the strange scene was one of "wonderment, half curiosity and maybe half fear," she said that Einstein was "not disturbed at all" and, instead, was primarily concerned with what sort of insights about propulsion and the universe could be gleaned from the vehicle.</p>
+<p>According to Wright, she accompanied Einstein to what had been dubbed a "crisis 
+conference" that was hastily held in July of 1947 at a remote army airbase in the 
+American southwest.</p>
+<p>Upon their arrival, the duo entered a hangar that was under heavy security and, 
+when they entered the building, they discovered that it contained a rather curious 
+craft that appeared to have sustained significant damage.</p>
+<p>"It was disc-shaped, sort of concave," Wright recalled, "its size stood up to 
+one-fourth of the hangar floor."</p>
+<p>While her response to the strange scene was one of "wonderment, half curiosity 
+and maybe half fear," she said that Einstein was "not disturbed at all" and, instead, 
+was primarily concerned with what sort of insights about propulsion and the universe 
+could be gleaned from the vehicle.</p>
 </blockquote>
 
 <p>The year of this Einstein quote (1952) is more than interesting.  It is the same 
@@ -146,7 +174,11 @@ and that were unknown to science.</p>
 </p>
 
 <blockquote>
-Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the French Romantic writers. Though regarded in France as one of that country’s greatest poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and Les Misérables (1862).
+Victor Hugo, in full Victor-Marie Hugo, (born February 26, 1802, Besançon, France—died 
+May 22, 1885, Paris), poet, novelist, and dramatist who was the most important of the 
+French Romantic writers. Though regarded in France as one of that country’s greatest 
+poets, he is better known abroad for such novels as Notre-Dame de Paris (1831) and 
+Les Misérables (1862).
 </blockquote>
 
 <div align="right">
@@ -213,13 +245,26 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 </p>
 
 <p>
-Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led him to the broader context of increased security measures and secrecy since World War II. One aspect of such government policies that has continued to hold the public's imagination for over half a century is the question of unidentified flying objects.
+Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led 
+him to the broader context of increased security measures and secrecy since World 
+War II. One aspect of such government policies that has continued to hold the public's 
+imagination for over half a century is the question of unidentified flying objects.
 </p>
 <p>
-UFOs and the National Security State is the first volume of a two-part detailed chronological narrative of the national security dimensions of the UFO phenomenon from 1941 to the present. Working from hundreds of declassified records and other primary and secondary sources, Dolan centers his investigation on the American military and intelligence communities, demonstrating that they take UFOs seriously indeed.
+UFOs and the National Security State is the first volume of a two-part detailed 
+chronological narrative of the national security dimensions of the UFO phenomenon 
+from 1941 to the present. Working from hundreds of declassified records and other 
+primary and secondary sources, Dolan centers his investigation on the American 
+military and intelligence communities, demonstrating that they take UFOs seriously 
+indeed.
 </p>
 <p>
-Included in this volume are the activities of more than fifty military bases relating to UFOs, innumerable violations of sensitive airspace by unknown craft and analyses of the Roswell controversy, the CIA-sponsored Robertson Panel, and the Condon Committee Report. Dolan highlights the development of civilian anti-secrecy movements, which flourished in the 1950s and 1960s until the adoption of an official government policy and subsequent "closing of the door" during the Nixon administration.
+Included in this volume are the activities of more than fifty military bases relating 
+to UFOs, innumerable violations of sensitive airspace by unknown craft and analyses 
+of the Roswell controversy, the CIA-sponsored Robertson Panel, and the Condon Committee 
+Report. Dolan highlights the development of civilian anti-secrecy movements, which 
+flourished in the 1950s and 1960s until the adoption of an official government policy 
+and subsequent "closing of the door" during the Nixon administration.
 </p>
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -278,7 +323,6 @@ stationed at Supreme Headquarters Allied Powers Europe (SHAPE), the military arm
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stanton friedman ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Stanton Friedman</h4>
 
    - Author, Flying Saucers & Science
@@ -294,42 +338,103 @@ stationed at Supreme Headquarters Allied Powers Europe (SHAPE), the military arm
 December 1997
 By Stanton T. Friedman
 
-As a nuclear physicist who has had a serious interest in flying saucers since 1958, I have reached four major conclusions:
-The evidence is overwhelming that Planet Earth is being visited by intelligently controlled extraterrestrial spacecraft. In other words, SOME UFOs are alien spacecraft. Most are not.
+As a nuclear physicist who has had a serious interest in flying saucers since 1958, 
+I have reached four major conclusions:
+The evidence is overwhelming that Planet Earth is being visited by intelligently 
+controlled extraterrestrial spacecraft. In other words, SOME UFOs are alien spacecraft. 
+Most are not.
 
-The subject of flying saucers represents a kind of Cosmic Watergate, meaning that some few people in major governments have known since July, 1947, when two crashed saucers and several alien bodies were recovered in New Mexico, that indeed SOME UFOs are ET. As noted in 1950, it’s the most classified U.S. topic.
+The subject of flying saucers represents a kind of Cosmic Watergate, meaning that 
+some few people in major governments have known since July, 1947, when two crashed 
+saucers and several alien bodies were recovered in New Mexico, that indeed SOME 
+UFOs are ET. As noted in 1950, it’s the most classified U.S. topic.
 
-None of the arguments made against conclusions One and Two by a small group of debunkers such as Carl Sagan, my University of Chicago classmate for three years, can stand up to careful scrutiny.
+None of the arguments made against conclusions One and Two by a small group of 
+debunkers such as Carl Sagan, my University of Chicago classmate for three years, 
+can stand up to careful scrutiny.
 
-The Flying Saucer story is the biggest story of the millennium: visits to Planet Earth by aliens and the U.S. government’s cover-up of the best data (the bodies and wreckage) for over fifty years.
+The Flying Saucer story is the biggest story of the millennium: visits to Planet 
+Earth by aliens and the U.S. government’s cover-up of the best data (the bodies 
+and wreckage) for over fifty years.
 slide show
-Since 1967 I have lectured on the subject “Flying Saucers ARE Real” at more than 600 colleges and over 100 professional groups in all fifty US states, nine Canadian Provinces, twelve cities in England and nine in other countries, with only eleven hecklers. I have also appeared on hundreds of radio and TV shows. Overall, I have probably answered about 35,000 questions about UFOs and secrecy.
+Since 1967 I have lectured on the subject “Flying Saucers ARE Real” at more than 
+600 colleges and over 100 professional groups in all fifty US states, nine Canadian 
+Provinces, twelve cities in England and nine in other countries, with only eleven 
+hecklers. I have also appeared on hundreds of radio and TV shows. Overall, I have 
+probably answered about 35,000 questions about UFOs and secrecy.
 
-It’s clear that over 97% of the people have NOT read any of the five major scientific studies I discuss, and are unaware of the mountains of evidence that support my conclusions. They are also unaware of the scientific data, as opposed to tabloid nonsense. However, it is also clear from the Opinion Polls and from my own experience that indeed most people accept the notion that SOME UFOs are alien spacecraft. The greater the education, the MORE likely an individual is to accept this proposition. In an October 25, 1995, Oxford University Debate on the resolution “Planet Earth is being visited by intelligent extraterrestrial life,” the affirmative side, of which I was a part, garnered 60% of Debate Union Member votes on the question. Ninety-two percent of 100,000 people calling during a TV Debate in London on June 27, 1997, said Earth has been visited by aliens!
+It’s clear that over 97% of the people have NOT read any of the five major scientific 
+studies I discuss, and are unaware of the mountains of evidence that support my conclusions. 
+They are also unaware of the scientific data, as opposed to tabloid nonsense. However, 
+it is also clear from the Opinion Polls and from my own experience that indeed most people 
+accept the notion that SOME UFOs are alien spacecraft. The greater the education, the MORE 
+likely an individual is to accept this proposition. In an October 25, 1995, Oxford 
+University Debate on the resolution “Planet Earth is being visited by intelligent 
+extraterrestrial life,” the affirmative side, of which I was a part, garnered 60% 
+of Debate Union Member votes on the question. Ninety-two percent of 100,000 people 
+calling during a TV Debate in London on June 27, 1997, said Earth has been visited 
+by aliens!
 
-The problem is NOT that there is not enough evidence to justify my conclusions; but that most people, especially the noisy negativists, are unaware of the real, non-tabloid evidence.
+The problem is NOT that there is not enough evidence to justify my conclusions; 
+but that most people, especially the noisy negativists, are unaware of the real, 
+non-tabloid evidence.
 
 Debunkers seem to employ four major rules:
-What the public doesn’t know, we certainly won’t tell them. The largest official USAF UFO study isn’t even mentioned in twelve anti-UFO books, though every one of those books’ authors was aware of it.
+What the public doesn’t know, we certainly won’t tell them. The largest official 
+USAF UFO study isn’t even mentioned in twelve anti-UFO books, though every one 
+of those books’ authors was aware of it.
 
 Don’t bother me with the facts, my mind is made up.
 
 If one can’t attack the data, attack the people. It is easier.
 
-Do one’s research by proclamation rather than investigation. It is much easier, and nobody will know the difference anyway.
-Many major media people will concede that if indeed aliens are visiting earth, that would be a major story. But because they take great pride in their KNOWLEDGE of major stories, if this were happening they would know about it. But they don’t. Therefore, anybody who says visits are real must be a crackpot.
+Do one’s research by proclamation rather than investigation. It is much easier, 
+and nobody will know the difference anyway.
+Many major media people will concede that if indeed aliens are visiting earth, 
+that would be a major story. But because they take great pride in their KNOWLEDGE 
+of major stories, if this were happening they would know about it. But they don’t. 
+Therefore, anybody who says visits are real must be a crackpot.
 
-I have noted four major reasons why the big names in science and journalism haven’t jumped on the pro-UFO bandwagon:
-Ignorance of the data. Scratch a debunker and one usually finds somebody who is putting down what he is not up on.
+I have noted four major reasons why the big names in science and journalism haven’t 
+jumped on the pro-UFO bandwagon:
+Ignorance of the data. Scratch a debunker and one usually finds somebody who is 
+putting down what he is not up on.
 
-Fear of ridicule in sponsoring a thesis (only about ten have been submitted relating to UFOs) if a professor, or sponsoring a detailed reportorial investigation if an editor. I check all my audiences and find that, while in agreement with polls, 10% have had a sighting but only 5-10% of these witnesses have been willing to report what they saw. Biggest reason? Fear of ridicule.
+Fear of ridicule in sponsoring a thesis (only about ten have been submitted relating 
+to UFOs) if a professor, or sponsoring a detailed reportorial investigation if an 
+editor. I check all my audiences and find that, while in agreement with polls, 10% 
+have had a sighting but only 5-10% of these witnesses have been willing to report 
+what they saw. Biggest reason? Fear of ridicule.
 
-Ego. If aliens were visiting Earth, they would call a press conference or ask to talk to the National Academy of Sciences. They haven’t, so aliens must not be visiting. Flying saucers finish the job Copernicus started in taking man out of the middle of the universe. Priests fought Copernicus’s ideas. Today guys in lab coats, rather than priestly robes, fight alien visitations.
+Ego. If aliens were visiting Earth, they would call a press conference or ask to 
+talk to the National Academy of Sciences. They haven’t, so aliens must not be visiting. 
+Flying saucers finish the job Copernicus started in taking man out of the middle 
+of the universe. Priests fought Copernicus’s ideas. Today guys in lab coats, rather 
+than priestly robes, fight alien visitations.
 
-Failure to use our knowledge of technology to understand UFO behavior. They say “It is impossible,” rather than “I don’t know how.” Despite the absurd claims of certain ancient academics and fossilized physicists, it is clear on the basis of solid engineering studies that trips to nearby stars are feasible with round trip times shorter than the average person’s lifetime — using, for example, staged fission and fusion propulsion systems. I have worked on both. It’s clear that technological progress comes from doing things differently in an unpredictable way. The history of science is littered with challenges, leveled by people who know nothing about the job at hand, against traditionally “impossible” claims.
-The cult of S.E.T.I. (Silly Effort To Investigate) with its crazy notions that nobody would travel — but that aliens, stuck at the level of radio, are trying to attract our attention — mocks the notion of flying saucers, not by dealing with the evidence, but by proclamations about the ABSENCE of evidence. This ignores science.
+Failure to use our knowledge of technology to understand UFO behavior. They say 
+“It is impossible,” rather than “I don’t know how.” Despite the absurd claims of 
+certain ancient academics and fossilized physicists, it is clear on the basis of 
+solid engineering studies that trips to nearby stars are feasible with round trip 
+times shorter than the average person’s lifetime — using, for example, staged fission 
+and fusion propulsion systems. I have worked on both. It’s clear that technological 
+progress comes from doing things differently in an unpredictable way. The history 
+of science is littered with challenges, leveled by people who know nothing about 
+the job at hand, against traditionally “impossible” claims.
+The cult of S.E.T.I. (Silly Effort To Investigate) with its crazy notions that 
+nobody would travel — but that aliens, stuck at the level of radio, are trying 
+to attract our attention — mocks the notion of flying saucers, not by dealing with 
+the evidence, but by proclamations about the ABSENCE of evidence. This ignores 
+science.
 
-I prove at every lecture that the NSA and CIA are withholding UFO data. Having worked under security for fourteen years, visited seventeen document archives, and having become aware of the huge black budgets of the NSA, NRO, CIA, DIA, etc., I know how easy it is to keep secrets. My nineteen years of study about crashed saucers, and thirteen years on the Majestic-12 documents have convinced me these are real. The challenge for us all, as we enter the new millennium, is to recognize that while our future is in space, we are not alone. I truly hope we qualify for admission to the Cosmic Kindergarten.
+I prove at every lecture that the NSA and CIA are withholding UFO data. Having 
+worked under security for fourteen years, visited seventeen document archives, 
+and having become aware of the huge black budgets of the NSA, NRO, CIA, DIA, etc., 
+I know how easy it is to keep secrets. My nineteen years of study about crashed 
+saucers, and thirteen years on the Majestic-12 documents have convinced me these 
+are real. The challenge for us all, as we enter the new millennium, is to recognize 
+that while our future is in space, we are not alone. I truly hope we qualify for 
+admission to the Cosmic Kindergarten.
 
 Stanton Friedman
  
@@ -353,19 +458,26 @@ Paola Harris
    style="width:35%" />
 </p>
 
-Italian investigative journalist Paola Leopizzi Harris and French-born information scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico crash in 1945, fully two years before the well-known incident at Roswell and the famous sighting by pilot Kenneth Arnold in 1947.
+Italian investigative journalist Paola Leopizzi Harris and French-born information 
+scientist Dr. Jacques F. Vallée have teamed up to uncover the details of a New Mexico 
+crash in 1945, fully two years before the well-known incident at Roswell and the 
+famous sighting by pilot Kenneth Arnold in 1947.
 
 Latest News
-The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative reporter and photojournalist In August of 2020, we all went Le Marais…
+The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative 
+reporter and photojournalist In August of 2020, we all went Le Marais…
 
 Links & Resources
-Exopolitics Italy is a website created by Paola Harris, MEd., for various Exopolitics initiatives in Italy. Paola is author of Exopolitics: How Do You Speak to…
+Exopolitics Italy is a website created by Paola Harris, MEd., for various Exopolitics 
+initiatives in Italy. Paola is author of Exopolitics: How Do You Speak to…
  
 Interviews
-The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative reporter and photojournalist In August of 2020, we all went Le Marais…
+The Evolution of Jacques Vallée A personal reflection by Paola Harris, investigative 
+reporter and photojournalist In August of 2020, we all went Le Marais…
  
 Contact
-Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Open Minds: View this “Beyond Belief” episode: HELP FUND PAOLA’S FIELD RESEARCH!
+Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Open Minds: 
+View this “Beyond Belief” episode: HELP FUND PAOLA’S FIELD RESEARCH!
 
 
 <div align="right">
@@ -375,7 +487,6 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ joni strother ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Joni Strother</h4>
 
    - Abductee
@@ -386,7 +497,12 @@ Paola Harris on GAIA “Open Minds:” Watch “Secrets of Contact” on GAIA Op
    style="width:50%" />
 </p>
 
-Abductee Joni Strother described her traumatic encounters with the aliens, whom she views as sinister entities. Over the years, she believes she's mothered five hybrid children and during a recent abduction she was shown a hybrid camp being guarded by soldiers. There were some 500 hybrids there, and in her interactions with them, they inquired about basic skills such as personal hygiene and how to cook.
+Abductee Joni Strother described her traumatic encounters with the aliens, whom 
+she views as sinister entities. Over the years, she believes she's mothered five 
+hybrid children and during a recent abduction she was shown a hybrid camp being 
+guarded by soldiers. There were some 500 hybrids there, and in her interactions 
+with them, they inquired about basic skills such as personal hygiene and how to 
+cook.
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -395,7 +511,6 @@ Abductee Joni Strother described her traumatic encounters with the aliens, whom 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ roger leir ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Roger Leir</h4>
 
    - Author, The Aliens and the Scalpel
@@ -407,7 +522,11 @@ Abductee Joni Strother described her traumatic encounters with the aliens, whom 
 </p>
 <!-- https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png" -->
 
-Dr. Roger K. Leir is one of the world's most important leaders in physical evidence research involving the field of Ufology. In this special session he will reveal scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private practice for the past 43 years and has written numerous books including The Aliens and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
+Dr. Roger K. Leir is one of the world's most important leaders in physical evidence 
+research involving the field of Ufology. In this special session he will reveal 
+scientific proof that WE ARE NOT ALONE.  Dr. Leir is a podiatric surgeon, in private 
+practice for the past 43 years and has written numerous books including The Aliens 
+and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
  
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -417,7 +536,6 @@ Dr. Roger K. Leir is one of the world's most important leaders in physical evide
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim sparks ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Jim Sparks
 
   - Author, The Keepers
@@ -434,7 +552,6 @@ Jim Sparks
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ niara isley ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Niara Isley
 
   - Abductee
@@ -454,7 +571,6 @@ Niara Isley
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ lyn buchanan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Lyn Buchanan
 
   - Director, The PSI Institute
@@ -472,7 +588,6 @@ Lyn Buchanan
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nassim haramein ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Nassim Haramein
 
   - Director, The Resonance Project Foundation
@@ -490,7 +605,6 @@ Nassim Haramein
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david jacobs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 David Jacobs
 
   - Historian & Hypnotherapist
@@ -510,7 +624,6 @@ David Jacobs
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nick pope ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Nick Pope
 
   - Former Head of the British Government's UFO Project
@@ -529,7 +642,6 @@ Nick Pope
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ milton torres ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Milton Torres
   
   - Former USAF Fighter Pilot & Astronaut
@@ -547,7 +659,6 @@ Milton Torres
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ edgar mitchell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Edgar D. Mitchell
 
   - Former Astronaut, 6th man on the moon
@@ -568,7 +679,6 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james penniston ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 James Penniston
 
  - Sergeant USAF Retired
@@ -586,8 +696,7 @@ James Penniston
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david icke ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david icke ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 David Icke
   
   - Author, The Biggest Secret
@@ -605,8 +714,7 @@ David Icke
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jaime maussan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jaime maussan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Jaime Maussan
   
   - TV Producer
@@ -624,8 +732,7 @@ Jaime Maussan
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ john b. alexander ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ john b. alexander ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 John B. Alexander
    
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
@@ -643,8 +750,7 @@ John B. Alexander
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paul hellyer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paul hellyer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Paul Hellyer
   
   - Former Canadian Defense Secretary
@@ -662,8 +768,7 @@ Paul Hellyer
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ charles hall ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ charles hall ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Charles Hall
   
   - Retired US Army Duty Weather Observer
@@ -682,7 +787,6 @@ Charles Hall
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david huggins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 David Huggins
   
   - Painter & Experiencer
@@ -700,8 +804,7 @@ David Huggins
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ clifford e. stone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ clifford e. stone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Clifford E. Stone
   
   - Retired US Army Sergeant
@@ -719,8 +822,7 @@ Clifford E. Stone
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ derrel w. sims ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ derrel w. sims ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Derrel W. Sims
   
   - Private Investigator
@@ -738,8 +840,7 @@ Derrel W. Sims
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james gilliland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james gilliland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 James Gilliland
   
   - Director, ECETI
@@ -757,8 +858,7 @@ James Gilliland
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ budd hopkins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ budd hopkins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Budd Hopkins
 
   - Ufologist
@@ -777,7 +877,6 @@ Budd Hopkins
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ philip j. corso ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
   <img src="./images/1947-roswell-autopsy.webp"
   style="width:650;height:500"
@@ -820,7 +919,6 @@ Different parts of the Roswell craft were sent to various defense companies, who
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gordon novel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Gordon Novel
 
   - Self - Former CIA Operative
@@ -837,8 +935,7 @@ He is charming, bold, uncompromising in his vision and determined to change the 
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim marrs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim marrs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Jim Marrs
 
   - Self - Author, Alien Agenda
@@ -857,7 +954,6 @@ Jim Marrs
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ linda moulton howe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Linda Moulton Howe
 
   - Self - TV Producer
@@ -878,8 +974,7 @@ Linda Moulton Howe
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ dan burisch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ dan burisch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Dan Burisch
 
   - Retired Government Microbiologist
@@ -1234,39 +1329,76 @@ Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology)
 
 INTRODUCTION:
 
-John Lear, retired airline captain, with over 19,000 hours of flight-time, has flown in over 100 different types of planes in 60 different counties around the world.
+John Lear, retired airline captain, with over 19,000 hours of flight-time, has flown 
+in over 100 different types of planes in 60 different counties around the world.
 
-Son of Lear Jet inventor, Bill Lear, John is the only pilot to hold every FAA airplane certificate, to include airplane transport rating, flight instructor, ground instructor, flight navigator, engineer, aircraft dispatcher, airframe powerplant mechanic, parachute rigger, and tower operator.
+Son of Lear Jet inventor, Bill Lear, John is the only pilot to hold every FAA airplane 
+certificate, to include airplane transport rating, flight instructor, ground instructor, 
+flight navigator, engineer, aircraft dispatcher, airframe powerplant mechanic, parachute 
+rigger, and tower operator.
 
-He flew secret missions for the CIA in Central and Southeast Asia, Eastern Europe, the Middle East and Africa between 1966 and 1983. He has flown as Captain and check pilot for over 10 different airlines.
+He flew secret missions for the CIA in Central and Southeast Asia, Eastern Europe, the 
+Middle East and Africa between 1966 and 1983. He has flown as Captain and check pilot 
+for over 10 different airlines.
 
-John held 17 world records including speed around the world in a Lear Jet Model 24, set in 1966. He was presented with the PATCO award for outstanding airmanship in 1968, and the Symons Wave memorial. He was the youngest American to climb the Matterhorn in Switzerland in 1959 and in the 1970's owned and skippered the Americas Cup boat, the Soliloquy, out of Marina Del Rey.
+John held 17 world records including speed around the world in a Lear Jet Model 24, 
+set in 1966. He was presented with the PATCO award for outstanding airmanship in 
+1968, and the Symons Wave memorial. He was the youngest American to climb the Matterhorn 
+in Switzerland in 1959 and in the 1970's owned and skippered the Americas Cup boat, 
+the Soliloquy, out of Marina Del Rey.
 
 In 1968, John raced a Douglas B26 Invader in the unlimited class at the Reno air races.  
 
-He was a Senior Vice Commander of the China Post 1, the American Legion Post for Soldiers of Fortune.  He is a 20 year member of the special operations Association.
+He was a Senior Vice Commander of the China Post 1, the American Legion Post for 
+Soldiers of Fortune.  He is a 20 year member of the special operations Association.
 
-John is the current owner and operator of the only permitted gold mine operation Cutthroat Mining Corporation in Clarke County, Nevada. His efforts to clean up the Treasure Hawk Gold Butte mine won him the state of Nevada award for excellence in mining reclamation in 1999.  John is a MSHA (Mine, Safety, and Health Administration) and holds a blaster license from the Nevada certified mining instructor from the Nevada State Fire Marshall.
+John is the current owner and operator of the only permitted gold mine operation 
+Cutthroat Mining Corporation in Clarke County, Nevada. His efforts to clean up the 
+Treasure Hawk Gold Butte mine won him the state of Nevada award for excellence in 
+mining reclamation in 1999.  John is a MSHA (Mine, Safety, and Health Administration) 
+and holds a blaster license from the Nevada certified mining instructor from the 
+Nevada State Fire Marshall.
 
-John's passion for the preservation and documentation of the history of the Gold Butte  has made him a authority on the area.
+John's passion for the preservation and documentation of the history of the Gold 
+Butte  has made him a authority on the area.
 
-John has been a resident of Las Vegas since 1994 and was a republican State Senate candidate in 1980.
+John has been a resident of Las Vegas since 1994 and was a republican State Senate 
+candidate in 1980.
 
-John has 4 daughters, 2 grandchildren, and lives with his wife in Las Vegas. - Las Vegas businesswoman, Mary Lee Lear in Sunrise Manor.
+John has 4 daughters, 2 grandchildren, and lives with his wife in Las Vegas. - Las 
+Vegas businesswoman, Mary Lee Lear in Sunrise Manor.
 
-In 1988, John met and became friends with Bob Lazar, the government scientist who worked on the back-engineering of the propulsion system of the extraterrestrial UFOs at area S-4. That's just outside the infamous and ultrasecret Area 51.
+In 1988, John met and became friends with Bob Lazar, the government scientist who 
+worked on the back-engineering of the propulsion system of the extraterrestrial 
+UFOs at area S-4. That's just outside the infamous and ultrasecret Area 51.
 
-In March 1989, Lazar took John to an area close to Rachel Nevada where he witnessed the flight of a flying saucer at the exact time Lazar told him it would occur.
+In March 1989, Lazar took John to an area close to Rachel Nevada where he witnessed 
+the flight of a flying saucer at the exact time Lazar told him it would occur.
 
-Two weeks later on another UFO spying mission, John, Lazar and 3 others were caught by security forces - (that's CAUGHT folks) - and the next day, - the very next day - Lazar lost his job at the government program for that breach of security. Lazar has been branded by many as a fraud, a charge to which John responds, " Those who say that Lazar was a fraud simply don't know the facts of this incredible 12 month period.  I was there - they weren't."
+Two weeks later on another UFO spying mission, John, Lazar and 3 others were caught 
+by security forces - (that's CAUGHT folks) - and the next day, - the very next day - 
+Lazar lost his job at the government program for that breach of security. Lazar has 
+been branded by many as a fraud, a charge to which John responds, " Those who say 
+that Lazar was a fraud simply don't know the facts of this incredible 12 month 
+period.  I was there - they weren't."
 
-During the late 1980's, John tracked down and found the Army Intelligence Analyst who read, probably by accident, the U.S. government report Grudge 13, which documented the history of the U.S. UFO coverup and details of saucer recoveries, disposition of their occupants, and handling  (That's HANDLING) of civilian witnesses.
+During the late 1980's, John tracked down and found the Army Intelligence Analyst 
+who read, probably by accident, the U.S. government report Grudge 13, which documented 
+the history of the U.S. UFO coverup and details of saucer recoveries, disposition of 
+their occupants, and handling  (That's HANDLING) of civilian witnesses.
 
-The report included clear photographs of these recovered extraterrestrial craft and beings - (That's BEINGS) found inside. It further detailed how recoveries were made worldwide and specially designed transports to accommodate the craft.
+The report included clear photographs of these recovered extraterrestrial craft and 
+beings - (That's BEINGS) found inside. It further detailed how recoveries were made 
+worldwide and specially designed transports to accommodate the craft.
 
-John spent time poking around other UFO related areas to include Dulce, Secora, Aztec, Alamagorda, Albuquerque, Los Alamos and Bentwaters airbase near London.
+John spent time poking around other UFO related areas to include Dulce, Secora, 
+Aztec, Alamagorda, Albuquerque, Los Alamos and Bentwaters airbase near London.
 
-Since that time, John has learned many incredible and interesting facts about the solar system and planets including the existence of huge structures, arches, bridges and domes on the moon, cities on Mars, huge extraterrestrial ships mining the rings of Saturn, the incredible but secret agenda of Apollo 17, to the huge rectangular opening in the south massif of the Taurus-Littrow Highlands called Nansen.
+Since that time, John has learned many incredible and interesting facts about the 
+solar system and planets including the existence of huge structures, arches, bridges 
+and domes on the moon, cities on Mars, huge extraterrestrial ships mining the rings 
+of Saturn, the incredible but secret agenda of Apollo 17, to the huge rectangular 
+opening in the south massif of the Taurus-Littrow Highlands called Nansen.
 
 NASA Photo ID: AS17-137-21011 File Name: 10075963.jpg
 
@@ -1286,14 +1418,29 @@ is on the horizon at the left edge.  (Apollo 17 samples)
 
 NOTE: The Valley of Taurus-Littrow
 
-The image linked here is a portion of Pan Camera frame AS17-2309 showing the South Massif at the upper right and the Sculptured Hills at the lower left. The North Massif is at the bottom right and Henry Crater is the rightmost of the three large craters in a triangular pattern at the foot of the mountain. This orientation is to facilitate comparison with features in the Station 6 high resolution images below. See also the labeled version of this frame. The distance from Station 6 above Henry to the LM is 3.5 km; to Bear Mountain, about 8 km; and to the outcrop noted in 21498 below, about 18 km. Scans by Ron Wells.
+The image linked here is a portion of Pan Camera frame AS17-2309 showing the South 
+Massif at the upper right and the Sculptured Hills at the lower left. The North 
+Massif is at the bottom right and Henry Crater is the rightmost of the three large 
+craters in a triangular pattern at the foot of the mountain. This orientation is to 
+facilitate comparison with features in the Station 6 high resolution images below. 
+See also the labeled version of this frame. The distance from Station 6 above Henry 
+to the LM is 3.5 km; to Bear Mountain, about 8 km; and to the outcrop noted in 21498 
+below, about 18 km. Scans by Ron Wells.
 
 Apollo 17 Pan Camera frame AS17-2309 Details
 
-The frame was taken on December 11, 1972 at 23:47:38.1 GMT during CSM Rev 15 from an altitude of 113.07 km. In terms of the mission time, the photo was taken at
-116:54:38 -- just seven minutes before Gene and Jack started their watches for the first EVA. John Pfannerstill has scanned three portions of the frame.
+The frame was taken on December 11, 1972 at 23:47:38.1 GMT during CSM Rev 15 from 
+an altitude of 113.07 km. In terms of the mission time, the photo was taken at
+116:54:38 -- just seven minutes before Gene and Jack started their watches for the 
+first EVA. John Pfannerstill has scanned three portions of the frame.
 
-In the central area around the LM, the largest crater is Camelot at the upper left. A labeled version highlights the LM and Poppie. In the area north of the LM, covering the EVA-3 traverse, Henry is the large crater at the foot of the North Massif just above and to the right of the center of the image. In the area west of the LM, covering the EVA-2 traverse, Nansen is at the lower left, Camelot is at the right edge above center, and Shorty is the sharp-rimmed, dark-edged crater at top center, about a Camelot diameter below the top edge of the image.
+In the central area around the LM, the largest crater is Camelot at the upper left. 
+A labeled version highlights the LM and Poppie. In the area north of the LM, covering 
+the EVA-3 traverse, Henry is the large crater at the foot of the North Massif just 
+above and to the right of the center of the image. In the area west of the LM, covering 
+the EVA-2 traverse, Nansen is at the lower left, Camelot is at the right edge above 
+center, and Shorty is the sharp-rimmed, dark-edged crater at top center, about a 
+Camelot diameter below the top edge of the image.
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
