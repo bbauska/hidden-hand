@@ -11,7 +11,6 @@ hidden-hand: "The Hidden Hand - Alien Contact and the Government Coverup"
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ the hidden hand - alien contact and the government coverup ~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <blockquote>
 There are more things in heaven and earth, Horatio,
 than are dreamt of in your philosophy.
@@ -22,7 +21,6 @@ than are dreamt of in your philosophy.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ autopsy photo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
   width="650" height="500"
@@ -46,7 +44,6 @@ researchers & contactees.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~ the hidden hand - alien contact and the government coverup ~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <blockquote>
 The Hidden Hand is a controversial Award-winning documentary that explores the 
 possibility, make that probability of an extraterrestrial presence here on Earth. 
@@ -75,7 +72,6 @@ of UFOs is suddenly brought to light.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ albert einstein ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Albert Einstein (1879-1955)</h4>
 
 <p align="center" width="100%">
@@ -162,7 +158,6 @@ and that were unknown to science.</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ victor hugo ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Victor Hugo (Feb/1802 - May/1885)</h4>
 
   - Poet, novelist. Les Misérables (1862), and dramatist
@@ -190,7 +185,6 @@ Les Misérables (1862).
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ harry reid ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Harry Reid - (Dec/1939-Dec/2021)</h4>
 
 <p align="center" width="100%">
@@ -211,7 +205,6 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ chuck weiss ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Chuck Weiss</h4>
 
    - Author. How I Learned to Cope with High Strangeness...
@@ -233,7 +226,6 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ richard dolan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Richard Dolan (7/1962)</h4>
 
    - Author. UFOs & The National Security State
@@ -273,7 +265,6 @@ and subsequent "closing of the door" during the Nixon administration.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ whitley streiber ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Whitley Strieber</h4>
 
    - Author, Communion
@@ -299,7 +290,6 @@ and subsequent "closing of the door" during the Nixon administration.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ robert dean ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Robert Dean</h4>
 
    - Retired U.S. Army Command Sergeant Major
@@ -447,8 +437,7 @@ Stanton Friedman
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paola harris ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Paola Harris
+<h4>Paola Harris</h4>
 
    - Author, Connecting the Dots
 
@@ -536,7 +525,7 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim sparks ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Jim Sparks
+<h4>Jim Sparks</h4>
 
   - Author, The Keepers
 
@@ -552,7 +541,7 @@ Jim Sparks
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ niara isley ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Niara Isley
+<h4>Niara Isley</h4>
 
   - Abductee
 
@@ -571,7 +560,7 @@ Niara Isley
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ lyn buchanan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Lyn Buchanan
+<h4>Lyn Buchanan</h4>
 
   - Director, The PSI Institute
 
@@ -588,7 +577,7 @@ Lyn Buchanan
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nassim haramein ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Nassim Haramein
+<h4>Nassim Haramein</h4>
 
   - Director, The Resonance Project Foundation
 
@@ -605,7 +594,7 @@ Nassim Haramein
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david jacobs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-David Jacobs
+<h4>David Jacobs</h4>
 
   - Historian & Hypnotherapist
   
@@ -624,7 +613,7 @@ David Jacobs
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nick pope ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Nick Pope
+<h4>Nick Pope</h4>
 
   - Former Head of the British Government's UFO Project
 
@@ -642,7 +631,7 @@ Nick Pope
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ milton torres ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Milton Torres
+<h4>Milton Torres</h4>
   
   - Former USAF Fighter Pilot & Astronaut
 
@@ -659,7 +648,7 @@ Milton Torres
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ edgar mitchell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Edgar D. Mitchell
+<h4>Edgar D. Mitchell</h4>
 
   - Former Astronaut, 6th man on the moon
 
@@ -679,7 +668,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james penniston ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-James Penniston
+<h4>James Penniston</h4>
 
  - Sergeant USAF Retired
 
@@ -697,7 +686,7 @@ James Penniston
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david icke ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-David Icke
+<h4>David Icke</h4>
   
   - Author, The Biggest Secret
 
@@ -715,7 +704,7 @@ David Icke
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jaime maussan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Jaime Maussan
+<h4>Jaime Maussan</h4>
   
   - TV Producer
 
@@ -733,7 +722,7 @@ Jaime Maussan
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ john b. alexander ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-John B. Alexander
+<h4>John B. Alexander</h4>
    
   - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
 
@@ -751,7 +740,7 @@ John B. Alexander
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paul hellyer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Paul Hellyer
+<h4>Paul Hellyer</h4>
   
   - Former Canadian Defense Secretary
 
@@ -769,7 +758,7 @@ Paul Hellyer
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ charles hall ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Charles Hall
+<h4>Charles Hall</h4>
   
   - Retired US Army Duty Weather Observer
 
@@ -787,7 +776,7 @@ Charles Hall
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david huggins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-David Huggins
+<h4>David Huggins</h4>
   
   - Painter & Experiencer
 
@@ -805,7 +794,7 @@ David Huggins
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ clifford e. stone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Clifford E. Stone
+<h4>Clifford E. Stone</h4>
   
   - Retired US Army Sergeant
 
@@ -823,7 +812,7 @@ Clifford E. Stone
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ derrel w. sims ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Derrel W. Sims
+<h4>Derrel W. Sims</h4>
   
   - Private Investigator
 
@@ -841,7 +830,7 @@ Derrel W. Sims
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james gilliland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-James Gilliland
+<h4>James Gilliland</h4>
   
   - Director, ECETI
 
@@ -859,7 +848,7 @@ James Gilliland
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ budd hopkins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Budd Hopkins
+<h4>Budd Hopkins</h4>
 
   - Ufologist
 
@@ -896,20 +885,38 @@ Budd Hopkins
 <h4>Background</h4>
 Philip James Corso (May 22, 1915 – July 16, 1998) was an American Army officer.
 
-He served in the United States Army from February 23, 1942, to March 1, 1963, and earned the rank of Lieutenant Colonel.
+He served in the United States Army from February 23, 1942, to March 1, 1963, and 
+earned the rank of Lieutenant Colonel.
 
-Corso published The Day After Roswell, about how he was involved in the research of extraterrestrial technology recovered from the 1947 Roswell UFO Incident. On July 23, 1997, he was a guest on the popular late night radio show, Coast to Coast AM with Art Bell where he spoke live about his Roswell story. This interview was rebroadcast by Coast to Coast AM on July 3, 2010.
+Corso published The Day After Roswell, about how he was involved in the research of 
+extraterrestrial technology recovered from the 1947 Roswell UFO Incident. On July 23, 
+1997, he was a guest on the popular late night radio show, Coast to Coast AM with Art 
+Bell where he spoke live about his Roswell story. This interview was rebroadcast by 
+Coast to Coast AM on July 3, 2010.
 
 <h4>The Day After Roswell</h4>
-In his book The Day After Roswell (co-author William J. Birnes) claims he stewarded extraterrestrial artifacts recovered from a crash near Roswell, New Mexico, in 1947.
+In his book The Day After Roswell (co-author William J. Birnes) claims he stewarded 
+extraterrestrial artifacts recovered from a crash near Roswell, New Mexico, in 1947.
 
-Corso says a covert government group was assembled under the leadership of the first Director of Central Intelligence, Adm. Roscoe H. Hillenkoetter. Among its tasks was to collect all information on off-planet technology. The US administration simultaneously discounted the existence of flying saucers in the eyes of the public, Corso says.
+Corso says a covert government group was assembled under the leadership of the first 
+Director of Central Intelligence, Adm. Roscoe H. Hillenkoetter. Among its tasks was 
+to collect all information on off-planet technology. The US administration simultaneously 
+discounted the existence of flying saucers in the eyes of the public, Corso says.
 
-According to Corso, the reverse engineering of these artifacts indirectly led to the development of accelerated particle beam devices, fiber optics, lasers, integrated circuit chips and Kevlar material.
+According to Corso, the reverse engineering of these artifacts indirectly led to 
+the development of accelerated particle beam devices, fiber optics, lasers, integrated 
+circuit chips and Kevlar material.
 
-In the book, Corso claims the Strategic Defense Initiative (SDI), or “Star Wars”, was meant to achieve the destructive capacity of electronic guidance systems in incoming enemy warheads, as well as the disabling of enemy spacecraft, including those of extraterrestrial origin.
+In the book, Corso claims the Strategic Defense Initiative (SDI), or “Star Wars”, 
+was meant to achieve the destructive capacity of electronic guidance systems in 
+incoming enemy warheads, as well as the disabling of enemy spacecraft, including 
+those of extraterrestrial origin.
 
-Different parts of the Roswell craft were sent to various defense companies, who reverse engineered their properties. This engineering feat eventually led to a number of breakthroughs. Among them were integrated circuitry, night vision equipment, the laser, particle beams, and fiber optics. The contractors were told that the parts were stolen from Russia.
+Different parts of the Roswell craft were sent to various defense companies, who 
+reverse engineered their properties. This engineering feat eventually led to a number 
+of breakthroughs. Among them were integrated circuitry, night vision equipment, the 
+laser, particle beams, and fiber optics. The contractors were told that the parts 
+were stolen from Russia.
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -919,14 +926,27 @@ Different parts of the Roswell craft were sent to various defense companies, who
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gordon novel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Gordon Novel
+<h4>Gordon Novel</h4>
 
   - Self - Former CIA Operative
 
 
-Gordon Novel is a fascinating man. Carried along on the train of history, Gordon Novel has had a front seat to many of the most controversial chapters in U.S. history. From the Kennedy assassination to Watergate, Waco and beyond, Gordon has really seen it all. In his first interview for over a decade, he gives us a glimpse of his role and perspective on a multitude of subjects including; the Vietnam war, Saddam Hussein and his trial, Majestic and the CIA, UFOs, the 'Extraterrestrial Revolution' and much more.
+Gordon Novel is a fascinating man. Carried along on the train of history, Gordon 
+Novel has had a front seat to many of the most controversial chapters in U.S. history. 
+From the Kennedy assassination to Watergate, Waco and beyond, Gordon has really 
+seen it all. In his first interview for over a decade, he gives us a glimpse of 
+his role and perspective on a multitude of subjects including; the Vietnam war, 
+Saddam Hussein and his trial, Majestic and the CIA, UFOs, the 'Extraterrestrial 
+Revolution' and much more.
    
-He is charming, bold, uncompromising in his vision and determined to change the world. We are given a special look at Gordon's new quest to bring free energy to the world, along with news of his proposed motion picture in development, KINGDOMS COME, in a deal being brokered with some of the biggest names in Hollywood. With the support of the CIA, he believes his vision of a world set free from the confines of oil and gas will become a reality. A big picture thinker with a strong will and an indomitable spirit, he is forging ahead against all odds. His fierce dedication is something to behold and we wish him every success in his quest.
+He is charming, bold, uncompromising in his vision and determined to change the 
+world. We are given a special look at Gordon's new quest to bring free energy to 
+the world, along with news of his proposed motion picture in development, KINGDOMS 
+COME, in a deal being brokered with some of the biggest names in Hollywood. With 
+the support of the CIA, he believes his vision of a world set free from the confines 
+of oil and gas will become a reality. A big picture thinker with a strong will and 
+an indomitable spirit, he is forging ahead against all odds. His fierce dedication 
+is something to behold and we wish him every success in his quest.
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -936,7 +956,7 @@ He is charming, bold, uncompromising in his vision and determined to change the 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim marrs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Jim Marrs
+<h4>Jim Marrs</h4>
 
   - Self - Author, Alien Agenda
 
@@ -954,7 +974,7 @@ Jim Marrs
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ linda moulton howe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Linda Moulton Howe
+<h4>Linda Moulton Howe</h4>
 
   - Self - TV Producer
 
@@ -975,7 +995,7 @@ Linda Moulton Howe
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ dan burisch ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Dan Burisch
+<h4>Dan Burisch</h4>
 
   - Retired Government Microbiologist
 
@@ -1040,8 +1060,7 @@ as he eventually came to call them.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ graham hancock ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Graham Hancock
+<h4>Graham Hancock</h4>
 
   - Author, Fingerprints of the Gods
 
@@ -1061,8 +1080,7 @@ https://grahamhancock.com/hazex1/
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ melinda leslie ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Melinda Leslie
+<h4>Melinda Leslie</h4>
 
   - Researcher & Abductee
 
@@ -1086,7 +1104,6 @@ in 25 books by prominent authors in ufology.</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jesse long ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Jesse Long</h4>
 
   - Abductee
@@ -1107,8 +1124,7 @@ https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-a
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ yvonne smith ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Yvonne Smith
+<h4>Yvonne Smith</h4>
 
   - Hypnotherapist
 
@@ -1130,8 +1146,7 @@ https://northernencounters.wixsite.com/ufo1/yvonne-smith
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ marc brinkerhoff ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Marc Brinkerhoff
+<h4>Marc Brinkerhoff</h4>
 
   - Contactee & Artist
 
@@ -1169,8 +1184,7 @@ https://www.youtube.com/watch?v=u0xxVydxhzc
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ shelley yates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Shelley Yates
+<h4>Shelley Yates</h4>
 
   - Director, Fire the Grid
 
@@ -1188,8 +1202,7 @@ Shelley Yates
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ julian michael ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Julian Michael
+<h4>Julian Michael</h4>
 
   - Hypnotherapist
 
@@ -1209,8 +1222,7 @@ Julian Michael
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ j.j. hurtak ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-J.J. Hurtak
+<h4>J.J. Hurtak</h4>
 
   - Author, The Keys of Enoch
 
@@ -1221,7 +1233,6 @@ J.J. Hurtak
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ melissa reid ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Melissa Reid</h4>
   
    - Experiencer & Artist
@@ -1234,7 +1245,6 @@ J.J. Hurtak
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jeremy vaeni ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Jeremy Vaeni</h4>
 
   - Experiencer & Writer
@@ -1247,7 +1257,6 @@ J.J. Hurtak
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ farah yurdozu ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Farah Yurdozu</h4>
   
   - Experiencer & Researcher
@@ -1259,7 +1268,6 @@ J.J. Hurtak
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ posey gilbert ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Posey Gilbert</h4>
 
   - Experiencer
@@ -1271,7 +1279,6 @@ J.J. Hurtak
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alan white ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Alan White</h4>
 
   - Experiencer & Composer
@@ -1283,7 +1290,6 @@ J.J. Hurtak
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ harold egeln ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Harold Egeln</h4>
 
   - Experiencer & Journalist
@@ -1295,7 +1301,6 @@ J.J. Hurtak
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stephen bassett ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Stephen Bassett</h4>
 
   - Director, Paradigm Research Group
@@ -1307,7 +1312,15 @@ Stephen Bassett
   style="width:50%" />
 </p>
 
-Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) lobbyist in the United States, executive director and treasurer of the political action committee Extraterrestrial Phenomena Political Action Committee and executive director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says it wants end to end the governments imposed truth embargo regarding the facts of extraterrestrials engaging the human race. During the run-up to the presidential election 2014-2016, Bassett met with House and Senate staffers regarding the need for new congressional hearings addressing the modern evidence for an extraterrestrial presence.
+Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology) 
+lobbyist in the United States, executive director and treasurer of the political 
+action committee Extraterrestrial Phenomena Political Action Committee and executive 
+director[1][non-primary source needed] of Paradigm Research Group (PRG)[2] that says 
+it wants end to end the governments imposed truth embargo regarding the facts of 
+extraterrestrials engaging the human race. During the run-up to the presidential 
+election 2014-2016, Bassett met with House and Senate staffers regarding the need 
+for new congressional hearings addressing the modern evidence for an extraterrestrial 
+presence.
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -1316,7 +1329,6 @@ Stephen G. Bassett is the first extraterrestrial life (ET), disclosure (ufology)
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ john lear ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>John Lear</h4>
  
   -  CIA pilot, UFO researcher
@@ -1447,7 +1459,6 @@ Camelot diameter below the top edge of the image.
 </div>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ dr's. j. allen hynek & jacques vallee ~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Dr. J. Allen Hynek (left) and Dr. Jacques Vallée (right)</h4>
  
   - UFOlogists, founder of Close Encounters of the 3rd Kind
@@ -1468,7 +1479,6 @@ Camelot diameter below the top edge of the image.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ leonard stringfield ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Leonard Stringfield (1920-1994)</h4>
  
   - UFOlogist (probably the best ever), writer
@@ -1479,52 +1489,128 @@ Camelot diameter below the top edge of the image.
    style="width:50%" />
 </p>
 
-Leonard Stringfield (1920–1994) was an American ufologist who took particular interest in crashed flying saucer stories. He died in 1994.[1]
+Leonard Stringfield (1920–1994) was an American ufologist who took particular interest 
+in crashed flying saucer stories. He died in 1994.[1]
 
-Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser for the civilian UFO group, National Investigations Committee On Aerial Phenomena (NICAP), under the direction of Donald Keyhoe, a friend since 1953. From 1967 to 1969, Stringfield served as an "Early Warning Coordinator" for the Condon Committee. 
-During the 1970s, he wrote a number of books about alleged recoveries of alien spaceships and alien bodies.
+Stringfield was director of Civilian Research, Interplanetary Flying Objects (CRIFO), 
+and published a monthly newsletter, ORBIT. In 1957 he became public relations adviser 
+for the civilian UFO group, National Investigations Committee On Aerial Phenomena (NICAP), 
+under the direction of Donald Keyhoe, a friend since 1953. From 1967 to 1969, Stringfield 
+served as an "Early Warning Coordinator" for the Condon Committee. 
+During the 1970s, he wrote a number of books about alleged recoveries of alien spaceships 
+and alien bodies.
 
-In 1978, Stringfield served as UFO research adviser to Grenada Prime Minister Sir Eric Gairy. Privately, Stringfield worked as Director of Public Relations and Marketing Services for DuBois Chemicals, a division of Chemed Corporation, Cincinnati. He self-published "Status Reports" on alleged UFO "crash-retrievals" until his death. He died December 18, 1994 after a long battle with lung cancer.[1]
+In 1978, Stringfield served as UFO research adviser to Grenada Prime Minister Sir Eric 
+Gairy. Privately, Stringfield worked as Director of Public Relations and Marketing Services 
+for DuBois Chemicals, a division of Chemed Corporation, Cincinnati. He self-published 
+"Status Reports" on alleged UFO "crash-retrievals" until his death. He died December 18, 
+1994 after a long battle with lung cancer.[1]
 
 <h4>World War II sighting</h4>
 
-Stringfield's interest in the subject began August 28, 1945, just three days before the end of the war, when he was an Army Air Force intelligence officer en route to Tokyo, Japan, along with twelve other specialists in the Fifth Air Force. As they approached Iwo Jima at about ten thousand feet in a sunlit sky, Stringfield related:
+Stringfield's interest in the subject began August 28, 1945, just three days before the 
+end of the war, when he was an Army Air Force intelligence officer en route to Tokyo, 
+Japan, along with twelve other specialists in the Fifth Air Force. As they approached 
+Iwo Jima at about ten thousand feet in a sunlit sky, Stringfield related:
 
->"I was shocked to see three teardrop-shaped objects from my starboard-side window. They were brilliantly white, like burning magnesium, and closing in on a parallel  course to our C-46. Suddenly, our left engine feathered, and I was later to learn that the magnetic navigation-instrument needles went wild. As the C-46 lost  altitude, with oil spurting from the troubled engine, the pilot sounded an alert; crew and passengers were told to prepare for a ditch! I do not recall my thoughts or actions during the next, horrifying moments, but my last glimpse of the three bogies placed them about 20 degrees above the level of our transport. Flying in the same, tight formation, they faded into a cloud bank. Instantly, our craft's engine revved up, and we picked up altitude and flew a steady course to land safely at Iwo Jima."
+>"I was shocked to see three teardrop-shaped objects from my starboard-side window. 
+They were brilliantly white, like burning magnesium, and closing in on a parallel 
+course to our C-46. Suddenly, our left engine feathered, and I was later to learn 
+that the magnetic navigation-instrument needles went wild. As the C-46 lost altitude, 
+with oil spurting from the troubled engine, the pilot sounded an alert; crew and 
+passengers were told to prepare for a ditch! I do not recall my thoughts or actions 
+during the next, horrifying moments, but my last glimpse of the three bogies placed 
+them about 20 degrees above the level of our transport. Flying in the same, tight 
+formation, they faded into a cloud bank. Instantly, our craft's engine revved up, 
+and we picked up altitude and flew a steady course to land safely at Iwo Jima."
 
 <h4>UFO interest rekindled</h4>
 
-Stringfield said his World War II encounter was so traumatic that he tried to forget about it. But he was drawn back into the UFO field in 1950 when two very sincere people related flying saucer sightings to him. Stringfield then wrote:
+Stringfield said his World War II encounter was so traumatic that he tried to forget 
+about it. But he was drawn back into the UFO field in 1950 when two very sincere people 
+related flying saucer sightings to him. Stringfield then wrote:
 
-"This one experience near Iwo Jima was proof enough to me in 1950 that the 'foo fighter' of World War II--sometimes dubbed 'Kraut fireball' in the European Theater--and the flying saucer were one and the same kind of machine and from the same source: outer space."
+"This one experience near Iwo Jima was proof enough to me in 1950 that the 'foo fighter' 
+of World War II--sometimes dubbed 'Kraut fireball' in the European Theater--and the 
+flying saucer were one and the same kind of machine and from the same source: outer space."
 
-Uneasy about the "rumored loss of Air Force interceptors chasing UFOs, the low-level green fireballs over Sweden and the southwestern United States" and his own experience, Stringfield related he was concerned about the "intent" behind the probes. In March 1954, he created Civilian Research, Interplanetary Flying Objects (CRIFO), and published a monthly newsletter, ORBIT.
+Uneasy about the "rumored loss of Air Force interceptors chasing UFOs, the low-level 
+green fireballs over Sweden and the southwestern United States" and his own experience, 
+Stringfield related he was concerned about the "intent" behind the probes. In March 
+1954, he created Civilian Research, Interplanetary Flying Objects (CRIFO), and published 
+a monthly newsletter, ORBIT.
 
-The newsletter caught the attention of radio newscaster Frank Edwards, who allowed Stringfield to announce it on his popular program in May. Instantly, Stringfield was deluged with mail and newspapers, and radio stations from coast to coast called, wanting saucer news. Stringfield soon had 2500 paid subscribers to ORBIT. During the mid-1950s, CRIFO became the world's largest civilian UFO research group.
+The newsletter caught the attention of radio newscaster Frank Edwards, who allowed 
+Stringfield to announce it on his popular program in May. Instantly, Stringfield 
+was deluged with mail and newspapers, and radio stations from coast to coast called, 
+wanting saucer news. Stringfield soon had 2500 paid subscribers to ORBIT. During the 
+mid-1950s, CRIFO became the world's largest civilian UFO research group.
 
-Then Stringfield wrote, "Also taking note of CRIFO was the Air Force." Stringfield said the Air Defense Command in Columbus, Ohio called him September 9, 1955, and wanted his cooperation in obtaining immediate sighting reports using his large network of sources. To his surprise, he was also informed that the Ground Observer Corps (GOC) in southwestern Ohio had been instructed to report UFO activity directly to him for screening. (Stringfield lived in Cincinnati, Ohio.) He was then to call the ADC using a telephone code number ("Fox Trot Kilo 3-0 Blue") to report the better sightings. He was requested "not to ask any questions."
+Then Stringfield wrote, "Also taking note of CRIFO was the Air Force." Stringfield 
+said the Air Defense Command in Columbus, Ohio called him September 9, 1955, and 
+wanted his cooperation in obtaining immediate sighting reports using his large network 
+of sources. To his surprise, he was also informed that the Ground Observer Corps (GOC) 
+in southwestern Ohio had been instructed to report UFO activity directly to him for 
+screening. (Stringfield lived in Cincinnati, Ohio.) He was then to call the ADC using 
+a telephone code number ("Fox Trot Kilo 3-0 Blue") to report the better sightings. He 
+was requested "not to ask any questions."
 
-Later a member of the GOC informed him as to what happened to his screened reports. If the sighting was confirmed by radar, jets were then scrambled for intercept and the matter became classified. Stringfield recounted one such spectacular incident, on the night of August 23/24, 1955, when multiple UFOs were spotted on radar in the Columbus/Cincinnati region. Numerous jets were sent up for intercept over a wide region, but cloud cover prevented Stringfield from seeing what was happening, though he could hear the jets overhead.
+Later a member of the GOC informed him as to what happened to his screened reports. 
+If the sighting was confirmed by radar, jets were then scrambled for intercept and 
+the matter became classified. Stringfield recounted one such spectacular incident, 
+on the night of August 23/24, 1955, when multiple UFOs were spotted on radar in the 
+Columbus/Cincinnati region. Numerous jets were sent up for intercept over a wide 
+region, but cloud cover prevented Stringfield from seeing what was happening, though 
+he could hear the jets overhead.
 
-To his surprise, the Air Force cleared his reporting of the incident in his newsletter. But when he tried to interest the local Cincinnati newspapers, the story was officially denied, as was his connection with the ADC.
+To his surprise, the Air Force cleared his reporting of the incident in his newsletter. 
+But when he tried to interest the local Cincinnati newspapers, the story was officially 
+denied, as was his connection with the ADC.
 
-Despite the official public denial of his work for the ADC, Stringfield wrote that he received a letter in 1956, thanking him for his assistance from no less than Major General John A. Samford, director of Air Force Intelligence. He also received a letter in 1955 from Captain Edward J. Ruppelt, who had been director of the Air Force's public UFO investigation Project Blue Book from 1951-1953. Ruppelt was requesting information on CRIFO for the book he was writing at the time (The Report on Unidentified Flying Objects), and praised the report-collecting net Stringfield had established.
+Despite the official public denial of his work for the ADC, Stringfield wrote that 
+he received a letter in 1956, thanking him for his assistance from no less than Major 
+General John A. Samford, director of Air Force Intelligence. He also received a letter 
+in 1955 from Captain Edward J. Ruppelt, who had been director of the Air Force's public 
+UFO investigation Project Blue Book from 1951-1953. Ruppelt was requesting information 
+on CRIFO for the book he was writing at the time (The Report on Unidentified Flying 
+Objects), and praised the report-collecting net Stringfield had established.
 
-Stringfield said he continued his "cooperation" with the Air Force through 1956 until the GOC was disbanded and his screening duties for them ceased. Stringfield's relationship with the ADC during this period is recounted in his 1957 book, Inside Saucer Post, 3-0 Blue and in his 1977 book, Situation Red.
+Stringfield said he continued his "cooperation" with the Air Force through 1956 until 
+the GOC was disbanded and his screening duties for them ceased. Stringfield's relationship 
+with the ADC during this period is recounted in his 1957 book, Inside Saucer Post, 3-0 Blue 
+and in his 1977 book, Situation Red.
 
-In 1957, Stringfield discontinued CRIFO and his monthly newsletter. The same year, he became public relations adviser for the newly formed civilian UFO group NICAP under the direction of Donald Keyhoe, a friend of his since 1953. He held the post until 1972, at which point he continued his private UFO research.
+In 1957, Stringfield discontinued CRIFO and his monthly newsletter. The same year, he became 
+public relations adviser for the newly formed civilian UFO group NICAP under the direction 
+of Donald Keyhoe, a friend of his since 1953. He held the post until 1972, at which point 
+he continued his private UFO research.
 
-For over 30 years, Stringfield served in several of the major UFO Organizations in a public relations capacity. From 1957 to 1970, he was public relations adviser with the National Investigations Committee on Aerial Phenomena. Later on, he was director of public relations and board member of the Mutual UFO Network. He was also regional investigator for the Center for UFO Studies directed by Dr. J. Allen Hynek.
+For over 30 years, Stringfield served in several of the major UFO Organizations in a public 
+relations capacity. From 1957 to 1970, he was public relations adviser with the National 
+Investigations Committee on Aerial Phenomena. Later on, he was director of public relations 
+and board member of the Mutual UFO Network. He was also regional investigator for the Center 
+for UFO Studies directed by Dr. J. Allen Hynek.
 
-From 1967-1969, Stringfield served as an "Early Warning Coordinator" for the so-called Condon Committee, the government sponsored scientific UFO investigation. His job, like his earlier one for the ADC, was to screen and report all UFO activity in southwestern Ohio.
+From 1967-1969, Stringfield served as an "Early Warning Coordinator" for the so-called 
+Condon Committee, the government sponsored scientific UFO investigation. His job, like 
+his earlier one for the ADC, was to screen and report all UFO activity in southwestern 
+Ohio.
 
-It was during the 1970s that Stringfield began collecting witness accounts of UFO crash recoveries, including alien bodies. Many of these stories centered around activities at nearby Wright-Patterson AFB in Dayton, Ohio.
+It was during the 1970s that Stringfield began collecting witness accounts of UFO crash 
+recoveries, including alien bodies. Many of these stories centered around activities at 
+nearby Wright-Patterson AFB in Dayton, Ohio.
 
-Also, when Grenada Prime Minister Sir Eric Gairy proposed the establishment of a UFO research agency within the United Nations in 1978, during the 32nd General Assembly of the UN, Stringfield served as his adviser.
+Also, when Grenada Prime Minister Sir Eric Gairy proposed the establishment of a UFO 
+research agency within the United Nations in 1978, during the 32nd General Assembly 
+of the UN, Stringfield served as his adviser.
 
-Stringfield retired in 1981 as Director of Public Relations and Marketing Services for DuBois Chemicals, a division of Chemed Corp, after 31 years service with the company.
+Stringfield retired in 1981 as Director of Public Relations and Marketing Services 
+for DuBois Chemicals, a division of Chemed Corp, after 31 years service with the company.
 
-Stringfield first publicly reported his so-called "crash/retrieval" findings at a 1978 MUFON Symposium. He said he received two death threats beforehand, but was never sure who was behind them or how serious they were. Thereafter, he self-published seven "Status Reports" on new crash-retrieval research until his death in 1994.
+Stringfield first publicly reported his so-called "crash/retrieval" findings at a 
+1978 MUFON Symposium. He said he received two death threats beforehand, but was never 
+sure who was behind them or how serious they were. Thereafter, he self-published seven 
+"Status Reports" on new crash-retrieval research until his death in 1994.
 
 <h4>Noted crash/retrieval cases</h4>
 
@@ -1579,31 +1665,26 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ rest of cast ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Rest of cast listed alphabetically:</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ richard campbell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Richard Campbell</h4>
 
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ major desmond morton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Major Desmond Morton</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ andrew von urtz ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Andrew von Urtz</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alien ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~--><li>Alien</li>
-</ul>
+<h4>Alien</h4>
 
 <p align="center" width="100%">
 <img src="./images/roswell_alien-probably_another.webp"
@@ -1613,7 +1694,6 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ credits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="credits">Writing Credits (in alphabetical order)</h2>
 
   - James Carman	Cast (in credits order)
@@ -1622,92 +1702,80 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ tristan layton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Tristan Layton	...	Self - Narrator (voice)
+<h4>Tristan Layton	...	Self - Narrator (voice)</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ richard dolan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Richard Dolan	...	Self - Author, UFOs & The National Security State
+<h4>Richard Dolan	...	Self - Author, UFOs & The National Security State</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ whitley strieber ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Whitley Strieber	...	Self - Author, Communion
+<h4>Whitley Strieber	...	Self - Author, Communion</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ robert dean ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major
+<h4>Robert Dean	...	Self - Retired U.S. Army Command Sergeant Major</h4>
 
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paola harris ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Paola Harris	...	Self - Author, Connecting the Dots
+<h4>Paola Harris	...	Self - Author, Connecting the Dots</h4>
 
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ joni strother ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Joni Strother	...	Self - Abductee
+<h4>Joni Strother	...	Self - Abductee</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ roger leir ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Roger Leir	...	Self - Author, The Aliens and the Scalpel
+<h4>Roger Leir	...	Self - Author, The Aliens and the Scalpel</h4>
 
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim sparks ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Jim Sparks	...	Self - Author, The Keepers
+<h4>Jim Sparks	...	Self - Author, The Keepers</h4>
 
 
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ niara isley ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Niara Isley	...	Self - Abductee
+<h4>Niara Isley	...	Self - Abductee</h4>
 
 ...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ lyn buchanan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Lyn Buchanan	...	Self - Director, The PSI Institute
+<h4>Lyn Buchanan	...	Self - Director, The PSI Institute</h4>
 
 ...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nassim haramein ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Nassim Haramein		...	Self - Director, The Resonance Project Foundation
+<h4>Nassim Haramein		...	Self - Director, The Resonance Project Foundation</h4>
 
 ...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david jacobs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-David Jacobs	...	Self - Historian & Hypnotherapist
+<h4>David Jacobs	...	Self - Historian & Hypnotherapist</h4>
 
 ...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nick pope ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Nick Pope	...	Self - Former Head of the British Government's UFO Project
+<h4>Nick Pope	...	Self - Former Head of the British Government's UFO Project</h4>
  
   - Retired Ministry of Defence, UK.
   - UFO expert.
@@ -1733,8 +1801,8 @@ More details about Nick Pope and his work can be found at his website.
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ milton torres ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Milton Torres	...	Self - Former USAF Fighter Pilot
+<h4>Milton Torres	...	Self - Former USAF Fighter Pilot</h4>
+
 https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 
 ...
@@ -1742,8 +1810,7 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ edgar d. mitchell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Edgar D. Mitchell	...	Self - Former Astronaut
+<h4>Edgar D. Mitchell	...	Self - Former Astronaut</h4>
   http://www.openminds.tv/spacingout
   
   
@@ -1751,115 +1818,104 @@ Edgar D. Mitchell	...	Self - Former Astronaut
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james penniston ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-James Penniston	...	Self - Sergeant USAF Retired
+<h4>James Penniston	...	Self - Sergeant USAF Retired</h4>
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david icke ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-David Icke	...	Self - Author, The Biggest Secret
+<h4>David Icke	...	Self - Author, The Biggest Secret</h4>
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jaime maussan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Jaime Maussan	...	Self - TV Producer
+<h4>Jaime Maussan	...	Self - TV Producer</h4>
+
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ john b. alexander ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-John B. Alexander	...	Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)
+<h4>John B. Alexander	...	Self - Non-Lethal Weapons Specialist (as Col. John B. Alexander)</h4>
+
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ paul hellyer ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Paul Hellyer	...	Self - Former Canadian Defense Secretary
+<h4>Paul Hellyer	...	Self - Former Canadian Defense Secretary</h4>
+
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ charles hall ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Charles Hall	...	Self - Retired US Army Duty Weather Observer
+<h4>Charles Hall	...	Self - Retired US Army Duty Weather Observer</h4>
+
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david huggins ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-David Huggins	...	Self - Painter & Experiencer
+<h4>David Huggins	...	Self - Painter & Experiencer</h4>
+
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ clifford stone ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Clifford E. Stone	...	Self - Retired US Army Sergeant
+<h4>Clifford E. Stone	...	Self - Retired US Army Sergeant</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ derrel w sims ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Derrel W. Sims	...	Self - Private Investigator
+<h4>Derrel W. Sims	...	Self - Private Investigator</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james gilliland ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-James Gilliland	...	Self - Director, ECETI
+<h4>James Gilliland	...	Self - Director, ECETI</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ philip j. corso ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Philip J. Corso	...	Self - Chief of Pentagon Foreign Technology Desk (archive footage)
+<h4>Philip J. Corso	...	Self - Chief of Pentagon Foreign Technology Desk (archive footage)</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gordon novel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Gordon Novel	...	Self - Former CIA Operative
+<h4>Gordon Novel	...	Self - Former CIA Operative</h4>
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jim marrs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Jim Marrs...	Self - Author, Alien Agenda
+<h4>Jim Marrs...	Self - Author, Alien Agenda</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ linda moulton howe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Linda Moulton Howe...	Self - TV Producer
+<h4>Linda Moulton Howe...	Self - TV Producer</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ marc brinkerhoff ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Marc Brinkerhoff...	Self - Contactee & Artist
+<h4>Marc Brinkerhoff...	Self - Contactee & Artist</h4>
+
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jeremy vaeni ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Jeremy Vaeni...	Self - Experiencer & Writer
+<h4>Jeremy Vaeni...	Self - Experiencer & Writer</h4>
+
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ harold egeln ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Harold Egeln...	Self - Experiencer & Journalist
+<h4>Harold Egeln...	Self - Experiencer & Journalist</h4>
+
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ stephen bassett ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  - Stephen Bassett	...	Self - Director, Paradigm Research Group
+<h4>Stephen Bassett	...	Self - Director, Paradigm Research Group</h4>
   
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ rest of cast ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Rest of cast listed alphabetically:</h4>
   - Richard Campbell...	Major Desmond Morton
   - Andrew von Urtz	...	Alien
@@ -1908,15 +1964,14 @@ James Gilliland	...	Self - Director, ECETI
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ and the rest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-UFO Sightings by Astronauts
+<h4>UFO Sightings by Astronauts</h4>
+
 with
 Major Gordon Cooper
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ major gordon cooper ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Major Gordon Cooper</h4>
 
 <p>One of the original Mercury Astronauts and the last American to fly in space alone.</p>
@@ -1962,7 +2017,6 @@ confiscated Camera", and "No Mercury UFO"</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ donald slayton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Donald Slayton</h4>
 
 <p>Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object was a kite, then I realized that no kite is gonna fly that high." As I got closer it looked like a weather balloon, grey and about three feet in diameter. But as soon as I got behind the darn thing it didn't look like a balloon anymore. It looked like a saucer, a disk. About the same time, I realized that it was suddenly going away from me - and there I was, running at about 300 miles per hour. I tracked it for a little way, and then all of a sudden the damn thing just took off. It pulled about a 45 degree climbing turn and accelerated and just flat disappeared."</p>
@@ -1970,7 +2024,6 @@ confiscated Camera", and "No Mercury UFO"</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ robert white ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Robert White</h4>
 
 <p>On July 17, 1962 Major Robert White reported a UFO during his fifty-eight-mile 
@@ -1982,7 +2035,6 @@ Then according to a Time Magazine article, Major White exclaimed over the radio:
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ joseph a walker ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Joseph A. Walker</h4>
 
 <p>On May 11, 1962 NASA pilot Joseph Walker said that one of his tasks was to detect 
@@ -1993,10 +2045,8 @@ Space Research in Seattle, Washigton he said: "I don't feel like speculating abo
 them. All I know is what appeared on the film which was developed after the flight."</p>
 <cite>- Joseph Walker.</cite>
 <p>To date none of those films has been released to the public for viewing.</p>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ eugene cernan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Eugene Cernan</h4>
 
 <p>Eugene Cernan was commander of Apollo 17. In a Los Angeles Times article in 1973 
@@ -2006,7 +2056,6 @@ they (UFOs) were somebody else, some other civilization."</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ ed white & james mcdivitt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Ed White & James McDivitt</h4>
 
 <p>In June 1965, astronauts Ed White (first American to walk in space) and James 
@@ -2019,7 +2068,6 @@ camera.</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james lovell and frank borman ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>James Lovell and Frank Borman</h4>
 
 <p>In December 1965, Gemini astronauts James Lovell and Frank Borman also saw a UFO 
@@ -2049,7 +2097,6 @@ Lovell: WE ALSO HAVE THE BOOSTER IN SIGHT...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~ neil armstrong & edwin aldrin ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Neil Armstrong & Edwin Aldrin</h4>
 
 <p>
@@ -2112,7 +2159,6 @@ beyond admitting that the CIA was behind the cover-up.</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ maurice chatelain ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Maurice Chatelain</h4>
 
 <p>In 1979 Maurice Chatelain, former chief of NASA Communications Systems confirmed 
@@ -2149,7 +2195,6 @@ of the astronauts actually witnessed a UFO on the ground.<br>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ scott carpenter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Scott Carpenter</h4>
  
 <p>"At no time, when the astronauts were in space were they alone: there was a constant 
@@ -2158,7 +2203,6 @@ surveillance by UFOs."</p>
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ don schmitt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Don Schmitt</h4>
 
 <p>Don Schmitt is the former co-director of the J. Allen Hynek Center for UFO Studies, 
