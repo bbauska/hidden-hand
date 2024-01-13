@@ -193,7 +193,12 @@ Les Misérables (1862).
 </p>
 
 <h3>Career</h3
-<p></p>Police officer at U.S. Capitol, c. 1961-63; city attorney, Henderson, NV, 1964-66; Nevada state assemblyman, 1969-1970; Nevada lieutenant governor, 1970-74; ran for U.S. Senate but lost, 1974; chairman of the Nevada Gaming Commission, 1977-81; attorney in private practice, 1981-83; congressman, 1983-87; U.S. senator, 1987—; Senate Democratic Whip, 1998-2004; Senate Majority Leader, 2005—2015.  And Senate Minority Leader until 2017.
+<p></p>Police officer at U.S. Capitol, c. 1961-63; city attorney, Henderson, NV, 
+1964-66; Nevada state assemblyman, 1969-1970; Nevada lieutenant governor, 1970-74; 
+ran for U.S. Senate but lost, 1974; chairman of the Nevada Gaming Commission, 1977-81; 
+attorney in private practice, 1981-83; congressman, 1983-87; U.S. senator, 1987—; 
+Senate Democratic Whip, 1998-2004; Senate Majority Leader, 2005—2015.  And Senate 
+Minority Leader until 2017.
 
 
 I love supporting the **[EFF](https://eff.org)**.
@@ -1630,7 +1635,8 @@ sure who was behind them or how serious they were. Thereafter, he self-published
 
 <h4>Newsletter</h4>
 
->"Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian > Research Interplanetary Flying Objects (C.R.I.F.O.)
+>"Inside Saucer Post, 3-0 Blue" (1957), describing his activities as Director of Civilian 
+> Research Interplanetary Flying Objects (C.R.I.F.O.)
 
 
 <h4>Book</h4>
@@ -1780,9 +1786,13 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
   - Retired Ministry of Defence, UK.
   - UFO expert.
 
-Author, journalist and TV personality Nick Pope used to investigate UFOs and other mysteries for the British government, and is the world's leading expert on UFOs, the unexplained and conspiracy theories. He has presented, contributed to, and consulted on numerous TV shows on these subjects.
+Author, journalist and TV personality Nick Pope used to investigate UFOs and other 
+mysteries for the British government, and is the world's leading expert on UFOs, 
+the unexplained and conspiracy theories. He has presented, contributed to, and 
+consulted on numerous TV shows on these subjects.
 
-Nick Pope has written two science fictions novels and is a leading commentator on the sci-fi genre.
+Nick Pope has written two science fictions novels and is a leading commentator 
+on the sci-fi genre.
 
 Nick Pope now lives and works in the US.
 
@@ -2019,7 +2029,16 @@ confiscated Camera", and "No Mercury UFO"</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ donald slayton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Donald Slayton</h4>
 
-<p>Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object was a kite, then I realized that no kite is gonna fly that high." As I got closer it looked like a weather balloon, grey and about three feet in diameter. But as soon as I got behind the darn thing it didn't look like a balloon anymore. It looked like a saucer, a disk. About the same time, I realized that it was suddenly going away from me - and there I was, running at about 300 miles per hour. I tracked it for a little way, and then all of a sudden the damn thing just took off. It pulled about a 45 degree climbing turn and accelerated and just flat disappeared."</p>
+<p>Donald Slayton, a Mercury astronaut, revealed in an interview he had seen UFOs 
+in 1951: "I was testing a P-51 fighter in Minneapolis when I spotted this object. 
+I was at about 10,000 feet on a nice, bright, sunny afternoon. I thought the object 
+was a kite, then I realized that no kite is gonna fly that high." As I got closer 
+it looked like a weather balloon, grey and about three feet in diameter. But as soon 
+as I got behind the darn thing it didn't look like a balloon anymore. It looked like 
+a saucer, a disk. About the same time, I realized that it was suddenly going away 
+from me - and there I was, running at about 300 miles per hour. I tracked it for 
+a little way, and then all of a sudden the damn thing just took off. It pulled 
+about a 45 degree climbing turn and accelerated and just flat disappeared."</p>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2123,7 +2142,8 @@ I'm telling you there are other spacecraft out there,
 Lined up on the far side of the crater edge!
 They're on the Moon watching us!
 
-A certain professor, who wished to remain anonymous, was engaged in a discussion with Neil Armstrong during a NASA symposium.
+A certain professor, who wished to remain anonymous, was engaged in a discussion 
+with Neil Armstrong during a NASA symposium.
 
 Professor: What REALLY happened out there with Apollo 11?
 
