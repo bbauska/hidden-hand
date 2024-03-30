@@ -24,7 +24,8 @@ than are dreamt of in your philosophy.
 <p align="center" width="100%">
   <img src="https://user-images.githubusercontent.com/41387907/137833610-61ea1c5a-3db4-43fd-b8e1-bf2d87fbd72b.jpg"
   width="650" height="500"
-  alt="Autopsy photo" />
+  title="Autopsy photo"
+  alt="Autopsy photo." />
 </p>
 
 &nbsp;
@@ -77,6 +78,7 @@ of UFOs is suddenly brought to light.
 <p align="center" width="100%">
   <img src="./images/Albert_Einstein.webp"
   style="width:50%;"
+  title="Albert Einstein"
   alt="Albert Einstein." />
 </p>
   <q cite="https://www.relicsworld.com/albert-einstein/when-you-are-courting-a-nice-girl-an-hour-seems-like-a-author-albert-einstein">You never fail until you stop trying.
@@ -164,8 +166,9 @@ and that were unknown to science.</p>
 
 <p align="center" width="100%">
 <img style="width:35%"
-   src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
-   alt="Victor Hugo Nadar."</>
+  src="https://user-images.githubusercontent.com/41387907/137834474-7baf4cec-9226-49f9-ac8a-d13aa1bfe106.jpg"
+  title="Victor Hugo Nadar"
+  alt="Victor Hugo Nadar." />
 </p>
 
 <blockquote>
@@ -189,7 +192,8 @@ Les Misérables (1862).
 
 <p align="center" width="100%">
   <img style="width:50%" src="./images/harry_reid_2022.webp"
-  alt="Harry Reid 2021, died Dec, 2021" />
+  title="Harry Reid 2021, died Dec, 2021"
+  alt="Harry Reid 2021, died Dec, 2021." />
 </p>
 
 <h3>Career</h3
@@ -216,7 +220,8 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 
 <img class="defined"
   style="width:50%" src="./images/Chuck_Weiss-book_cover.webp"
-  alt="Chuck Weiss" </>
+  title="Chuck Weiss"
+  alt="Chuck Weiss." />
 
 <p>How I Learned to Cope with High Strangeness, Government Harrassment, and My Mother (a True Story)</p>
 
@@ -238,7 +243,8 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
 <p align="center" width="100%">
 <img src="./images/Richard_Dolan-Biography.webp"
   style="width:50%"
-  alt="Richard Dolan Biography" />
+  title="Richard Dolan Biography"
+  alt="Richard Dolan Biography." />
 </p>
 
 <p>
@@ -276,16 +282,18 @@ and subsequent "closing of the door" during the Nixon administration.
 
 <p align="center" width="100%">
 <img src="./images/Whitley_Strieber.webp"
-    style="width:35%"
-    alt="Whitley Streiber." />
+  style="width:35%"
+  title="Whitley Streiber"
+  alt="Whitley Streiber." />
 </p>
 
 [Whitley Strieber and CIA intelligence officer](https://www.unknowncountry.com/dreamland/an-intelligence-officer-with-a-stunning-story-to-tell/ 'Whitley Strieber Web Site')
 
 <p align="center" width="100%">
 <img src="/images/Whitley_Strieber-communion.webp?raw=true"
-   alt="Whitley Strieber"
-   style="width:35%" />
+  title="Whitley Strieber"
+  alt="Whitley Strieber."
+  style="width:35%" />
 </p>
 
 <div align="right">
@@ -301,8 +309,9 @@ and subsequent "closing of the door" during the Nixon administration.
 
 <p align="center" width="100%">
 <img src="./images/Robert_Dean_then_now.webp"
-   alt="Robert Dean."
-   style="width:50%" />
+  title="Robert Dean"
+  alt="Robert Dean."
+  style="width:50%" />
 </p>
 
 <div align="right">
@@ -324,8 +333,9 @@ stationed at Supreme Headquarters Allied Powers Europe (SHAPE), the military arm
 
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/41387907/138942240-f945bb6f-aa6b-4059-ab40-49961b052362.png"
-   alt="Stanton Friedman."
-   style="width:35%" />
+  title="Stanton Friedman"
+  alt="Stanton Friedman."
+  style="width:35%" />
 </p>
 
 <h4>THE UFO CHALLENGE</h4>
@@ -448,8 +458,9 @@ Stanton Friedman
 
 <p align="center" width="100%">
 <img src="./images/Paola_Harris.webp"
-   alt="Paola Harris"
-   style="width:35%" />
+  title="Paola Harris"
+  alt="Paola Harris"
+  style="width:35%" />
 </p>
 
 Italian investigative journalist Paola Leopizzi Harris and French-born information 
@@ -487,8 +498,9 @@ View this “Beyond Belief” episode: HELP FUND PAOLA’S FIELD RESEARCH!
 
 <p align="center" width="100%">
 <img src="./images/joni_strother.webp"
-   alt="Joni Strother."
-   style="width:50%" />
+  title="Joni Strother"
+  alt="Joni Strother."
+  style="width:50%" />
 </p>
 
 Abductee Joni Strother described her traumatic encounters with the aliens, whom 
@@ -511,8 +523,9 @@ cook.
 
 <p align="center" width="100%">
 <img src="./images/Roger_Leir.webp"
-   alt="Roger Leir"
-   style="width:50%" />
+  title="Roger Leir"
+  alt="Roger Leir"
+  style="width:50%" />
 </p>
 <!-- https://user-images.githubusercontent.com/41387907/140461982-e6ae97f6-b8fa-44bb-a1b9-ad86d7601e92.png" -->
 
@@ -536,8 +549,9 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 
 <p align="center" width="100%">
 <img src="./images/Jim_Sparks.webp"
-   alt="Jim Sparks"
-   style="width:35%" />
+  title="Jim Sparks"
+  alt="Jim Sparks"
+  style="width:35%" />
 </p>
 
 <div align="right">
@@ -552,6 +566,7 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 
 <p align="center" width="100%">
 <img src="./images/niara_isley_2020.webp"
+  title="Niara Isley"
   alt="Niara Isley"
   style="width:35%" />
 </p>
@@ -571,6 +586,7 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 
 <p align="center" width="100%">
 <img src="./images/Lyn_Buchanan.webp"
+  title="Lyn Buchanan"
   alt="Lyn Buchanan."
   style="width:35%" />
 </p>
@@ -588,6 +604,7 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 
 <p align="center" width="100%">
 <img src="./images/Nassim_Haramein.webp"
+  title="Nassim Haramein"
   alt="Nassim Haramein."
   style="width:35%" />
 </p>
@@ -608,6 +625,7 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 <p align="center" width="100%">
   <img src="./images/David_Jacobs.webp"
   style="width:35%"
+  title="David Jacobs"
   alt="David Jacobs." />
 </p>
 
@@ -624,8 +642,9 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 
 <p align="center" width="100%">
 <img src="./images/Nick_Pope.webp"
-   alt="Nick Pope."
-   style="width:35%" />
+  title="Nick Pope"
+  alt="Nick Pope."
+  style="width:35%" />
 </p>
 
 <div align="right">
@@ -642,8 +661,9 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 
 <p align="center" width="100%">
 <img src="./images/milton_torres_1957.webp"
-   alt="Milton Torres."
-   Style="width:50%" />
+  title="Milton Torres"
+  alt="Milton Torres."
+  Style="width:50%" />
 </p>
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -659,6 +679,7 @@ and the Scalpel,  UFO Crash in Brazil, and Casebook Alien Implants.
 
 <p align="center" width="100%">
 <img src="./images/Dr_Mitchell_6th_Man_on_the_Moon.webp"
+  title="Dr. Edgar Mitchell"
   alt="Dr. Edgar Mitchell"
   style="width:65%" />
 </p>
@@ -679,8 +700,9 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 
 <p align="center" width="100%">
 <img src="./images/tsgt_james_penniston.webp"
-   alt="James Penniston."
-   style="width:50%" />
+  title="James Penniston"
+  alt="James Penniston."
+  style="width:50%" />
 </p>
 
 <div align="right">
@@ -697,8 +719,9 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 
 <p align="center" width="100%">
 <img src="./images/david_icke.webp"
-   alt="David Icke"
-   style="width:50%" />
+  title="David Icke"
+  alt="David Icke"
+  style="width:50%" />
 </p>
 
 <div align="right">
@@ -716,6 +739,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/james_maussan.webp"
   style="width:45%"
+  title="James Maussan"
   alt="James Maussan." />
 </p>
 
@@ -734,6 +758,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/corso_and_alien.webp"
   style="width:45%"
+  title="John Alexander"
   alt="John Alexander." />
 </p>
 
@@ -752,6 +777,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/paul_hellyer_minister_of_defense_canada.webp"
   style="width:45%"
+  title="Paul Hellyer"
   alt="Paul Hellyer." />
 </p>
 
@@ -770,6 +796,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/charles_hall.webp"
   style="width:45%"
+  title="Charles Hall"
   alt="Charles Hall." />
 </p>
 
@@ -788,6 +815,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/david_huggins.webp"
   style="width:45%"
+  title="David Huggins"
   alt="David Huggins." />
 </p>
 
@@ -806,6 +834,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/clifford_stone.webp"
   style="width:45%"
+  title="Clifford Stone"
   alt="Clifford Stone." />
 </p>
 
@@ -824,7 +853,8 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/darrel_sims.webp"
   style="width:45%"
-  alt="Darrel W Sims" />
+  title="Darrel W Sims"
+  alt="Darrel W Sims." />
 </p>
 
 <div align="right">
@@ -842,6 +872,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/james_gilliland-eceti_and_trout_lake_washington.webp"
   style="width:45%"
+  title="James Gilliland at Trout Lake, WA"
   alt="James Gilliland at Trout Lake, WA." />
 </p>
 
@@ -859,8 +890,9 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 
 <p align="center" width="100%">
 <img src="./images/budd_hopkins.webp"
-   alt="Budd Hopkins."
-   style="width:75%" />
+  title="Budd Hopkins"
+  alt="Budd Hopkins."
+  style="width:75%" />
 </p>
 
 <div align="right">
@@ -874,6 +906,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/1947-roswell-autopsy.webp"
   style="width:650;height:500"
+  title="Autopsy photo"
   alt="Autopsy photo." />
 </p>
 
@@ -884,6 +917,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 <p align="center" width="100%">
   <img src="./images/20000700-ufo-magazine-03-01-01.webp"
   style="width:45%"
+  title="Phillip Corso"
   alt="Phillip Corso." />
 </p>
 
@@ -967,8 +1001,9 @@ is something to behold and we wish him every success in his quest.
 
 <p align="center" width="100%">
 <img src="./images/jim_marrs.webp"
-   alt="Jim Marrs"
-   style="width:50%" />
+  title="Jim Marrs"
+  alt="Jim Marrs."
+  style="width:50%" />
 </p>
 
 <div align="right">
@@ -985,11 +1020,13 @@ is something to behold and we wish him every success in his quest.
 
 <p align="center" width="100%">
 <img src="./images/linda_moulton_howe.webp"
-   alt="Linda Howe."
-   style="width:250" />
+  title="Linda Howe"
+  alt="Linda Howe."
+  style="width:250" />
 <img src="./images/linda_howe.webp"
-   alt="Linda Howe."
-   style="width:250" />
+  title="Linda Howe"
+  alt="Linda Howe."
+  style="width:250" />
 </p>
 
 <div align="right">
@@ -1006,8 +1043,9 @@ is something to behold and we wish him every success in his quest.
 
 <p align="center" width="100%">
 <img src="./images/Dan_Burisch.webp"
-   alt="Dan Burisch."
-   style="width:35%" />
+  title="Dan Burisch"
+  alt="Dan Burisch."
+  style="width:35%" />
 </p>
 
 <h5>Introduction</h5>
@@ -1072,6 +1110,7 @@ as he eventually came to call them.
 <p align="center" width="100%">
 <img src="./images/Graham_Hancock_facebook.webp"
   style="width:50%"
+  title="Graham Hancock Facebook"
   alt="Graham Hancock Facebook." />
 </p>
 
@@ -1091,8 +1130,9 @@ https://grahamhancock.com/hazex1/
 
 <p align="center" width="100%">
 <img src="./images/melinda_leslie.webp"
-   alt="Melinda Leslie"
-   style="width:35%" />
+  title="Melinda Leslie"
+  alt="Melinda Leslie."
+  style="width:35%" />
 </p>
 
 <p>MELINDA LESLIE is a UFO abductee and has been public with her own extraterrestrial 
@@ -1115,8 +1155,9 @@ in 25 books by prominent authors in ufology.</p>
 
 <p align="center" width="100%">
 <img src="./images/jesse_long.webp"
-   alt="Jesse Long."
-   style="width:35%" />
+  title="Jesse Long"
+  alt="Jesse Long."
+  style="width:35%" />
 </p>
 
 https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-abduction-story/
@@ -1128,15 +1169,16 @@ https://alien-ufo-sightings.com/2019/09/jesse-long-describes-his-amazing-alien-a
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ yvonne smith ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ yvonne smith ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Yvonne Smith</h4>
 
   - Hypnotherapist
 
 <p align="center" width="100%">
 <img src="./images/yvonne_smith.webp"
-   alt="Yvonne Smith."
-   style="width:35%" />
+  title="Yvonne Smith"
+  alt="Yvonne Smith."
+  style="width:35%" />
 </p>
 Website(s):
 firethegrid.com
@@ -1175,8 +1217,9 @@ https://www.youtube.com/watch?v=vWWZxB4ofXc
 
 <p align="center" width="100%">
 <img src="./images/Marc-Brinkerhoff.jpg"
-   alt="Marc Brinkerhoff"
-   style="width:50%" />
+  title="Marc Brinkerhoff"
+  alt="Marc Brinkerhoff."
+  style="width:50%" />
 </p>
 
 https://www.youtube.com/watch?v=u0xxVydxhzc
@@ -1195,8 +1238,9 @@ https://www.youtube.com/watch?v=u0xxVydxhzc
 
 <p align="center" width="100%">
 <img src="./images/Shelley-Yates.jpg"
-   alt="Shelley Yates"
-   style="width:35%" />
+  title="Shelley Yates"
+  alt="Shelley Yates."
+  style="width:35%" />
 </p>
 
 <div align="right">
@@ -1215,8 +1259,9 @@ https://www.youtube.com/watch?v=u0xxVydxhzc
 <!--
 <p align="center" width="100%">
 <img src="./images/Julian_Michael.webp"
-   alt="Julian Michael"
-   style="width:50%" />
+  title="Julian Michael"
+  alt="Julian Michael."
+  style="width:50%" />
 </p>
 -->
 
@@ -1313,7 +1358,8 @@ https://www.youtube.com/watch?v=u0xxVydxhzc
 Stephen Bassett
 <p align="center" width="100%">
 <img src="https://user-images.githubusercontent.com/41387907/140463116-6170534f-ae83-4506-a093-00cf97874830.png"
-  alt="Shelley Yates"
+  title="Shelley Yates"
+  alt="Shelley Yates."
   style="width:50%" />
 </p>
 
@@ -1340,8 +1386,9 @@ presence.
 
 <p align="center" width="100%">
 <img src="./images/John_Lear_Las_Vegas_April_2008.webp"
-   alt="John Lear"
-   style="width:50%" />
+  title="John Lear"
+  alt="John Lear."
+  style="width:50%" />
 </p>
 
 INTRODUCTION:
@@ -1470,8 +1517,9 @@ Camelot diameter below the top edge of the image.
 
 <p align="center" width="100%">
 <img src="./images/hynek_and_jacque_vallee.webp"
-   alt="J Allen Hynek and Jacque Vallee"
-   style="width:50%" />
+  title="J Allen Hynek and Jacque Vallee"
+  alt="J Allen Hynek and Jacque Vallee."
+  style="width:50%" />
 </p>
 
 &nbsp;
@@ -1490,8 +1538,9 @@ Camelot diameter below the top edge of the image.
 
 <p align="center" width="100%">
 <img src="./images/leonard_stringfield_photo.webp"
-   alt="Leonard Stringfield"
-   style="width:50%" />
+  title="Leonard Stringfield"
+  alt="Leonard Stringfield."
+  style="width:50%" />
 </p>
 
 Leonard Stringfield (1920–1994) was an American ufologist who took particular interest 
@@ -1684,29 +1733,30 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ andrew von urtz ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ andrew von urtz ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Andrew von Urtz</h4>
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alien ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ alien ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Alien</h4>
 
 <p align="center" width="100%">
 <img src="./images/roswell_alien-probably_another.webp"
-   alt="Rowell Alien, probably another."
-   style="width:50%" />
+  title="Rowell Alien, probably another"
+  alt="Rowell Alien, probably another."
+  style="width:50%" />
 </p>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ credits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ credits ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3 id="credits">Writing Credits (in alphabetical order)</h2>
 
   - James Carman	Cast (in credits order)
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ tristan layton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ tristan layton ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Tristan Layton	...	Self - Narrator (voice)</h4>
 
@@ -1734,7 +1784,7 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ joni strother ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ joni strother ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Joni Strother	...	Self - Abductee</h4>
 
 <hr/>
@@ -1766,21 +1816,21 @@ Leonard Stringfield: *[Leonard Stringfield](wikipedia]http://en.wikipedia.org/wi
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nassim haramein ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nassim haramein ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Nassim Haramein		...	Self - Director, The Resonance Project Foundation</h4>
 
 ...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david jacobs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ david jacobs ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>David Jacobs	...	Self - Historian & Hypnotherapist</h4>
 
 ...
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nick pope ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ nick pope ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Nick Pope	...	Self - Former Head of the British Government's UFO Project</h4>
  
   - Retired Ministry of Defence, UK.
@@ -1798,12 +1848,6 @@ Nick Pope now lives and works in the US.
 
 More details about Nick Pope and his work can be found at his website.
 
-<p align="center" width="100%">
-<img src=""
-   alt=""
-   style="width:50%" />
-</p>
-
 &nbsp;
 
 ...
@@ -1819,7 +1863,7 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ edgar d. mitchell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ edgar d. mitchell ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Edgar D. Mitchell	...	Self - Former Astronaut</h4>
   http://www.openminds.tv/spacingout
   
@@ -1827,7 +1871,7 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james penniston ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ james penniston ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>James Penniston	...	Self - Sergeant USAF Retired</h4>
 ...
 <hr/>
@@ -1837,7 +1881,7 @@ https://www.creativespirits.net/milton-torres-1957-ufo-encounter/
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jaime maussan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ jaime maussan ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h4>Jaime Maussan	...	Self - TV Producer</h4>
 
 ...
