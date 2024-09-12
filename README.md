@@ -3,8 +3,7 @@ hidden-hand: "The Hidden Hand - Alien Contact and the Government Coverup"
 ---
 
 <!-- <h1 id="hidden-hand-toc">The Hidden Hand - Alien Contact and the Government Coverup</h1> -->
-
-## [The Hidden Hand - Alien Contact and the Government Coverup](#hidden-hand-toc)
+## [The Hidden Hand - Alien Contact and the Government Coverup](hidden-hand-toc)
 
 --James Carman (2008)
 
