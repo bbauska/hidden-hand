@@ -5,7 +5,7 @@ hidden-hand: "The Hidden Hand - Alien Contact and the Government Coverup"
 <!-- <h1 id="hidden-hand-toc">The Hidden Hand - Alien Contact and the Government Coverup</h1> -->
 <h2 id="#hidden-hand-toc">The Hidden Hand - Alien Contact and the Government Coverup</h2>
 
-## [The Hidden Hand - Alien Contact and the Government Coverup](#hidden-hand-toc)
+## [The Hidden Hand - Alien Contact and the Government Coverup](hidden-hand-toc)
 
 --James Carman (2008)
 
@@ -31,11 +31,9 @@ than are dreamt of in your philosophy.
 
 &nbsp;
 
-<p>
-Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, 
+<p>Long, long list of authors, abductees, officers, government whistle-blowers, experiencers, 
 directors, historians, pilots, astronauts, ufologists, microbiologist, experiencers, 
-researchers & contactees.
-</p>
+researchers & contactees.</p>
 
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
@@ -248,28 +246,22 @@ Read more: **[Harry Reid](https://www.notablebiographies.com/newsmakers2/2006-Ra
   alt="Richard Dolan Biography." />
 </p>
 
-<p>
-Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led 
+<p>Richard M. Dolan is a gifted historian whose study of U.S. Cold War strategy led 
 him to the broader context of increased security measures and secrecy since World 
 War II. One aspect of such government policies that has continued to hold the public's 
-imagination for over half a century is the question of unidentified flying objects.
-</p>
-<p>
-UFOs and the National Security State is the first volume of a two-part detailed 
+imagination for over half a century is the question of unidentified flying objects.</p>
+<p>UFOs and the National Security State is the first volume of a two-part detailed 
 chronological narrative of the national security dimensions of the UFO phenomenon 
 from 1941 to the present. Working from hundreds of declassified records and other 
 primary and secondary sources, Dolan centers his investigation on the American 
 military and intelligence communities, demonstrating that they take UFOs seriously 
-indeed.
-</p>
-<p>
-Included in this volume are the activities of more than fifty military bases relating 
+indeed.</p>
+<p>Included in this volume are the activities of more than fifty military bases relating 
 to UFOs, innumerable violations of sensitive airspace by unknown craft and analyses 
 of the Roswell controversy, the CIA-sponsored Robertson Panel, and the Condon Committee 
 Report. Dolan highlights the development of civilian anti-secrecy movements, which 
 flourished in the 1950s and 1960s until the adoption of an official government policy 
-and subsequent "closing of the door" during the Nixon administration.
-</p>
+and subsequent "closing of the door" during the Nixon administration.</p>
 <div align="right">
   <b><a href="#hidden-hand-toc">↥ Back To Top</a></b>
 </div>
