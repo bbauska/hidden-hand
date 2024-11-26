@@ -890,7 +890,7 @@ https://www.imdb.com/name/nm0593307/?ref_=tt_cl_i_16
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ philip j. corso ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ philip j. corso ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
   <img src="./images/1947-roswell-autopsy.webp"
   style="width:650;height:500"
@@ -952,10 +952,21 @@ were stolen from Russia.
 ...
 <hr/>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gordon novel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h4>Gordon Novel</h4>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ gordon novel ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h4>Gordon Novel - Old and Young</h4>
 
   - Self - Former CIA Operative
+  
+<p align="center" width="100%">
+<img src="./images/Gordon-Novel.jpg"
+  style="width:650;height:500"
+  title="Gordon Novel, Nazi-CIA"
+  alt="Gordon Novel,  Nazi-CIA." />
+<img src="./images/Gordon-Novel-Young-Man.jpg"
+  style="width:650;height:500"
+  title="Gordon Novel, Nazi-CIA"
+  alt="Gordon Novel,  Nazi-CIA." />
+</p>
 
 
 Gordon Novel is a fascinating man. Carried along on the train of history, Gordon 
@@ -1005,16 +1016,18 @@ is something to behold and we wish him every success in his quest.
 <h4>Linda Moulton Howe</h4>
 
   - Self - TV Producer
+  - UFO Investigator
+  - Cattle Mutilation Investigator
 
 <p align="center" width="100%">
 <img src="./images/linda_moulton_howe.webp"
   title="Linda Howe"
   alt="Linda Howe."
-  style="width:250" />
+  style="width:250px;" />
 <img src="./images/linda_howe.webp"
   title="Linda Howe"
   alt="Linda Howe."
-  style="width:250" />
+  style="width:250px;" />
 </p>
 
 <div align="right">
