@@ -962,7 +962,7 @@ were stolen from Russia.
   style="width:650;height:500"
   title="Gordon Novel, Nazi-CIA"
   alt="Gordon Novel,  Nazi-CIA." />
-<img src="./images/Gordon-Novel-Young-Man.jpg"
+<img src="./images/Gordon-Novel-Youngman.jpg"
   style="width:650;height:500"
   title="Gordon Novel, Nazi-CIA"
   alt="Gordon Novel,  Nazi-CIA." />
